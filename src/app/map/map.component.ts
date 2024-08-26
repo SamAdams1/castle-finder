@@ -2,25 +2,32 @@
 import { Component, OnInit } from '@angular/core';
 import * as L from 'leaflet';
 
-import data from '../../../getData/austria.json';
-
-const castlesData: { [key: string]: number[] } = data;
+import { NgFor } from '@angular/common';
+import { CastleService } from './castles.service';
 
 @Component({
   selector: 'app-map',
   standalone: true,
-  imports: [],
+  imports: [NgFor],
   templateUrl: './map.component.html',
   styleUrls: ['./map.component.css'],
 })
 export class MapComponent implements OnInit {
-  ngOnInit(): void {
-    this.configMap();
+  map: any;
+  numCastles = 0;
+  castlesData;
+
+  constructor(service: CastleService) {
+    this.castlesData = service.getCastles();
   }
 
-  map: any;
-  // 48.249567, 15.704609
-  configMap() {
+  ngOnInit(): void {
+    this.configureMap();
+    this.addMarkers();
+    console.log(this.numCastles);
+  }
+
+  configureMap() {
     this.map = L.map('map', {
       center: [47.5162, 13.5501], // austria center
       zoom: 7,
@@ -30,14 +37,17 @@ export class MapComponent implements OnInit {
       attribution:
         '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     }).addTo(this.map);
+  }
 
+  addMarkers() {
     // add markers with popup to map
     const iconSize = 15;
-    Object.keys(castlesData).forEach((key) => {
+    Object.keys(this.castlesData).forEach((key) => {
       const castleName = key.split(',')[0].replace(' ', '_');
-      const coords = castlesData[key] as L.LatLngTuple;
+      const coords = this.castlesData[key] as L.LatLngTuple;
       const mapLink = 'https://www.google.com/maps?q=' + castleName;
       const wikiLink = 'https://de.wikipedia.org/wiki/' + castleName;
+      this.numCastles += 1;
 
       L.marker(coords, {
         icon: new L.Icon({
@@ -53,5 +63,9 @@ export class MapComponent implements OnInit {
         </div>
         `);
     });
+  }
+
+  getCastleKeys(): string[] {
+    return Object.keys(this.castlesData);
   }
 }
