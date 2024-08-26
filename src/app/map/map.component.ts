@@ -18,7 +18,7 @@ export class MapComponent implements OnInit {
   castlesData;
 
   constructor(service: CastleService) {
-    this.castlesData = service.getCastles();
+    this.castlesData = service.getCastlesData();
   }
 
   ngOnInit(): void {
