@@ -10,9 +10,17 @@ import { NgFor } from '@angular/common';
   styleUrl: './list.component.css',
 })
 export class ListComponent {
+  castlesData;
   castlesKeys;
 
   constructor(service: CastleService) {
-    this.castlesKeys = service.getCastlesKeys();
+    this.castlesData = service.getCastlesData();
+
+    this.castlesKeys = Object.keys(this.castlesData);
+  }
+
+  copyLatLon(latLon: number[]) {
+    console.log(latLon);
+    navigator.clipboard.writeText(`${latLon}`);
   }
 }

@@ -1,6 +1,13 @@
-<nav>
-  <h1>Header</h1>
-  <a routerLink="/" style="margin-right: 2em"><button>Map</button></a>
-  <a routerLink="/list"><button>List</button></a>
+<nav class="navbar bg-primary a" data-bs-theme="dark">
+  <ul class="nav nav-pills">
+    <li class="nav-item">
+      <a class="nav-link active" aria-current="page" routerLink="/">Map</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link active" routerLink="/list">List</a>
+    </li>
+  </ul>
 </nav>
-<router-outlet />
+<div style="background-color: gray">
+  <router-outlet />
+</div>

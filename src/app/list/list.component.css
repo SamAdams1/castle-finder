@@ -1,0 +1,21 @@
+.belowHeader {
+  position: fixed;
+  margin-top: 3.5em;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: -1;
+  background: gray;
+
+  overflow-x: auto;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.card {
+  width: 20em;
+  flex: 1 1 0%;
+}
