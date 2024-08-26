@@ -16,14 +16,13 @@ const castlesData: { [key: string]: number[] } = data;
 export class MapComponent implements OnInit {
   ngOnInit(): void {
     this.configMap();
-    this.printlatLon();
   }
 
   map: any;
-
+  // 48.249567, 15.704609
   configMap() {
     this.map = L.map('map', {
-      center: [47.5162, 14.5501],
+      center: [47.5162, 13.5501], // austria center
       zoom: 7,
     });
     // adds tiles to map
@@ -32,24 +31,27 @@ export class MapComponent implements OnInit {
         '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     }).addTo(this.map);
 
-    // add markers to map
+    // add markers with popup to map
     const iconSize = 15;
     Object.keys(castlesData).forEach((key) => {
+      const castleName = key.split(',')[0].replace(' ', '_');
       const coords = castlesData[key] as L.LatLngTuple;
-      // console.log(coords);
+      const mapLink = 'https://www.google.com/maps?q=' + castleName;
+      const wikiLink = 'https://de.wikipedia.org/wiki/' + castleName;
+
       L.marker(coords, {
         icon: new L.Icon({
           iconUrl: '/red-dot.png',
           iconSize: [iconSize, iconSize],
           iconAnchor: [iconSize / 2, iconSize / 2],
         }),
-      })
-        .addTo(this.map)
-        .bindPopup(`<h1>${key}</h1>`);
+      }).addTo(this.map).bindPopup(`
+        <div>
+          <h1>${key}</h1>
+          <a href="${mapLink}" target="_blank">MapLink</a>
+          <a href="${wikiLink}" target="_blank">wikiLink</a>
+        </div>
+        `);
     });
-  }
-
-  printlatLon() {
-    console.log(castlesData);
   }
 }

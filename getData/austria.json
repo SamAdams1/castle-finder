@@ -1,5194 +1,1407 @@
 {
- "Burg Antau": [
-  47.77361111,
-  16.47666667
- ],
- "Burg Bernstein": [
-  47.40698056,
-  16.25218889
- ],
- "Burg Buchschachen": [
-  47.318582,
-  16.102222
- ],
- "Schloss Deutschkreutz": [
-  47.59978056,
-  16.64601944
- ],
- "Burg D\u00f6rfl": [
-  47.47666667,
-  16.48666667
- ],
- "Burg Dra\u00dfburg": [
-  47.74611111,
-  16.48805556
- ],
- "Schloss Dra\u00dfburg": [
-  47.74456,
-  16.49143
- ],
- "Schloss Eberau": [
-  47.103333,
-  16.461944
- ],
- "Jagdschloss Gloriette": [
-  47.853025,
-  16.509289
- ],
- "Schloss Esterh\u00e1zy": [
-  47.8462,
-  16.51945
- ],
- "Burg Forchtenstein": [
-  47.70973889,
-  16.33168889
- ],
- "Burg Gaas (Kertes)": [
-  47.07091,
-  16.454504
- ],
- "Altes Schloss Gattendorf": [
-  48.015,
-  16.98333333
- ],
- "Neues Schloss Gattendorf": [
-  48.015,
-  16.98333333
- ],
- "Kastell Gerersdorf": [
-  47.06888889,
-  16.25361111
- ],
- "Burg G\u00fcssing": [
-  47.05680556,
-  16.32291667
- ],
- "Kastell G\u00fcssing": [
-  47.05864,
-  16.32256
- ],
- "Kastell G\u00fcttenbach": [
-  47.15972222,
-  16.28888889
- ],
- "Burg Hagensdorf-Luising": [
-  47.0252,
-  16.4685
- ],
- "Schloss Halbturn": [
-  47.87472222,
-  16.97361111
- ],
- "Schloss Jormannsdorf": [
-  47.348241,
-  16.222099
- ],
- "Altes Schloss Kittsee": [
-  48.093005,
-  17.067332
- ],
- "Neues Schloss Kittsee": [
-  48.09,
-  17.06805556
- ],
- "Schloss Kobersdorf": [
-  47.59745,
-  16.39191944
- ],
- "Schloss Kohfidisch": [
-  47.17216,
-  16.357515
- ],
- "Schloss Lackenbach": [
-  47.58661111,
-  16.46766111
- ],
- "Burgruine Landsee": [
-  47.5629348,
-  16.3498839
- ],
- "Wasserburg Leithaprodersdorf (G'schl\u00f6\u00dfl)": [
-  47.93777778,
-  16.47861111
- ],
- "Burg Lockenhaus": [
-  47.40376944,
-  16.42443889
- ],
- "Burg Lutzmannsburg": [
-  47.46416667,
-  16.64083333
- ],
- "Burg Mattersburg (Burg Mattersdorf), Mattersburg": [
-  47.73805556,
-  16.39694444
- ],
- "Burg Neckenmarkt": [
-  47.6,
-  16.54694444
- ],
- "Kastell Neud\u00f6rfl": [
-  47.79777778,
-  16.29666667
- ],
- "Burgruine Neuhaus am Klausenbach": [
-  46.868964,
-  16.027679
- ],
- "Schloss Tabor, Neuhaus am Klausenbach": [
-  46.88282,
-  16.029506
- ],
- "Schloss Neumarkt an der Raab": [
-  46.921483,
-  16.155002
- ],
- "Schloss Nikitsch": [
-  47.53583333,
-  16.65916667
- ],
- "Ruine Tabor Neusiedl am See": [
-  47.81777778,
-  16.74861111
- ],
- "Wasserburg Oberwart": [
-  47.17216,
-  16.357515
- ],
- "Burg Oslip": [
-  47.82916667,
-  16.61888889
- ],
- "Burg \u00d3v\u00e1r bei Hannersdorf": [
-  47.215,
-  16.406
- ],
- "Schloss Pinkafeld": [
-  47.37166667,
-  16.12194444
- ],
- "Schloss Potzneusiedl": [
-  48.04527778,
-  16.94694444
- ],
- "Schloss Rechnitz": [
-  47.304833,
-  16.441872
- ],
- "Schloss Rotenturm": [
-  47.2509,
-  16.24482
- ],
- "Schloss Rudersdorf (Schloss Batthy\u00e1ny)": [
-  47.046528,
-  16.125718
- ],
- "Schloss Samersdorf": [
-  47.60043,
-  16.56946
- ],
- "Burg Schlaining": [
-  47.32222222,
-  16.28027778
- ],
- "Jagdschloss Sch\u00fctzen am Gebirge": [
-  47.85,
-  16.62472222
- ],
- "Kastell Siegendorf": [
-  47.78222222,
-  16.54055556
- ],
- "Kastell Stegersbach": [
-  47.15972222,
-  16.16638889
- ],
- "Jagdschloss Steinbrunn": [
-  47.83666667,
-  16.41333333
- ],
- "Kastell Sulz im Burgenland": [
-  47.074,
-  16.2676
- ],
- "Tabor Neusiedl am See": [
-  47.81777778,
-  16.74861111
- ],
- "Burg Trausdorf": [
-  47.81416667,
-  16.55805556
- ],
- "Kastell Unterrabnitz": [
-  47.45444444,
-  16.37638889
- ],
- "Burg Wulkaprodersdorf": [
-  47.79388889,
-  16.49583333
- ],
- "Burg Hochosterwitz": [
-  46.75593,
-  14.45241
- ],
- "Burgruine Aichelberg (Eichelberg)": [
-  46.64444444,
-  13.95972222
- ],
- "Ruine Aichelburg": [
-  46.61072222,
-  13.51266944
- ],
- "Schloss Albeck (Neualbeck)": [
-  46.85,
-  13.98333333
- ],
- "Burgruine Alt-Albeck": [
-  46.80929167,
-  14.07184167
- ],
- "Burg Altgrafenstein": [
-  46.60194444,
-  14.46611111
- ],
- "Neues Schloss Althofen": [
-  46.87481111,
-  14.47403056
- ],
- "Schloss Annabichl": [
-  46.656378,
-  14.311864
- ],
- "Klosterruine Arnoldstein": [
-  46.55061944,
-  13.70378056
- ],
- "Burgruine Arnulfsfeste": [
-  46.66027778,
-  14.15833333
- ],
- "Schloss Bayerhofen": [
-  46.8375,
-  14.84194444
- ],
- "Schloss Biberstein": [
-  47.41322222,
-  8.08352778
- ],
- "Schloss Bichlhof": [
-  46.61265278,
-  13.54380278
- ],
- "Schloss Bleiburg": [
-  46.58946111,
-  14.80107778
- ],
- "Schloss Bodenhof": [
-  46.59788056,
-  13.53959167
- ],
- "Schloss Damtschach": [
-  46.629291,
-  13.965998
- ],
- "Burg Dietrichstein": [
-  46.72611111,
-  14.12916667
- ],
- "Schloss M\u00f6rtenegg": [
-  46.616114,
-  13.831342
- ],
- "Schloss Dornbach": [
-  46.94136111,
-  13.50711944
- ],
- "Schloss Dornhof": [
-  46.77461944,
-  14.33122222
- ],
- "Schloss Drasendorf (Wuchererschl\u00f6ssl, Gut Grub)": [
-  46.79188333,
-  14.43520833
- ],
- "Schloss Drasing": [
-  46.63919167,
-  14.22046111
- ],
- "Schloss Drauhofen": [
-  46.82637222,
-  13.39018056
- ],
- "Schloss Ebenau": [
-  46.53433889,
-  14.22514722
- ],
- "Schloss Leifling": [
-  46.62486389,
-  14.94078056
- ],
- "Schloss Ehrenbichl": [
-  46.67267778,
-  14.27426667
- ],
- "Schloss Ehrental": [
-  46.653733,
-  14.301749
- ],
- "Schloss Ehrnegg": [
-  46.68632778,
-  14.76863889
- ],
- "Schloss Emmersdorf": [
-  46.67,
-  14.285
- ],
- "Schloss Eppersdorf": [
-  46.712608,
-  14.510469
- ],
- "Burgruine Feldsberg": [
-  46.84111111,
-  13.395
- ],
- "Burgruine Federaun": [
-  46.571412,
-  13.81332
- ],
- "Schloss Ferlach": [
-  46.52554444,
-  14.29984167
- ],
- "Burg Finkenstein": [
-  46.54659167,
-  13.90308056
- ],
- "Burgruine Flaschberg": [
-  46.74947,
-  12.938669
- ],
- "Burgruine Freiberg": [
-  46.78787222,
-  14.34345278
- ],
- "Schloss Freudenberg, Freudenberg (Gemeinde Magdalensberg)": [
-  50.066111,
-  8.180833
- ],
- "Schloss Freyenthurn": [
-  46.62574908,
-  14.25718546
- ],
- "Burg Geiersberg": [
-  46.95634167,
-  14.39906389
- ],
- "Ruine Gillitzstein, St. Oswald (Gemeinde Eberstein)": [
-  46.81686,
-  14.56766
- ],
- "Burgruine Glanegg": [
-  46.72688889,
-  14.18197222
- ],
- "Burgruine Gm\u00fcnd": [
-  46.90863889,
-  13.53597222
- ],
- "Burgruine Gomarn": [
-  46.96361111,
-  14.78777778
- ],
- "Burgruine Gradenegg": [
-  46.76333333,
-  14.24333333
- ],
- "Schloss Grades": [
-  46.98388889,
-  14.25472222
- ],
- "Schloss Gradisch": [
-  46.68495278,
-  14.120575
- ],
- "Schloss Grafenstein": [
-  46.61058333,
-  14.46461111
- ],
- "Schloss Greifenburg, Greifenburg": [
-  46.751548,
-  13.179821
- ],
- "Burgruine Greifenfels": [
-  46.59833333,
-  14.37222222
- ],
- "Schloss Greifenstein, St. Stefan im Gailtal": [
-  49.87416667,
-  11.17222222
- ],
- "Schloss Greifenthurn": [
-  46.734726,
-  14.095623
- ],
- "Burgruine Griffen": [
-  46.70472222,
-  14.72722222
- ],
- "Burgruine Groppenstein": [
-  46.94166667,
-  13.1825
- ],
- "Schloss Gro\u00dfkirchheim": [
-  46.975,
-  12.89166667
- ],
- "Ruine Gr\u00fcnburg, Gitschtal": [
-  47.97055556,
-  14.26222222
- ],
- "Ruine Gr\u00fcnburg, G\u00f6rtschitztal": [
-  47.97055556,
-  14.26222222
- ],
- "Ruine Gr\u00fcnburg, Hermagor-Pressegger See": [
-  47.97055556,
-  14.26222222
- ],
- "Gschlosser Hube (Schloss Gschlosser)": [
-  46.70910556,
-  14.05658056
- ],
- "Schloss Gundersdorf": [
-  46.65580833,
-  14.38429167
- ],
- "Burgruine Gurnitz": [
-  46.60194444,
-  14.39333333
- ],
- "Haimburg (Heunburg)": [
-  46.6925,
-  14.67027778
- ],
- "Schloss Hallegg": [
-  46.64888889,
-  14.24
- ],
- "Schloss Harbach": [
-  46.62166667,
-  14.34222222
- ],
- "Burgruine Hardegg": [
-  46.71722222,
-  14.25805556
- ],
- "Burgruine Hartneidstein": [
-  46.78527778,
-  14.905
- ],
- "Schloss Heroldeck, Millstatt am See": [
-  46.799544,
-  13.584767
- ],
- "Schloss Himmelau": [
-  46.83573889,
-  14.79746389
- ],
- "Burgruine Himmelberg, Himmelberg": [
-  46.748386,
-  14.037058
- ],
- "Kraiger Schl\u00f6sser": [
-  46.797386,
-  14.346158
- ],
- "Burgruine Hochwart (Hohenwart)": [
-  46.63805556,
-  13.99555556
- ],
- "Burgruine Hohenburg, Pusarnitz": [
-  49.32097222,
-  7.34483333
- ],
- "Burgruine Hohenburg, Rosenberg (Gemeinde Oberdrauburg)": [
-  49.32097222,
-  7.34483333
- ],
- "Burgruine Hochwart": [
-  46.63805556,
-  13.99555556
- ],
- "Burg/Schloss Hollenburg": [
-  46.54728,
-  14.26228
- ],
- "Schloss H\u00f6rbach, St. Martin am Silberberg (Gemeinde H\u00fcttenberg)": [
-  47.00702,
-  14.51639
- ],
- "Ruine Hornburg": [
-  46.826948,
-  14.562517
- ],
- "Schloss Hornstein": [
-  50.98055556,
-  11.33222222
- ],
- "Schloss Hunnenbrunn (Hungerbrunn)": [
-  46.78141667,
-  14.37226944
- ],
- "Schloss Karlsberg": [
-  49.33472222,
-  7.37888889
- ],
- "Schloss Keutschach, Keutschach am See": [
-  46.59316667,
-  14.18741667
- ],
- "Burgruine Kh\u00fcnburg": [
-  46.63708333,
-  13.42011111
- ],
- "Schloss Kollegg, Kollegg": [
-  46.78527778,
-  14.79611111
- ],
- "Schloss K\u00f6lnhof": [
-  46.77373056,
-  14.36225556
- ],
- "Schloss Krastowitz": [
-  46.64722222,
-  14.35416667
- ],
- "Schloss Kreuzen": [
-  46.67010278,
-  13.57645278
- ],
- "Schloss Krumpendorf": [
-  46.62677222,
-  14.21167222
- ],
- "Burg Landskron": [
-  46.642473,
-  13.89611
- ],
- "Schloss Lang": [
-  46.75363611,
-  14.12427778
- ],
- "Burg Lavant": [
-  46.952385,
-  14.400669
- ],
- "Burgruine Leobenegg": [
-  46.93667778,
-  13.60412778
- ],
- "Schloss Leonstain": [
-  46.63666111,
-  14.13811944
- ],
- "Burgruine Leonstein": [
-  46.63902778,
-  14.12916667
- ],
- "Schloss Lerchenhof": [
-  46.63181944,
-  13.35702222
- ],
- "Schloss Lichtengraben, Bad St. Leonhard im Lavanttal": [
-  46.98448,
-  14.78133
- ],
- "Burgruine Liebenfels": [
-  46.73805556,
-  14.28694444
- ],
- "Burgruine Liemberg": [
-  46.74805556,
-  14.2175
- ],
- "Schloss Liemberg": [
-  46.75128889,
-  14.23143333
- ],
- "Burgruinen Lind (Oberlind und Unterlind)": [
-  46.76613889,
-  13.36063889
- ],
- "Schloss Riedenegg": [
-  46.61489268,
-  14.51797201
- ],
- "Schloss Lippitzbach": [
-  46.636725,
-  14.76925278
- ],
- "Neues Schloss (Gm\u00fcnd in K\u00e4rnten)": [
-  46.90715833,
-  13.53686944
- ],
- "Schloss L\u00f6lling (Zechnerhof)": [
-  46.92027778,
-  14.59111111
- ],
- "Schloss Mageregg": [
-  46.653246,
-  14.288748
- ],
- "Burgruine \u00d6denfest": [
-  46.95732222,
-  13.51302778
- ],
- "Schloss Mandorf": [
-  46.67329722,
-  13.02107778
- ],
- "Burg Mannsberg": [
-  46.7975,
-  14.49222222
- ],
- "Schloss Maria-Loretto": [
-  46.61545278,
-  14.25015556
- ],
- "Schloss Mayerhofen": [
-  46.9725,
-  14.36861111
- ],
- "Schloss Meiselberg": [
-  46.70372222,
-  14.38063889
- ],
- "Burgruine und Schloss Mittertrixen": [
-  46.697369,
-  14.583294
- ],
- "Schloss M\u00f6chling": [
-  46.58906667,
-  14.51780278
- ],
- "Schloss Moosburg": [
-  46.658733,
-  14.169836
- ],
- "Schloss Neuhaus": [
-  51.74527778,
-  8.7125
- ],
- "Schloss Niederosterwitz": [
-  46.75148889,
-  14.43632778
- ],
- "Burgruine Nussberg": [
-  46.78009444,
-  14.31368056
- ],
- "Ruine Ortenburg": [
-  46.79375,
-  13.45891667
- ],
- "Schloss Ortenburg": [
-  48.55041667,
-  13.23027778
- ],
- "Schloss Ottmanach": [
-  46.70598889,
-  14.41978611
- ],
- "Schloss Pakein, Pakein (Gemeinde Grafenstein)": [
-  46.615,
-  14.46722222
- ],
- "Schloss Paternion": [
-  46.71173,
-  13.636757
- ],
- "Burgruine Petersberg": [
-  46.95138889,
-  14.4025
- ],
- "Schloss Pichlern": [
-  46.64686944,
-  14.34370556
- ],
- "Burgruine Pittersberg": [
-  46.69861111,
-  12.98138889
- ],
- "Schloss Pitzelst\u00e4tten": [
-  46.670114,
-  14.267759
- ],
- "Burgruine P\u00f6ckstein": [
-  46.89236,
-  14.44462
- ],
- "Schloss P\u00f6ckstein": [
-  46.89083333,
-  14.44
- ],
- "Schloss Poitschach": [
-  46.75156667,
-  14.09416111
- ],
- "Schloss P\u00f6llan": [
-  46.69533333,
-  13.63693056
- ],
- "Schloss Porcia": [
-  46.79777778,
-  13.49555556
- ],
- "Burgruine Pr\u00e4grad": [
-  46.69111111,
-  14.0775
- ],
- "Schloss Raggnitz": [
-  46.763638,
-  13.347921
- ],
- "Schloss Rastenfeld": [
-  46.85121389,
-  14.39451111
- ],
- "Schloss Ratzenegg, Gemeinde Moosburg": [
-  46.659767,
-  14.191914
- ],
- "Burgruine Rauchenkatsch": [
-  46.9801558,
-  13.620482
- ],
- "Burgruine Reichenfels, Reichenfels": [
-  50.7075,
-  12.03888889
- ],
- "Schloss Reideben": [
-  46.79645278,
-  14.88767778
- ],
- "Schloss Reifnitz": [
-  46.61123333,
-  14.18134167
- ],
- "Burgruine Reisberg": [
-  46.80555556,
-  14.75944444
- ],
- "Schloss Riedenegg, Lind (Gemeinde Grafenstein)": [
-  46.61489268,
-  14.51797201
- ],
- "Burgruine Rosegg": [
-  46.58472222,
-  14.02472222
- ],
- "Schloss Rosegg (Lukrezia, Liechtenstein)": [
-  46.59113889,
-  14.02435833
- ],
- "Schloss Rosenbichl": [
-  46.757125,
-  14.300625
- ],
- "Schloss Rosenegg": [
-  47.645837,
-  9.178608
- ],
- "Schloss Rothenthurn": [
-  46.763625,
-  13.585024
- ],
- "H\u00f6hlenburg Rottenstein": [
-  46.57083333,
-  14.41416667
- ],
- "Ruine Rotturm (Rothenthurn)": [
-  46.95138,
-  14.40215
- ],
- "Schloss St. Georgen am Sandhof": [
-  46.65325,
-  14.32918333
- ],
- "Ruine Schaumburg": [
-  46.790304,
-  14.291152
- ],
- "Schloss Seltenheim": [
-  46.65805556,
-  14.24916667
- ],
- "Burgruine Silberberg": [
-  47.005735,
-  14.530982
- ],
- "Schloss Silberegg": [
-  46.85145556,
-  14.49178611
- ],
- "Burg Sommeregg": [
-  46.83416667,
-  13.52361111
- ],
- "Burgruine Sonnegg": [
-  46.56305556,
-  14.64166667
- ],
- "Schloss Sonnegg, Sonnegg (Gemeinde Sittersdorf)": [
-  46.56305556,
-  14.64166667
- ],
- "Sorgendorfer Brauerei": [
-  46.57859167,
-  14.78593611
- ],
- "Schloss Staudachhof": [
-  46.97447778,
-  14.30476389
- ],
- "Burgruine Stein, Sankt Georgen im Lavanttal": [
-  46.522264,
-  11.469136
- ],
- "Burgruine Sternberg, Wernberg": [
-  47.66001,
-  15.86754
- ],
- "Schloss Stra\u00dfburg": [
-  46.897472,
-  14.330261
- ],
- "Burgruine Stra\u00dffried": [
-  46.54972222,
-  13.66083333
- ],
- "Schloss S\u00fc\u00dfenstein": [
-  46.93792222,
-  14.54866111
- ],
- "Burgruine Taggenbrunn": [
-  46.771472,
-  14.390157
- ],
- "Schloss Tanzenberg": [
-  46.71083333,
-  14.34361111
- ],
- "Schloss Tentschach": [
-  46.682478,
-  14.260161
- ],
- "Schloss Th\u00fcrn": [
-  46.80825833,
-  14.78578611
- ],
- "Gschlosser Hube": [
-  46.70910556,
-  14.05658056
- ],
- "Schloss Tigring": [
-  46.68537778,
-  14.17866667
- ],
- "Schloss T\u00f6ltschach": [
-  46.69395,
-  14.3661
- ],
- "Schloss T\u00f6scheldorf": [
-  46.88329722,
-  14.46345
- ],
- "Schloss Trabuschgen": [
-  46.93451389,
-  13.2018
- ],
- "Burgruine Treffen (Alt-Treffen), Winklern (Gemeinde Treffen am Ossiacher See)": [
-  46.68622222,
-  13.84255556
- ],
- "Schloss Truttendorf, Truttendorf": [
-  46.613012,
-  14.443588
- ],
- "Burgruine Twimberg, Twimberg (Gemeinde Bad St. Leonhard im Lavanttal)": [
-  46.91643611,
-  14.84646389
- ],
- "Schloss Velden": [
-  46.61173333,
-  14.04323611
- ],
- "Burgruine Waisenberg": [
-  46.69833333,
-  14.56194444
- ],
- "Schloss Waldenstein": [
-  46.9275,
-  14.88694444
- ],
- "Schloss Wasserhofen, K\u00fchnsdorf (Gemeinde Eberndorf)": [
-  48.441268,
-  15.622369
- ],
- "Schloss Wasserleonburg": [
-  46.592461,
-  13.628948
- ],
- "Burgruine Weidenburg": [
-  46.64785556,
-  13.05685
- ],
- "Schloss Weildegg": [
-  46.65681944,
-  13.01273611
- ],
- "Schloss Wei\u00dfenau": [
-  46.81341667,
-  14.80647222
- ],
- "Burgruine Wei\u00dfenegg": [
-  46.65638889,
-  14.7697
- ],
- "Schloss Welsbach": [
-  46.85812222,
-  14.38984722
- ],
- "Schloss Welzenegg": [
-  46.62824722,
-  14.33225833
- ],
- "Schloss Wernberg": [
-  46.62111111,
-  13.93111111
- ],
- "Schloss Werthenau": [
-  46.60548056,
-  13.82676389
- ],
- "Schloss Wiesenau": [
-  46.94587222,
-  14.81260278
- ],
- "Burg Wildenstein, Gallizien": [
-  48.05555556,
-  9.00069444
- ],
- "Schloss Wolfsberg": [
-  46.84194444,
-  14.84861111
- ],
- "Burg- und Schlossruine Wullross": [
-  46.81416667,
-  14.21277778
- ],
- "Burgruine Zeiselberg": [
-  46.662508,
-  14.384024
- ],
- "Schloss Zigguln": [
-  46.635289,
-  14.291617
- ],
- "Nieder\u00f6sterreich": [
-  48.2,
-  15.63333333
- ],
- "Schloss Achleiten": [
-  48.07491245,
-  14.18062449
- ],
- "Burgruine Aggstein, Sch\u00f6nb\u00fchel-Aggsbach": [
-  48.31444444,
-  15.42166667
- ],
- "Burg Albrechtsberg, Albrechtsberg an der Gro\u00dfen Krems": [
-  48.46327,
-  15.36878
- ],
- "Schloss Albrechtsberg, Loosdorf": [
-  51.065,
-  13.79472222
- ],
- "Schloss Allentsteig": [
-  48.69758,
-  15.3273
- ],
- "Schloss Altkettenhof": [
-  48.13711931,
-  16.47177011
- ],
- "Schloss Altprerau": [
-  48.79753,
-  16.475149
- ],
- "Burgruine Araburg": [
-  48.01082,
-  15.86738
- ],
- "Burgruine Arbesbach": [
-  48.494378,
-  14.960856
- ],
- "Herrenhaus Arbesbach": [
-  48.49413,
-  14.9547
- ],
- "Schloss Ardagger, ehem. Kollegiatstift": [
-  48.159101,
-  14.843903
- ],
- "Schloss Arndorf": [
-  48.29311,
-  15.15605
- ],
- "Burgruine Arnstein": [
-  48.02949,
-  16.06602
- ],
- "Schloss Artstetten": [
-  48.24251389,
-  15.20257222
- ],
- "Schloss Aspang": [
-  47.55583333,
-  16.09138889
- ],
- "Schloss Asparn an der Zaya": [
-  48.58722222,
-  16.49444444
- ],
- "Schloss Bisamberg": [
-  48.33102,
-  16.36295
- ],
- "Schloss Bockflie\u00df": [
-  48.36027778,
-  16.60166667
- ],
- "Schloss Braiten": [
-  48.00335,
-  16.23488889
- ],
- "Schloss Braunsdorf": [
-  48.633625,
-  15.936268
- ],
- "Altes Schloss Breiteneich": [
-  48.66388889,
-  15.65722222
- ],
- "Schloss Brodersdorf, Seibersdorf": [
-  47.93863,
-  16.47159
- ],
- "Schloss Brunn am Wald": [
-  48.49748,
-  15.40993
- ],
- "Schloss Buchberg, Buchberg am Kamp": [
-  48.575684,
-  15.65865
- ],
- "Burgleiten, bei Rappottenstein": [
-  48.52694444,
-  15.02027778
- ],
- "Schloss Burgschleinitz": [
-  48.60803889,
-  15.81898889
- ],
- "Schloss Deinzendorf": [
-  48.694666,
-  15.92061
- ],
- "Schloss Deutsch-Altenburg": [
-  48.136369,
-  16.903
- ],
- "Schloss Dietmanns": [
-  48.793734,
-  15.381495
- ],
- "Schloss Dobersberg": [
-  48.91626,
-  15.32143
- ],
- "Burgruine Dobra": [
-  48.5922,
-  15.3925
- ],
- "Schloss Drosendorf": [
-  48.86693,
-  15.62034
- ],
- "Schloss Dr\u00f6siedl, Ludweis-Aigen": [
-  48.78851,
-  15.49256
- ],
- "Schloss Dro\u00df": [
-  48.46382,
-  15.57189
- ],
- "Ruine Dunkelstein, Ternitz": [
-  47.71555556,
-  16.04944444
- ],
- "Schloss D\u00fcrnkrut": [
-  48.47333,
-  16.84886
- ],
- "Burgruine D\u00fcrnstein": [
-  48.39777778,
-  15.52194444
- ],
- "Schloss D\u00fcrnstein": [
-  48.39555556,
-  15.52027778
- ],
- "Schloss Ebenfurth": [
-  47.87583333,
-  16.36888889
- ],
- "Schloss Ebergassing": [
-  48.04693,
-  16.52359
- ],
- "Schloss Ebreichsdorf": [
-  47.96297222,
-  16.39683333
- ],
- "Schloss Eckartsau": [
-  48.14049,
-  16.79363
- ],
- "Schloss Edla": [
-  48.12699,
-  14.86482
- ],
- "Schloss Ehrendorf": [
-  48.75777778,
-  14.96111111
- ],
- "Burgruine Eibenstein": [
-  48.84658333,
-  15.58152778
- ],
- "Schloss Eichb\u00fcchl": [
-  47.75883333,
-  16.27636111
- ],
- "Burgruine Emmerberg": [
-  47.81852,
-  16.10119
- ],
- "Schloss Engelstein": [
-  48.64055,
-  14.9437
- ],
- "Schloss Enzersdorf im Thale": [
-  48.586697,
-  16.24073
- ],
- "Schloss Enzesfeld": [
-  47.91777778,
-  16.18527778
- ],
- "Schloss Erla": [
-  48.19924,
-  14.5695
- ],
- "Schloss Ernegg": [
-  48.06527778,
-  15.06527778
- ],
- "Schloss Ernstbrunn": [
-  48.54033,
-  16.34764
- ],
- "Burgruine Falkenstein": [
-  48.49408056,
-  13.78268056
- ],
- "Burg Feistritz am Wechsel": [
-  47.59944444,
-  16.05361111
- ],
- "Schloss Felling": [
-  48.4718,
-  15.4225
- ],
- "Schloss Fels am Wagram": [
-  48.43861111,
-  15.8175
- ],
- "Schloss Fischau": [
-  47.83141667,
-  16.16755556
- ],
- "Schloss Freydegg": [
-  48.10067,
-  14.97793
- ],
- "Schloss Fridau": [
-  48.14944444,
-  15.55583333
- ],
- "Schloss Frohsdorf": [
-  47.74481,
-  16.25557
- ],
- "Franzensburg, Laxenburg": [
-  48.06525278,
-  16.37182778
- ],
- "Schloss Fronsburg": [
-  48.80305556,
-  15.80861111
- ],
- "Schloss F\u00fcnfkirchen, Gemeinde Drasenhofen": [
-  48.74735,
-  16.64719
- ],
- "Pfarrhof Gaaden, ehem. Schloss": [
-  48.05,
-  16.2
- ],
- "Schloss Gaaden": [
-  48.046212,
-  16.20537
- ],
- "Burg Gaber (Gaberkirche)": [
-  48.87963889,
-  15.58272222
- ],
- "Schloss Gainfarn": [
-  47.96343889,
-  16.20276111
- ],
- "Schloss G\u00e4nserndorf": [
-  48.34055556,
-  16.7175
- ],
- "Burgruine Gars am Kamp": [
-  48.59456,
-  15.65358
- ],
- "Gassenegg, St. Peter in der Au": [
-  48.03861111,
-  14.60166667
- ],
- "Schloss Gerasdorf am Steinfeld": [
-  47.78166667,
-  16.10333333
- ],
- "Schloss Gilgenberg": [
-  47.38361111,
-  7.6075
- ],
- "Schloss Ginselberg (auch Schloss Sch\u00f6nfeldt), Scheibbs": [
-  47.988612,
-  15.163524
- ],
- "Schloss Glaswein": [
-  48.555742,
-  16.269978
- ],
- "Burgruine Glei\u00df": [
-  48.015,
-  14.74611111
- ],
- "Schloss Gloggnitz": [
-  47.67351944,
-  15.92928056
- ],
- "Schloss Gm\u00fcnd": [
-  48.7724,
-  14.98229
- ],
- "Schloss Gneixendorf": [
-  48.441268,
-  15.622369
- ],
- "Schloss Gobelsburg": [
-  48.46115,
-  15.69584
- ],
- "Burgruine Goldburg": [
-  48.23611111,
-  15.82888889
- ],
- "Schloss Goldegg": [
-  48.237108,
-  15.531256
- ],
- "Schloss G\u00f6llersdorf": [
-  48.49138889,
-  16.12055556
- ],
- "Schloss G\u00f6pfritz an der Wild": [
-  48.71666667,
-  15.4
- ],
- "Gozzoburg": [
-  48.41182,
-  15.6019
- ],
- "Ansitz Grabenhof": [
-  47.09511667,
-  15.43737222
- ],
- "Schloss Grafenegg": [
-  48.42861111,
-  15.74611111
- ],
- "Burgruine Grafenweiden": [
-  48.19777778,
-  16.91
- ],
- "Burg Greifenstein": [
-  50.62041944,
-  8.29471111
- ],
- "Schloss Greillenstein": [
-  48.65858,
-  15.51446
- ],
- "Burg Grimmenstein (Nieder\u00f6sterreich), Marktgemeinde Grimmenstein": [
-  47.63198,
-  16.12036
- ],
- "Schloss Gro\u00df": [
-  48.57349,
-  15.98919
- ],
- "Schloss Gro\u00dfau, Bad V\u00f6slau": [
-  48.88222222,
-  15.52166667
- ],
- "Schloss Grossau, Raabs an der Thaya": [
-  48.88222222,
-  15.52166667
- ],
- "Stadtburg Gro\u00dfenzersdorf": [
-  48.2025,
-  16.55055556
- ],
- "Schloss Gro\u00dfpertholz": [
-  48.62916667,
-  14.825
- ],
- "Schloss Gro\u00dfru\u00dfbach": [
-  48.475024,
-  16.421337
- ],
- "Schloss Gro\u00df-Schweinbarth": [
-  48.4125,
-  16.63583333
- ],
- "Schloss Gro\u00df-Siegharts, Gro\u00df-Siegharts": [
-  48.78333333,
-  15.4
- ],
- "Deutschordensschloss Gumpoldskirchen": [
-  48.04577778,
-  16.27408333
- ],
- "Schloss Guntersdorf": [
-  48.649398,
-  16.050231
- ],
- "Schloss Gurhof": [
-  48.29221999,
-  15.46788633
- ],
- "Schloss Gutenbrunn am Weinsberg, Gutenbrunn": [
-  48.3659,
-  15.11924
- ],
- "Burgruine Gutenstein": [
-  47.87702,
-  15.88754
- ],
- "Schloss Hadersfeld": [
-  48.33805556,
-  16.26
- ],
- "Schloss Hagenberg (Weinviertel)": [
-  48.63194,
-  16.45011
- ],
- "Burgruine Hainburg, Hainburg an der Donau": [
-  48.14777778,
-  16.94194444
- ],
- "Schloss Haindorf, Gemeinde Langenlois": [
-  48.47161111,
-  15.69919444
- ],
- "Burgstall Hainfeld": [
-  48.034319,
-  15.768262
- ],
- "Schloss Hainstetten": [
-  48.16134,
-  14.925
- ],
- "Ruine Hanselburg": [
-  48.64527778,
-  16.46111111
- ],
- "Burg Hardegg": [
-  48.85361111,
-  15.8575
- ],
- "Schloss Harmannsdorf, Burgschleinitz-K\u00fchnring": [
-  48.60163,
-  15.74208
- ],
- "Burg Harmannstein": [
-  48.64349,
-  14.89472
- ],
- "Schloss Harras": [
-  50.883642,
-  13.010808
- ],
- "Burg Hausenbach": [
-  48.25001774,
-  15.54890513
- ],
- "Schloss Hauskirchen": [
-  48.61277778,
-  16.75777778
- ],
- "Burg Heidenreichstein": [
-  48.86444444,
-  15.12166667
- ],
- "Schloss Heiligenkreuz": [
-  48.29075,
-  15.78025
- ],
- "Schloss Hernstein": [
-  47.89723,
-  16.1019
- ],
- "Burgruine Hernstein": [
-  47.89777,
-  16.10255
- ],
- "Herzoghof Krems, Krems an der Donau": [
-  48.409011,
-  15.599173
- ],
- "Ruine Hinterhaus, Spitz an der Donau": [
-  48.35861,
-  15.40704
- ],
- "Schloss Hirschbach": [
-  48.74378,
-  15.12516
- ],
- "Ruine H\u00f6hlturm, W\u00f6llersdorf-Steinabr\u00fcckl": [
-  47.86748,
-  16.17442
- ],
- "Schloss Hof, Gemeinde Engelhartstetten": [
-  48.21387,
-  16.937
- ],
- "Schloss Hofarnsdorf, Rossatz-Arnsdorf": [
-  48.36421,
-  15.42746
- ],
- "Ruine Hohenberg, Hohenberg": [
-  47.90472222,
-  15.62277778
- ],
- "Burgruine Hohenegg": [
-  48.233478,
-  15.477062
- ],
- "Burgruine Hollenburg (Ruine Bertholdstein), Krems an der Donau": [
-  48.37972,
-  15.68046
- ],
- "Schloss Hollenburg, Krems an der Donau": [
-  48.37997,
-  15.68991
- ],
- "Schloss Horn (Nieder\u00f6sterreich)": [
-  48.66388889,
-  15.65722222
- ],
- "Schloss Hubertendorf": [
-  48.13305556,
-  15.01611111
- ],
- "Wehrt\u00fcrme Hundsheim": [
-  48.11861111,
-  16.93888889
- ],
- "Schloss Illmau": [
-  48.93513,
-  15.23568
- ],
- "Burgruine Imbach": [
-  48.43774,
-  15.57574
- ],
- "Schloss Jaidhof": [
-  48.52883056,
-  15.48596944
- ],
- "Schloss Jedenspeigen": [
-  48.50644,
-  16.8656
- ],
- "Schloss Jeutendorf": [
-  48.24515,
-  15.74114
- ],
- "Burgruine Johannstein, Hinterbr\u00fchl": [
-  48.085418,
-  16.184924
- ],
- "Schloss Judenau": [
-  48.28394,
-  16.0113
- ],
- "Schloss Juliusburg, Stetteldorf am Wagram": [
-  48.405367,
-  16.023034
- ],
- "Burg Kaja, Hardegg": [
-  48.82666667,
-  15.88805556
- ],
- "Schloss K\u00e4lberhart": [
-  48.128902,
-  15.361475
- ],
- "Burgruine Kamegg": [
-  48.61147,
-  15.65792
- ],
- "Burgruine Kammerstein, Perchtoldsdorf": [
-  48.12551111,
-  16.2326
- ],
- "Schloss Karlsbach": [
-  48.15861111,
-  15.04611111
- ],
- "Schloss Karlstetten": [
-  48.25862712,
-  15.56570917
- ],
- "Schloss Karnabrunn": [
-  48.46015,
-  16.3672
- ],
- "Schloss Kattau": [
-  48.67916667,
-  15.80583333
- ],
- "Schloss Katzelsdorf": [
-  47.779152,
-  16.2714
- ],
- "Schloss Karlslust, Niederfladnitz": [
-  48.81527778,
-  15.92388889
- ],
- "Schloss Kirchberg am Walde": [
-  48.71666667,
-  15.08333333
- ],
- "Schloss Kirchberg an der Pielach": [
-  48.0275,
-  15.42861111
- ],
- "Schloss Kirchberg an der Wild": [
-  48.75111111,
-  15.40361111
- ],
- "Burgruine Kirchschlag in der Buckligen Welt": [
-  47.500416,
-  16.2956
- ],
- "Schloss Kirchstetten": [
-  48.73056,
-  16.51057
- ],
- "Schloss Klafterbrunn": [
-  48.07093,
-  15.59218
- ],
- "Burgruine Klamm, Breitenstein": [
-  47.66001,
-  15.86754
- ],
- "Schloss Klein-Neusiedl": [
-  48.09083333,
-  16.60444444
- ],
- "Burgruine Kollmitz, Raabs an der Thaya": [
-  48.82166667,
-  15.53333333
- ],
- "Wasserschloss Kottingbrunn": [
-  47.95194444,
-  16.22916667
- ],
- "Burg Kranichberg, Kirchberg am Wechsel": [
-  47.64555556,
-  15.97352778
- ],
- "Schloss Kreisbach": [
-  48.09453,
-  15.62319
- ],
- "Burg Kreuzenstein": [
-  48.37916667,
-  16.30888889
- ],
- "Burgruine Kronsegg, Gemeinde Langenlois": [
-  48.5115,
-  15.60366667
- ],
- "Burg Krumau am Kamp": [
-  48.59039,
-  15.44747
- ],
- "Schloss Krumbach": [
-  47.50294603,
-  16.19533896
- ],
- "Schloss Krummnu\u00dfbaum": [
-  48.2075,
-  15.16472222
- ],
- "Burg Laa, Laa an der Thaya": [
-  48.7225,
-  16.38666667
- ],
- "Schloss Ladendorf": [
-  48.535885,
-  16.490276
- ],
- "Burg Lanzenkirchen, Walpersbach": [
-  47.72785,
-  16.2381
- ],
- "Schloss Laxenburg": [
-  48.06518,
-  16.36739
- ],
- "Schloss Leesdorf, Baden": [
-  48.00466667,
-  16.25052778
- ],
- "Schloss Leiben": [
-  48.24341,
-  15.28407
- ],
- "Schloss Lehenhof, Scheibbs": [
-  47.99355,
-  15.16612
- ],
- "Schloss Leopoldsdorf, Bezirk Bruck an der Leitha": [
-  48.11666667,
-  16.4
- ],
- "Schloss Leopoldsdorf, Bezirk G\u00e4nserndorf": [
-  48.11666667,
-  16.4
- ],
- "Schloss Lichtenau im Waldviertel, Lichtenau im Waldviertel": [
-  48.5,
-  15.38333333
- ],
- "Burg Liechtenstein": [
-  48.0927,
-  16.27036111
- ],
- "Schloss Linsberg": [
-  47.72766432,
-  16.19884974
- ],
- "Schloss Litschau": [
-  48.9442,
-  15.04053
- ],
- "Schloss Loosdorf": [
-  48.6507664,
-  16.4491671
- ],
- "Burgruine Losenheim": [
-  47.788903,
-  15.845064
- ],
- "Schloss Ludwigstorff, Bad Deutsch-Altenburg": [
-  48.136369,
-  16.903
- ],
- "Schloss Mailberg": [
-  48.670433,
-  16.182809
- ],
- "Schloss Maissau": [
-  48.57199,
-  15.82447
- ],
- "Schloss Mannersdorf": [
-  47.96666667,
-  16.6
- ],
- "Schloss Marchegg": [
-  48.28166667,
-  16.90666667
- ],
- "Schloss Mautern, Mautern an der Donau": [
-  48.39502496,
-  15.57585371
- ],
- "Schloss Mayerling": [
-  48.04671944,
-  16.09833889
- ],
- "Ruine Merkenstein": [
-  47.98229,
-  16.13366
- ],
- "Schloss Merkenstein, Bad V\u00f6slau": [
-  47.98433,
-  16.1313
- ],
- "Schlossruine Michelstetten": [
-  48.58361111,
-  16.42583333
- ],
- "Burgruine M\u00f6dling": [
-  48.07936944,
-  16.26733056
- ],
- "Burgruine Mollenburg": [
-  48.29500556,
-  15.25646389
- ],
- "Schloss Neuaigen, Neuaigen": [
-  48.36269,
-  16.02253
- ],
- "Burg Neulengbach": [
-  48.19805556,
-  15.91027778
- ],
- "Schloss Niederabsdorf, Ringelsdorf-Niederabsdorf": [
-  48.56647,
-  16.85798
- ],
- "Schloss Niederfladnitz": [
-  48.79638889,
-  15.89611111
- ],
- "Schloss Niederhaus, Spitz an der Donau": [
-  48.36573,
-  15.41277
- ],
- "Schloss Niederkreuzstetten": [
-  48.48129,
-  16.47969
- ],
- "Schloss Niederleis": [
-  48.55811,
-  16.39606
- ],
- "Schloss Niedernondorf": [
-  48.54731068,
-  15.27489066
- ],
- "Schloss Niederweiden": [
-  48.19788,
-  16.90096
- ],
- "Burg Oberranna, M\u00fchldorf": [
-  48.37994,
-  15.3393
- ],
- "Schloss Ochsenburg, St. P\u00f6lten-Ochsenburg": [
-  48.13083333,
-  15.63388889
- ],
- "Schloss Orth, Orth an der Donau": [
-  48.1445,
-  16.70088
- ],
- "Burgruine Osterburg (Haunoldstein)": [
-  48.20525,
-  15.44107
- ],
- "Burg Ottenstein": [
-  48.59638889,
-  15.33555556
- ],
- "Schloss Ottenschlag": [
-  48.42522,
-  15.22005
- ],
- "Schloss Peigarten": [
-  48.89277778,
-  15.26916667
- ],
- "Burgruine Peilstein, Weiler Thal in der Marktgemeinde St. Leonhard am Forst": [
-  48.158173,
-  15.29793
- ],
- "Burg Perchtoldsdorf": [
-  48.11973889,
-  16.26416944
- ],
- "Schloss Persenbeug": [
-  48.19,
-  15.07508056
- ],
- "Schloss Petronell": [
-  48.11638889,
-  16.86055556
- ],
- "Schloss Petzenkirchen": [
-  48.14736,
-  15.15432
- ],
- "Schloss Pitten": [
-  47.71647,
-  16.19058
- ],
- "Schloss Pielach, Melk": [
-  48.0275,
-  15.42861111
- ],
- "Burg Plankenstein": [
-  48.02524,
-  15.27889
- ],
- "Schloss P\u00f6chlarn": [
-  48.21197323,
-  15.21287262
- ],
- "Schloss P\u00f6ggstall": [
-  48.31805556,
-  15.19847222
- ],
- "Schloss Pottenbrunn, St. P\u00f6lten - Pottenbrunn": [
-  48.2388,
-  15.69688
- ],
- "Burgruine Pottenburg, Wolfsthal": [
-  48.11899,
-  17.02616
- ],
- "Schloss Pottendorf (Ruine)": [
-  47.91141944,
-  16.38445
- ],
- "Schloss Pottschach": [
-  47.70417,
-  15.99975
- ],
- "Schloss Poysbrunn": [
-  48.71669,
-  16.6223
- ],
- "Schloss Primmersdorf": [
-  48.8599,
-  15.57892
- ],
- "Schloss Prinzendorf": [
-  48.59916667,
-  16.71694444
- ],
- "Schloss Prugg": [
-  48.02563056,
-  16.7826
- ],
- "Burgruine Puchberg": [
-  47.78563056,
-  15.91448056
- ],
- "Schloss Purgstall": [
-  48.06220986,
-  15.13283551
- ],
- "Schloss Purkersdorf": [
-  48.20694444,
-  16.175
- ],
- "Burg Raabs": [
-  48.84697222,
-  15.49011111
- ],
- "Schloss Rabensburg": [
-  48.6504,
-  16.90295
- ],
- "Schloss Raggendorf": [
-  48.4,
-  16.7
- ],
- "Ruine Raipoltenbach, Neulengbach": [
-  48.21694444,
-  15.88694444
- ],
- "Burg Rappottenstein": [
-  48.51206,
-  15.0878
- ],
- "Burgruine Rauheneck": [
-  48.00616944,
-  16.20491944
- ],
- "Burgruine Rauhenstein, Baden (Nieder\u00f6sterreich)": [
-  48.01296111,
-  16.20515
- ],
- "Burg Reinsberg": [
-  47.9825,
-  15.07111111
- ],
- "Burgruine Ried am Riederberg": [
-  48.24746,
-  16.07278
- ],
- "Burgruine Riedenburg, Horn": [
-  48.96222222,
-  11.68305556
- ],
- "Schloss Riegersburg": [
-  48.85444444,
-  15.77166667
- ],
- "Schloss Rohrau": [
-  48.06243,
-  16.85167
- ],
- "Schloss Rosenau": [
-  48.60111111,
-  15.06361111
- ],
- "Schloss Rosenburg, Rosenburg": [
-  48.628253,
-  15.63517
- ],
- "Schloss Rossatz": [
-  48.39672,
-  15.50545
- ],
- "Schloss Rothm\u00fchle, Schwechat": [
-  48.131617,
-  16.469713
- ],
- "Rothschildschloss, Waidhofen an der Ybbs": [
-  47.96295,
-  14.77365
- ],
- "Schloss Sachsengang, Gro\u00df-Enzersdorf": [
-  48.17409,
-  16.58524
- ],
- "Schloss Salaberg, Haag": [
-  48.10138889,
-  14.55777778
- ],
- "Schallaburg": [
-  48.189,
-  15.35594444
- ],
- "Burg Scharfeneck, Sankt P\u00f6lten": [
-  48.01351111,
-  16.19668056
- ],
- "Burg Scharfeneck, Baden bei Wien": [
-  48.01351111,
-  16.19668056
- ],
- "Schloss Scheibbs, Scheibbs": [
-  48.00485,
-  15.16857
- ],
- "Burgruine Scheuchenstein": [
-  47.83694444,
-  15.98611111
- ],
- "Schloss Schiltern, Gemeinde Langenlois": [
-  48.51841,
-  15.61672
- ],
- "Schloss Schleinz": [
-  47.71569444,
-  16.25558333
- ],
- "Schloss Schmida": [
-  48.37727,
-  16.11331
- ],
- "Schloss Sch\u00f6nb\u00fchel": [
-  48.25791728,
-  15.37368662
- ],
- "Burgruine Schrattenstein": [
-  47.77666667,
-  15.99861111
- ],
- "Schloss Schrattenthal": [
-  48.714444,
-  15.905833
- ],
- "Schloss Schwadorf": [
-  48.06916667,
-  16.58111111
- ],
- "Schloss Schwallenbach, Spitz an der Donau, Katastralgemeinde Schwallenbach": [
-  48.33985,
-  15.40337
- ],
- "Schloss Schwarzau am Steinfeld": [
-  47.73055556,
-  16.16722222
- ],
- "Schloss Schwarzenau": [
-  48.74416667,
-  15.26111111
- ],
- "Burgruine Schwarzenbach": [
-  47.63944444,
-  16.34027778
- ],
- "Ruine Schwarzen\u00f6d, P\u00f6lla (nahe Krumau am Kamp)": [
-  48.593548,
-  15.436402
- ],
- "Burg Seebenstein": [
-  47.69536111,
-  16.14403056
- ],
- "Schloss Seehof": [
-  49.92694444,
-  10.94777778
- ],
- "Burgruine Senftenberg": [
-  48.44768,
-  15.56499
- ],
- "Schloss Senftenegg": [
-  48.07461,
-  14.98753
- ],
- "Schloss Seisenegg": [
-  48.13666667,
-  14.9225
- ],
- "Burgruine Sichtenberg, Sollach": [
-  48.175255,
-  15.374892
- ],
- "Schloss Sitzenberg, Sitzenberg-Reidling": [
-  48.32203,
-  15.80708
- ],
- "Schloss Sitzenthal": [
-  48.211328,
-  15.420575
- ],
- "Schloss Sonnberg": [
-  48.53846944,
-  16.06148056
- ],
- "Burgruine Staatz": [
-  48.67666667,
-  16.48972222
- ],
- "Burgruine Stallegg": [
-  47.8556,
-  8.288
- ],
- "Burgruine Starhemberg": [
-  47.86661111,
-  16.09913889
- ],
- "Ruine Stein an der Donau, Krems an der Donau": [
-  48.401778,
-  15.581889
- ],
- "Burgruine Stickelberg": [
-  47.61253277,
-  16.24029078
- ],
- "Schloss Stiebar Gresten": [
-  47.98333333,
-  15.01666667
- ],
- "Burg Stixenstein": [
-  47.74555556,
-  15.97916667
- ],
- "Burgruine Stolzenw\u00f6rth": [
-  47.80138889,
-  15.96111111
- ],
- "Jugendburg Streitwiesen": [
-  48.314281,
-  15.234892
- ],
- "Schloss St. Peter in der Au": [
-  48.04577,
-  14.62519
- ],
- "Schloss Therasburg": [
-  48.7152,
-  15.77662
- ],
- "Burgruine Thernberg": [
-  47.66027778,
-  16.15833333
- ],
- "Schloss Th\u00fcrnthal": [
-  48.43738,
-  15.84577
- ],
- "Schloss Traismauer": [
-  48.33333333,
-  15.73305556
- ],
- "Schloss Trautmannsdorf, Trautmannsdorf an der Leitha": [
-  48.021947,
-  16.641066
- ],
- "Ruine Tursenstein (\u00d6des Schloss, Stein am Kamp), Altenburg": [
-  48.62935,
-  15.60521
- ],
- "Schloss Ulmerfeld, Amstetten": [
-  48.07694444,
-  14.82361111
- ],
- "Schloss Ulrichskirchen": [
-  48.39932,
-  16.49538
- ],
- "Schloss Vesten\u00f6tting": [
-  48.8298,
-  15.2991
- ],
- "Schloss Viehofen, St. P\u00f6lten - Viehofen": [
-  48.230065,
-  15.641012
- ],
- "Schloss V\u00f6slau, Bad V\u00f6slau": [
-  47.9654,
-  16.21534
- ],
- "Schloss V\u00f6stenhof": [
-  47.71706944,
-  15.98162778
- ],
- "Schloss Waidhofen an der Thaya": [
-  48.81491,
-  15.28572
- ],
- "Schloss Walkenstein": [
-  48.71536,
-  15.72838
- ],
- "Schloss Walkersdorf": [
-  48.446511,
-  15.731993
- ],
- "Schloss Walpersdorf": [
-  48.31348,
-  15.67645
- ],
- "Schloss Walterskirchen (Veste Wolfsthal, Schloss Wolfsthal), Wolfsthal": [
-  48.13666667,
-  17.00638889
- ],
- "Burg Wartenstein": [
-  47.65053056,
-  15.9191
- ],
- "Schloss Wasenhof, Biedermannsdorf": [
-  48.08406111,
-  16.34398056
- ],
- "Schloss Wasserburg, St. P\u00f6lten - Pottenbrunn": [
-  47.57,
-  9.63833333
- ],
- "Schloss Weikersdorf, Baden": [
-  48.00798,
-  16.22066
- ],
- "Burgruine Weikertschlag, Weikertschlag an der Thaya": [
-  48.91222222,
-  15.475
- ],
- "Schloss Weilburg (Baden)": [
-  48.006667,
-  16.208889
- ],
- "Schloss Weinzierl": [
-  48.126944,
-  15.124722
- ],
- "Burgruine Weitenegg": [
-  48.23005,
-  15.29414
- ],
- "Schloss Weitra": [
-  48.69941,
-  14.89363
- ],
- "Burg Wei\u00dfenburg, Frankenfels-Wei\u00dfenburg": [
-  47.99944444,
-  15.35527778
- ],
- "Schloss Wetzdorf": [
-  48.498578,
-  15.950719
- ],
- "Burg Wiener Neustadt": [
-  47.8099,
-  16.24581
- ],
- "Schloss Wieselburg": [
-  48.1270414,
-  15.1225408
- ],
- "Burg Wildegg": [
-  48.08611,
-  16.1653
- ],
- "Schloss Wilfersdorf": [
-  48.58525,
-  16.64598
- ],
- "Schloss Wolfpassing, Wolfpassing": [
-  48.077341,
-  15.064615
- ],
- "Schloss Wolfsberg, Angern bei Krems": [
-  46.84194444,
-  14.84861111
- ],
- "Burgruine Wolfstein, Sch\u00f6nb\u00fchel-Aggsbach": [
-  49.29411111,
-  11.49183333
- ],
- "Schloss Wolkersdorf": [
-  48.38096,
-  16.5193
- ],
- "Schloss Zeillern": [
-  48.12851,
-  14.80902
- ],
- "Burgruine Zelking, Zelking-Matzleinsdorf": [
-  48.18423889,
-  15.26833056
- ],
- "Schloss Zell an der Ybbs, Zell an der Ybbs": [
-  47.96278,
-  14.7754
- ],
- "Burgruine Ziegersberg, Z\u00f6bern": [
-  47.498081,
-  16.138415
- ],
- "Schloss Zistersdorf, Landesberufschule": [
-  48.51666667,
-  16.75
- ],
- "Schloss Zogelsdorf": [
-  48.61868,
-  15.8131
- ],
- "Burgruine Hausberg Zorimauer, Schiltern Gemeinde Langenlois": [
-  48.51709,
-  15.62517
- ],
- "Schloss Zwentendorf": [
-  48.34509048,
-  15.91271728
- ],
- "Schloss Aich, Bad Zell": [
-  48.369722,
-  14.678333
- ],
- "Schloss Aichet, Steyr": [
-  48.0450518,
-  14.4118099
- ],
- "Schloss Aigen, Atzbach": [
-  47.78611111,
-  13.08805556
- ],
- "Schloss Aigenegg, Thalheim bei Wels": [
-  48.15132778,
-  14.03233333
- ],
- "Schloss Ainwalding, Ungenach": [
-  48.0624233,
-  13.6102092
- ],
- "Schloss Aistersheim, Aistersheim": [
-  48.18643611,
-  13.73986944
- ],
- "Schloss Almegg, Steinerkirchen an der Traun": [
-  48.07055556,
-  13.92055556
- ],
- "Schloss Altenhof, Pfarrkirchen im M\u00fchlkreis": [
-  48.50555556,
-  13.77805556
- ],
- "Burg Altpernstein, Micheldorf in Ober\u00f6sterreich": [
-  47.885,
-  14.15666667
- ],
- "Schloss Arbing, Arbing": [
-  48.22687,
-  14.70573
- ],
- "Schloss Aschach, Aschach an der Donau": [
-  50.254253,
-  10.062048
- ],
- "Freisitz Auerberg, Linz": [
-  48.30017589,
-  14.2816354
- ],
- "Schloss Aurolzm\u00fcnster, Aurolzm\u00fcnster": [
-  48.24944444,
-  13.45555556
- ],
- "Schloss Au\u00dfenstein, Baumgartenberg": [
-  48.22352,
-  14.749718
- ],
- "Schloss Berg bei Rohrbach, Berg bei Rohrbach": [
-  48.5751836,
-  13.9954799
- ],
- "Schloss Bergham, Leonding": [
-  48.2827344,
-  14.2288818
- ],
- "Bergschl\u00f6ssl, Linz": [
-  48.290861,
-  14.285672
- ],
- "Burg Blankenberg, Neufelden": [
-  50.76454722,
-  7.3593
- ],
- "Schloss Bogenhofen, St. Peter am Hart": [
-  48.268541,
-  13.110983
- ],
- "Schloss Brandstatt, Pupping": [
-  48.33612813,
-  14.02463365
- ],
- "Schloss Breitenbruck, Katsdorf": [
-  48.32621,
-  14.47732
- ],
- "Schloss Brunnthal, St. Veit im Innkreis": [
-  48.20741667,
-  13.27502778
- ],
- "Schloss Brunnwald, Vorderwei\u00dfenbach": [
-  48.51922,
-  14.25025
- ],
- "Burg Clam, Klam": [
-  48.22091944,
-  14.77848889
- ],
- "Schloss Cumberland, Gmunden": [
-  47.9275,
-  13.80805556
- ],
- "Schloss Dachsberg, Prambachkirchen": [
-  48.299358,
-  13.927724
- ],
- "Schloss Dietach, Schlei\u00dfheim": [
-  48.15952778,
-  14.09177778
- ],
- "Schloss Dorff, Schlierbach": [
-  47.942487,
-  14.127285
- ],
- "Burgruine Dornach, Lasberg": [
-  48.46583333,
-  14.525
- ],
- "Schloss Dornach, Saxen": [
-  48.190888,
-  14.827855
- ],
- "Schloss Ebelsberg, Linz-Ebelsberg": [
-  48.246758,
-  14.328243
- ],
- "Schloss Ebenzweier, Altm\u00fcnster": [
-  47.896636,
-  13.762767
- ],
- "Schloss Egeregg, Linz": [
-  48.306756,
-  14.292108
- ],
- "Egerer Schl\u00f6ssl, Weyer": [
-  47.8586999,
-  14.6662798
- ],
- "Schloss Eggenberg, Vorchdorf": [
-  47.073882,
-  15.391327
- ],
- "Schloss Eggendorf, Eggendorf im Traunkreis": [
-  48.13175,
-  14.14838889
- ],
- "Burg Einburg, Raab": [
-  48.34266667,
-  13.61541667
- ],
- "Schloss Engelhof, Steyr": [
-  48.041927,
-  14.431611
- ],
- "Schloss Engelseck, Steyr": [
-  48.03862,
-  14.410416
- ],
- "Schloss Engleithen, Bad Ischl": [
-  47.67982,
-  13.61938
- ],
- "Ennsburg, Enns": [
-  48.217121,
-  14.484143
- ],
- "Schloss Ennsegg, Enns": [
-  48.21556761,
-  14.48093319
- ],
- "Schloss Erb, Friedburg": [
-  48.017566,
-  13.258891
- ],
- "Schloss Eschelberg, St. Gotthard im M\u00fchlkreis": [
-  48.38158889,
-  14.11825
- ],
- "Schloss Etzelsdorf, Pichl bei Wels": [
-  48.179191,
-  13.892481
- ],
- "Burgruine Falkenstein, Hofkirchen im M\u00fchlkreis": [
-  48.49408056,
-  13.78268056
- ],
- "Schloss Feldegg, Pram": [
-  48.238359,
-  13.594293
- ],
- "Schloss Feyregg, Pfarrkirchen bei Bad Hall": [
-  48.032516,
-  14.194953
- ],
- "Schloss Forstern, Burgkirchen": [
-  48.212018,
-  13.098515
- ],
- "Burgruine Freudenstein, Feldkirchen an der Donau": [
-  48.351698,
-  14.096735
- ],
- "Wasserschloss Freiling, Oftering": [
-  48.23645,
-  14.123418
- ],
- "Schloss Frein, Frankenburg am Hausruck": [
-  48.067168,
-  13.48271
- ],
- "Schloss Freistadt, Freistadt": [
-  48.51233056,
-  14.50655
- ],
- "Schloss Freizell, Hofkirchen im M\u00fchlkreis": [
-  48.44765,
-  13.83293
- ],
- "Fuchsenhof, Freistadt": [
-  48.50101111,
-  14.48876111
- ],
- "Wasserschloss Gallspach, Gallspach": [
-  48.206389,
-  13.813056
- ],
- "Schloss Geretsdorf, Burgkirchen": [
-  48.20230556,
-  13.11344444
- ],
- "Schloss Gneisenau, Kleinzell im M\u00fchlkreis": [
-  48.4549,
-  13.98673889
- ],
- "Schloss Gotterau, Ansfelden": [
-  48.22813,
-  14.29399
- ],
- "Schloss G\u00f6tzendorf, Oepping": [
-  48.56677778,
-  13.94941667
- ],
- "Burg Graben, Kirchdorf am Inn": [
-  48.286527,
-  13.262423
- ],
- "Schloss Greinburg, Grein": [
-  48.22638889,
-  14.85305556
- ],
- "Schloss Greisingberg, Pregarten": [
-  48.3458279,
-  14.5590745
- ],
- "Schloss Gschwendt, Neuhofen an der Krems": [
-  48.13766882,
-  14.23606038
- ],
- "Schloss Habichrigl, Bad Zell": [
-  48.348255,
-  14.656754
- ],
- "Schloss Hackledt, Eggerding": [
-  48.35244444,
-  13.44577778
- ],
- "Schloss Hagenau, St. Peter am Hart": [
-  48.27505278,
-  13.09965833
- ],
- "Schloss Hagenberg, Hagenberg im M\u00fchlkreis": [
-  48.366667,
-  14.515
- ],
- "Burgstall Alt-Hagenberg, Hagenberg im M\u00fchlkreis": [
-  48.366,
-  14.5113
- ],
- "Burgruine Haichenbach, Hofkirchen im M\u00fchlkreis": [
-  48.43472222,
-  13.855
- ],
- "Schloss Haiding, Krenglbach": [
-  48.21305556,
-  13.97444444
- ],
- "Schloss Haitzing, Andorf": [
-  48.3585,
-  13.57038889
- ],
- "Schloss Hall, Bad Hall": [
-  48.0363322,
-  14.2049351
- ],
- "Schloss Hammeries, Laussa": [
-  47.9370117,
-  14.421577
- ],
- "Schloss Hartheim, Alkoven": [
-  48.28115833,
-  14.11375
- ],
- "Schloss Harrachstal, Weitersfelden": [
-  48.504827,
-  14.6863
- ],
- "Schloss Helfenberg, Helfenberg": [
-  48.54333333,
-  14.13694444
- ],
- "Schloss Hinterndobl, Dorf an der Pram": [
-  48.25541667,
-  13.62458333
- ],
- "Schloss Hochhaus, Vorchdorf": [
-  48.0037585,
-  13.9225243
- ],
- "Burgstall Hochkuchl, Lohnsburg": [
-  48.131405,
-  13.378955
- ],
- "Schloss Hochscharten, Waizenkirchen": [
-  48.332585,
-  13.862701
- ],
- "Schloss Hohenbrunn, St. Florian": [
-  48.19908333,
-  14.35619444
- ],
- "Burgstall Holz\u00f6ster, Franking": [
-  48.0642,
-  12.964
- ],
- "Schloss Hueb, Mettmach": [
-  48.18277778,
-  13.33247222
- ],
- "Wasserschloss Hueb, Eggendorf im Traunkreis": [
-  48.13371836,
-  14.1551435
- ],
- "Schloss Ibm, Eggelsberg": [
-  48.065,
-  12.964
- ],
- "Schloss Innersee, Rottenbach": [
-  48.21361111,
-  13.69327778
- ],
- "Schloss Innernstein, M\u00fcnzbach": [
-  48.270023,
-  14.754001
- ],
- "Schloss Irnharting, Gunskirchen": [
-  48.12847222,
-  13.914
- ],
- "Kaiservilla, Bad Ischl": [
-  47.715,
-  13.62083333
- ],
- "Schloss Kammer, Sch\u00f6rfling am Attersee": [
-  47.94614722,
-  13.59138056
- ],
- "Burgstall Kammermaier, Neumarkt im M\u00fchlkreis": [
-  48.4776,
-  14.463
- ],
- "Ansitz Katzenberg, Mettmach": [
-  48.183348,
-  13.345556
- ],
- "Schloss Klaus, Klaus an der Pyhrnbahn": [
-  47.82361111,
-  14.15472222
- ],
- "Burgruine Klingenberg, St. Thomas am Blasenstein": [
-  48.32441,
-  14.7888
- ],
- "Burg Kogl, St. Georgen im Attergau": [
-  47.93777778,
-  13.46277778
- ],
- "Burgruine K\u00f6nigstein, Freinberg": [
-  50.1825,
-  8.46083333
- ],
- "Schloss K\u00f6ppach, Atzbach": [
-  48.072175,
-  13.69691667
- ],
- "Burg Krempelstein, Esternberg": [
-  48.5625,
-  13.58611111
- ],
- "Schloss Kremsegg, Kremsm\u00fcnster": [
-  48.05444444,
-  14.14555556
- ],
- "Burg Kreuzen, Bad Kreuzen": [
-  48.25916667,
-  14.82
- ],
- "Burgruine Kronest, Neumarkt im M\u00fchlkreis": [
-  48.44805556,
-  14.48277778
- ],
- "Schloss Lamberg, Steyr": [
-  48.04166667,
-  14.41888889
- ],
- "Burgruine Langenstein, Langenstein": [
-  48.24416667,
-  14.47027778
- ],
- "Burg Lasberg, abgekommene Wasserburg in Lasberg": [
-  48.4714019,
-  14.5394515
- ],
- "Schloss Lassereck, Unterach am Attersee": [
-  47.8061325,
-  13.4913241
- ],
- "Schloss Leombach, Sipbachzell": [
-  48.12533333,
-  14.09244444
- ],
- "Burgruine Leonstein, Gr\u00fcnburg": [
-  46.63902778,
-  14.12916667
- ],
- "Wasserschloss Lichtenegg, Wels": [
-  48.151852,
-  14.005678
- ],
- "Burgruine Lichtenhag, Gramastetten": [
-  48.37938056,
-  14.17541944
- ],
- "Schloss Lindach, Laakirchen": [
-  48.830045,
-  9.809455
- ],
- "Linzer Schloss, Linz": [
-  48.305,
-  14.2825
- ],
- "Linzer Landhaus, Linz": [
-  48.30388889,
-  14.28555556
- ],
- "Schloss Litzlberg, Seewalchen am Attersee": [
-  47.93286111,
-  13.55836111
- ],
- "Burgruine Lobenstein, Oberneukirchen": [
-  49.147032,
-  12.408419
- ],
- "Burg Lonstorf, Linz": [
-  48.28771295,
-  14.32235348
- ],
- "Burg Losenstein, Losenstein": [
-  47.92398889,
-  14.43765278
- ],
- "Schloss Losensteinleithen, Wolfern": [
-  48.1156,
-  14.359
- ],
- "Burg Luftenberg, Luftenberg an der Donau": [
-  48.269816,
-  14.40996
- ],
- "Schloss Luftenberg, Luftenberg an der Donau": [
-  48.269978,
-  14.411262
- ],
- "Schloss Mamling, Mining": [
-  48.277827,
-  13.190942
- ],
- "Schloss Maasbach, Eggerding": [
-  48.34211111,
-  13.43985556
- ],
- "Schloss Mayrhof, Eberschwang": [
-  48.15636111,
-  13.56713889
- ],
- "Marmorschl\u00f6ssl, Bad Ischl": [
-  47.71666667,
-  13.61777778
- ],
- "Schloss Marsbach, Hofkirchen im M\u00fchlkreis": [
-  48.45825,
-  13.82293056
- ],
- "Schloss Mattighofen, Mattighofen": [
-  48.10561111,
-  13.15002778
- ],
- "Schloss Mistelbach, Buchkirchen": [
-  48.23927778,
-  14.06263333
- ],
- "Burgruine Mitterberg, Perg": [
-  48.252307,
-  14.659112
- ],
- "Burgruine M\u00f6stling, Neumarkt im M\u00fchlkreis": [
-  48.4158,
-  14.475267
- ],
- "Schloss Mondsee, Mondsee": [
-  47.856521,
-  13.350485
- ],
- "Burgruine Morau, St. Oswald bei Haslach": [
-  48.6227469,
-  14.04434681
- ],
- "Schloss M\u00fchldorf, Feldkirchen an der Donau": [
-  48.34086944,
-  14.08278056
- ],
- "Schloss M\u00fchlgrub, Bad Hall": [
-  48.025298,
-  14.2037047
- ],
- "Schloss M\u00fchllacken, Feldkirchen an der Donau": [
-  48.36545278,
-  14.06408333
- ],
- "Schloss M\u00fchlwang, Gmunden": [
-  47.9216663,
-  13.8047596
- ],
- "Edelsitz Murau, Utzenaich": [
-  48.27633333,
-  13.49602778
- ],
- "Schloss Neuhaus an der Donau, St. Martin im M\u00fchlkreis": [
-  48.42263056,
-  13.99161944
- ],
- "Schloss Neuhaus, Geinberg": [
-  51.74527778,
-  8.7125
- ],
- "Schloss Neukirchen an der Enknach, Neukirchen an der Enknach": [
-  48.179104,
-  13.047151
- ],
- "Schloss Neupernstein, Kirchdorf an der Krems": [
-  47.9031602,
-  14.1312467
- ],
- "Schloss Neydharting, Bad Wimsbach-Neydharting": [
-  48.05499,
-  13.89264
- ],
- "Schloss Niederwesen, Waldkirchen am Wesen": [
-  48.45897222,
-  13.80927778
- ],
- "Edelsitz Obenaus, Gunskirchen": [
-  48.13527778,
-  13.913
- ],
- "Schloss Obereitzing, Eitzing": [
-  48.23397222,
-  13.49602778
- ],
- "Burg Obernberg, Obernberg am Inn": [
-  48.323246,
-  13.3334
- ],
- "Burgruine Oberwallsee, Feldkirchen an der Donau": [
-  48.36831111,
-  14.05938889
- ],
- "Schloss Oberweis, Laakirchen": [
-  47.953454,
-  13.820687
- ],
- "Schloss Ofenwang, Ostermiething": [
-  48.04180556,
-  12.86408333
- ],
- "Schloss Ort, Gmunden": [
-  47.91152778,
-  13.79233056
- ],
- "Schloss Ort im Innkreis, Ort im Innkreis": [
-  48.31926389,
-  13.43445833
- ],
- "Schloss Ottensheim": [
-  48.32998889,
-  14.17353056
- ],
- "Schloss Ottsdorf, Thalheim bei Wels": [
-  48.148751,
-  14.07613
- ],
- "Schloss Partenstein, Kirchberg ob der Donau": [
-  48.4320975,
-  13.9851898
- ],
- "Schloss Parz, Grieskirchen": [
-  48.23402778,
-  13.84486111
- ],
- "Wasserschloss Parz, Grieskirchen": [
-  48.2345,
-  13.84497222
- ],
- "Schloss Perwang, Perwang am Grabensee": [
-  48.00736111,
-  13.08308333
- ],
- "Schloss Pesenbach, Feldkirchen an der Donau": [
-  48.34809,
-  14.07039
- ],
- "Schloss Pettenbach, Pettenbach": [
-  47.960139,
-  14.018616
- ],
- "Schloss Peuerbach, Peuerbach": [
-  48.344182,
-  13.770987
- ],
- "Schloss Pfaffst\u00e4tt, Pfaffst\u00e4tt": [
-  48.07565,
-  13.144733
- ],
- "Schloss Piberbach, Piberbach": [
-  48.11519444,
-  14.22658333
- ],
- "Burg Piberstein, Ahorn": [
-  48.53055556,
-  14.15583333
- ],
- "Schloss Poneggen, Schwertberg": [
-  48.27255,
-  14.56424
- ],
- "Schloss Pragstein, Mauthausen": [
-  48.24052,
-  14.51555
- ],
- "Schloss Pragtal, Windhaag bei Perg": [
-  48.264655,
-  14.664099
- ],
- "Burgruine Prandegg, Sch\u00f6nau im M\u00fchlkreis": [
-  48.41472222,
-  14.66666667
- ],
- "Schloss Puchberg, Wels": [
-  48.190676,
-  14.010721
- ],
- "Schloss Puchenau, Puchenau": [
-  48.31193889,
-  14.2348
- ],
- "Burg Puchetwies, Lembach im M\u00fchlkreis": [
-  48.4940399,
-  13.8996049
- ],
- "Schloss Puchheim, Attnang-Puchheim": [
-  47.99996,
-  13.71498
- ],
- "Burg P\u00fcrnstein, Neufelden": [
-  48.50194444,
-  14.0125
- ],
- "Schloss Raab, Raab": [
-  48.35166667,
-  13.64916667
- ],
- "Schloss Rannariedl, Neustift im M\u00fchlkreis": [
-  48.48083333,
-  13.77194444
- ],
- "Schloss Ranshofen, Braunau am Inn": [
-  48.23138889,
-  13.01944444
- ],
- "Burgruine Reichenau, Reichenau im M\u00fchlkreis": [
-  48.45305556,
-  14.34722222
- ],
- "Burg Reichenstein, Tragwein": [
-  50.005125,
-  7.85350278
- ],
- "Schloss Reinleiten, Grieskirchen": [
-  48.23806754,
-  13.82111621
- ],
- "Burg Ried im Innkreis, Ried im Innkreis": [
-  48.21082049,
-  13.49334168
- ],
- "Schloss Riedau, Riedau": [
-  48.3025,
-  13.63416667
- ],
- "Schloss Riedegg, Alberndorf in der Riedmark": [
-  48.367781,
-  14.403731
- ],
- "Schloss Riegerting, Mehrnbach": [
-  48.18052778,
-  13.40136111
- ],
- "Schloss Rosenegg, Steyr": [
-  47.645837,
-  9.178608
- ],
- "Burgruine Rotenfels, Herzogsdorf": [
-  48.44777778,
-  14.16916667
- ],
- "Burgruine Rottenegg, St. Gotthard im M\u00fchlkreis": [
-  48.36915,
-  14.13983056
- ],
- "Schloss Rufling, Leonding": [
-  48.2767,
-  14.21476
- ],
- "Burgruine Ruttenstein, Pierbach": [
-  48.37833333,
-  14.77111111
- ],
- "Jagdschloss Sachsenburg, H\u00f6rsching": [
-  48.22086375,
-  14.19963598
- ],
- "Schloss St. Martin im Innkreis, St. Martin im Innkreis": [
-  48.29536111,
-  13.43822222
- ],
- "Schloss St. Veit, St. Veit im M\u00fchlkreis": [
-  48.46831188,
-  14.16130185
- ],
- "Burgruine S\u00e4bnich, St. Nikola an der Donau": [
-  48.242355,
-  14.943926
- ],
- "Burgruine Sarmingstein, St. Nikola an der Donau": [
-  48.23372,
-  14.94182
- ],
- "Turmruine Sarmingstein, St. Nikola an der Donau": [
-  48.23194,
-  14.93983
- ],
- "Burgruine Saxenegg, St. Thomas am Blasenstein": [
-  48.29692,
-  14.74121
- ],
- "Burg Schallenburg, Kleinzell im M\u00fchlkreis": [
-  50.805024,
-  6.91882
- ],
- "Burgruine Scharnstein, Scharnstein": [
-  47.89194444,
-  13.96333333
- ],
- "Schloss Scharnstein, Scharnstein": [
-  47.90583333,
-  13.96361111
- ],
- "Schloss Neu-Scharnstein, Scharnstein": [
-  47.90583333,
-  13.96361111
- ],
- "Burgruine Schaunberg, Hartkirchen": [
-  48.34194444,
-  13.97694444
- ],
- "Schloss Schieferegg, Kronsdorf": [
-  48.163668,
-  14.464366
- ],
- "Schloss Schl\u00fc\u00dflberg, Schl\u00fc\u00dflberg": [
-  48.217698,
-  13.870453
- ],
- "Schloss Schmiding, Krenglbach": [
-  48.19555556,
-  13.9525
- ],
- "Schloss Sch\u00f6rgern, Andorf": [
-  48.35441667,
-  13.58319444
- ],
- "Schloss Sch\u00f6ndorf, V\u00f6cklabruck": [
-  48.0014825,
-  13.6608783
- ],
- "Ansitz Schweikertsreuth, Maria Schmolln": [
-  48.15727778,
-  13.21647222
- ],
- "Schloss Schwertberg, Schwertberg": [
-  48.27777778,
-  14.58083333
- ],
- "Seisenburg, Pettenbach": [
-  47.92361111,
-  14.03694444
- ],
- "Schloss Selling, Attergau": [
-  47.925658,
-  13.5034311
- ],
- "Schloss Sierning, Sierning": [
-  48.044713,
-  14.3084183
- ],
- "Schloss Sigharting, Sigharting": [
-  48.39527778,
-  13.59944444
- ],
- "Schloss Sp\u00e4ttenbrunn, Neukirchen am Walde": [
-  48.40930556,
-  13.78127778
- ],
- "Burgruine Spielberg, Langenstein": [
-  48.24416667,
-  14.47027778
- ],
- "Schloss Spitzenberg, Mauerkirchen": [
-  48.19005556,
-  13.13819444
- ],
- "Schloss Sprinzenstein, Sarleinsbach": [
-  48.54777778,
-  13.94361111
- ],
- "Schloss Stauff, Frankenmarkt": [
-  47.9848337,
-  13.4327101
- ],
- "Schloss Stein, St. Marien": [
-  47.986625,
-  12.546381
- ],
- "Burgruine Steinerberg, Altenfelden": [
-  48.4565309,
-  13.9460447
- ],
- "Burgruine Steinbach, Niederwaldkirchen": [
-  48.47213884,
-  14.09505129
- ],
- "Burgstall Steinbach, St. Georgen bei Grieskirchen": [
-  48.21416667,
-  13.78666667
- ],
- "Schloss Steinhaus, Steinhaus": [
-  48.116097,
-  14.021306
- ],
- "Schloss Steyregg, Steyregg": [
-  48.28666667,
-  14.37194444
- ],
- "Schloss Sunzing, Mining": [
-  48.28777778,
-  13.19395556
- ],
- "Schloss Tannbach, Gutau": [
-  48.42083333,
-  14.59638889
- ],
- "Burgruine Tannberg, H\u00f6rbich": [
-  48.501842,
-  13.9388737
- ],
- "Schloss Teichst\u00e4tt, Lengau": [
-  48.02708333,
-  13.21586111
- ],
- "Schloss Theuerwang, Vorchdorf": [
-  47.99465,
-  13.945517
- ],
- "Schloss Tillysburg, St. Florian": [
-  48.19917222,
-  14.42262778
- ],
- "Schloss Tollet, Tollet": [
-  48.24477778,
-  13.79913889
- ],
- "Burg Trattenegg, Schl\u00fc\u00dflberg": [
-  48.2225,
-  13.84694444
- ],
- "Schloss Traun, Traun": [
-  48.218889,
-  14.236944
- ],
- "Schloss Traunegg, Thalheim bei Wels": [
-  48.15097222,
-  14.03875
- ],
- "Schloss Traunsee, Gmunden": [
-  47.908477,
-  13.7749652
- ],
- "Schloss Unterach, Unterach am Attersee": [
-  47.8061325,
-  13.4913241
- ],
- "Burg Uttendorf, Helpfau-Uttendorf": [
-  48.15472222,
-  13.11582222
- ],
- "Schloss Utzenaich, Utzenaich": [
-  48.27624046,
-  13.46171737
- ],
- "Schloss Velden, Neufelden": [
-  46.61173333,
-  14.04323611
- ],
- "Burg Vichtenstein, Vichtenstein": [
-  48.52888889,
-  13.65222222
- ],
- "Schloss Voglsang, Ennstal": [
-  48.039557,
-  14.412748
- ],
- "Schloss Voglsang, Steyr": [
-  48.039557,
-  14.412748
- ],
- "Schloss Waikhartsberg, Waizenkirchen": [
-  48.31810928,
-  13.85820258
- ],
- "Burg Walchen, V\u00f6cklamarkt": [
-  47.98486116,
-  13.49096525
- ],
- "Schloss Walchen, V\u00f6cklamarkt": [
-  47.98531356,
-  13.49132252
- ],
- "Schloss Waldenfels, Reichenthal": [
-  48.53944444,
-  14.38888889
- ],
- "Schloss Walkering, V\u00f6cklabruck": [
-  48.016594,
-  13.5087968
- ],
- "Schloss Wanghausen, Hochburg-Ach": [
-  48.15002778,
-  12.82166667
- ],
- "Schloss Wartberg, St. Oswald bei Freistadt": [
-  48.34722222,
-  14.50833333
- ],
- "Schloss Alt-Wartenburg, Timelkam": [
-  48.01111111,
-  13.62222222
- ],
- "Schloss Neu-Wartenburg, Timelkam": [
-  48.011624,
-  13.623334
- ],
- "Burgruine Waxenberg, Oberneukirchen": [
-  48.47518889,
-  14.18851111
- ],
- "Schloss Waxenberg, Oberneukirchen": [
-  48.47722222,
-  14.19083333
- ],
- "Schloss Wegleiten, Ried im Innkreis": [
-  48.19963729,
-  13.48997068
- ],
- "Schloss Weidenholz, Waizenkirchen": [
-  48.333232,
-  13.852856
- ],
- "Schloss Weinberg, Kefermarkt": [
-  48.44861111,
-  14.5375
- ],
- "Edelsitz Weingarting, Linz": [
-  48.30030435,
-  14.28154957
- ],
- "Sitz Weiffendorf, Mettmach": [
-  48.15188889,
-  13.34613889
- ],
- "Schloss Wei\u00dfau, Lochen am See": [
-  48.03172222,
-  13.17833333
- ],
- "Schloss Weitersdorf, Eggendorf im Traunkreis": [
-  48.12019444,
-  14.13519444
- ],
- "Burg Wels, Wels": [
-  48.15669444,
-  14.02808333
- ],
- "Burg Werfenstein, St. Nikola an der Donau": [
-  48.2298285,
-  14.8922668
- ],
- "Burgruine Wesen, Wesenufer": [
-  48.44055556,
-  13.82777778
- ],
- "Schloss Weyregg, Weyregg am Attersee": [
-  47.8996974,
-  13.5698657
- ],
- "Schloss Wildenau, Aspach": [
-  48.20463889,
-  13.31510278
- ],
- "Burgruine Wildeneck, Oberhofen am Irrsee": [
-  47.914098,
-  13.289997
- ],
- "Burg Wildenstein, Bad Ischl": [
-  48.05555556,
-  9.00069444
- ],
- "Schloss Wildshut, St. Pantaleon": [
-  48.00728333,
-  12.86597778
- ],
- "Schloss Wimhub, St. Veit im Innkreis": [
-  48.20213075,
-  13.27574574
- ],
- "Schloss Wimsbach, Bad Wimsbach-Neydharting": [
-  48.06235278,
-  13.89984722
- ],
- "Burgruine Windegg, Schwertberg": [
-  48.29371111,
-  14.59661111
- ],
- "Schloss Windern, Desselbrunn": [
-  48.02481667,
-  13.79292222
- ],
- "Schloss Windhaag, Windhaag bei Perg": [
-  48.284461,
-  14.684724
- ],
- "Burgruine Windhaag, Windhaag bei Perg": [
-  48.28444444,
-  14.68472222
- ],
- "Schloss Wolfsegg, Wolfsegg am Hausruck": [
-  48.108742,
-  13.674075
- ],
- "Schloss W\u00fcrting, Offenhausen": [
-  48.14583333,
-  13.83083333
- ],
- "Schloss Zarghof, Haslach an der M\u00fchl": [
-  48.6018058,
-  14.0439424
- ],
- "Schloss Zell an der Pram, Zell an der Pram": [
-  48.31555556,
-  13.62972222
- ],
- "Schloss Zellhof, Bad Zell": [
-  48.342036,
-  14.700569
- ],
- "Burgruine Z\u00f6ch, Altenberg bei Linz": [
-  48.37119444,
-  14.34988889
- ],
- "Schloss Zwickledt, Wernstein am Inn": [
-  48.50272222,
-  13.47577778
- ],
- "Schloss Aigen, Stadt Salzburg": [
-  47.78611111,
-  13.08805556
- ],
- "Burgstall Kalham, Eugendorf": [
-  47.84664051,
-  13.15623522
- ],
- "Schloss Altenau, Stadt Salzburg": [
-  47.80552778,
-  13.04201944
- ],
- "Burg Altentann, Henndorf": [
-  47.890805,
-  13.199717
- ],
- "Schloss Anif, Anif": [
-  47.745,
-  13.07027778
- ],
- "Badeschloss, Badgastein": [
-  47.113979,
-  13.136934
- ],
- "Benediktschl\u00f6ssl, Hallein": [
-  47.679201,
-  13.092348
- ],
- "Schloss Bl\u00fchnbach, Sulzau, Werfen": [
-  47.48027778,
-  13.10502778
- ],
- "Schloss B\u00f6ckstein, Badgastein": [
-  47.0888057,
-  13.1154043
- ],
- "Ansitz Colloredo, Hallein": [
-  47.6842189,
-  13.0902239
- ],
- "Daunschl\u00f6ssl, Salzburg": [
-  47.79237695,
-  13.04330617
- ],
- "Schloss Dorfheim Saalfelden": [
-  47.43144444,
-  12.83537778
- ],
- "Burgruine Edenvest, Thomatal, Tamsweg": [
-  47.072809,
-  13.728269
- ],
- "Edmundsburg, Salzburg": [
-  47.79728056,
-  13.04195278
- ],
- "Edtburg, Taxenbach": [
-  47.29027778,
-  12.97361111
- ],
- "Schloss Ein\u00f6dberg, Mittersill": [
-  47.2826481,
-  12.4313694
- ],
- "Egglauer Schl\u00f6ssel, Hallein": [
-  47.679663,
-  13.092606
- ],
- "Schloss Elsenheim, Salzburg": [
-  47.80007,
-  13.06005
- ],
- "Schloss Emsburg, Salzburg": [
-  47.77194444,
-  13.06194444
- ],
- "Schloss Emslieb, Salzburg": [
-  47.76555556,
-  13.06527778
- ],
- "Schloss Farmach, Saalfelden": [
-  47.42107778,
-  12.857265
- ],
- "Felberturm, Mittersill": [
-  47.277787,
-  12.4919117
- ],
- "Burg Finstergr\u00fcn, Ramingstein": [
-  47.07388889,
-  13.84305556
- ],
- "Schloss Fischhorn Bruck an der Glocknerstra\u00dfe": [
-  47.286386,
-  12.823857
- ],
- "Flederbachschl\u00f6ssl, Salzburg": [
-  47.79735833,
-  13.06920556
- ],
- "Schloss Freisaal, Salzburg": [
-  47.78694444,
-  13.0575
- ],
- "Freyschl\u00f6ssl, Salzburg": [
-  47.79535,
-  13.04323889
- ],
- "Schloss Frohnburg, Salzburg": [
-  47.777306,
-  13.061097
- ],
- "Schloss Fuschl, Fuschl am See": [
-  47.80860806,
-  13.25535889
- ],
- "Schloss F\u00fcrberg, Salzburg": [
-  47.80374592,
-  13.06261539
- ],
- "Schloss Gartenau, Gr\u00f6dig": [
-  47.7222144,
-  13.0463984
- ],
- "Schloss Glanegg, Gr\u00f6dig": [
-  47.74972222,
-  13.00833333
- ],
- "Schloss Goldegg, Goldegg im Pongau": [
-  48.237108,
-  15.531256
- ],
- "Schloss Goldenstein, Elsbethen": [
-  47.758764,
-  13.081369
- ],
- "Burg Golling, Golling an der Salzach": [
-  47.59723889,
-  13.16688056
- ],
- "Grimmingschloss, Tamsweg": [
-  47.1259658,
-  13.8122771
- ],
- "Ansitz Gr\u00f6bendorf, Mariapfarr": [
-  47.136337,
-  13.721936
- ],
- "Schloss Grubhof (Sankt Martin bei Lofer)": [
-  47.574123,
-  12.703584
- ],
- "Schloss Guggenthal, Koppl": [
-  47.818688,
-  13.09865
- ],
- "Burgruine Guetrat, Hallein": [
-  47.70805556,
-  13.06055556
- ],
- "Ruine Alt-Gutrat, Hallein": [
-  47.708176,
-  13.058669
- ],
- "Burg Haunsperg, Schl\u00f6\u00dfl": [
-  47.93125,
-  12.98980556
- ],
- "Schloss Haunsperg, Oberalm": [
-  47.69519444,
-  13.10447222
- ],
- "Schloss Hellbrunn, Salzburg": [
-  47.76222222,
-  13.06083333
- ],
- "Schloss Heuberg, Bruck an der Glocknerstra\u00dfe": [
-  47.291515,
-  12.876324
- ],
- "Burgruine Hieburg, Neukirchen am Gro\u00dfvenediger": [
-  47.24666667,
-  12.24444444
- ],
- "Schloss Hochneukirchen, Neukirchen am Gro\u00dfvenediger": [
-  47.255622,
-  12.273775
- ],
- "Festung Hohensalzburg, Salzburg": [
-  47.79496667,
-  13.04725556
- ],
- "Burg Hohenwerfen, Werfen": [
-  47.48272,
-  13.18821
- ],
- "Schloss H\u00f6ch, Flachau": [
-  47.36694444,
-  13.36805556
- ],
- "Schloss H\u00fcttenstein, St. Gilgen": [
-  47.78166667,
-  13.38666667
- ],
- "Johannisschl\u00f6ssl (Pallottinerschl\u00f6ssl), Salzburg": [
-  47.80222222,
-  13.03305556
- ],
- "Schloss Kahlsperg, Oberalm": [
-  47.7038968,
-  13.0895426
- ],
- "Schloss Kammer, Maishofen": [
-  47.94614722,
-  13.59138056
- ],
- "Burg Kaprun, Kaprun": [
-  47.274396,
-  12.770984
- ],
- "Wohnturm Kasten, Bischofshofen": [
-  47.4146514,
-  13.2185014
- ],
- "Burg Klammstein, Dorfgastein": [
-  47.2753677,
-  13.0762438
- ],
- "Burgruine Klausegg, Seetal bei Tamsweg": [
-  47.155227,
-  13.962233
- ],
- "Schloss Klessheim, Wals-Siezenheim": [
-  47.81944444,
-  12.99194444
- ],
- "Schloss Kuenburg, Tamsweg": [
-  47.1289371,
-  13.8104069
- ],
- "Kupelwieser-Schl\u00f6ssl, Salzburg": [
-  47.79445,
-  13.03988889
- ],
- "Schloss Labach (Lambach, Labenbach), Stuhlfelden": [
-  47.2767963,
-  12.5149541
- ],
- "Schloss Leopoldskron, Salzburg": [
-  47.78833333,
-  13.03861111
- ],
- "Schloss Lerchen, Radstadt": [
-  47.3875012,
-  13.4580113
- ],
- "Schloss Lichtenberg, Saalfelden": [
-  47.44120833,
-  12.8607
- ],
- "Burgruine Lichtentann, Henndorf": [
-  47.89826,
-  13.234963
- ],
- "Luegermayer-Schl\u00f6ssl, Salzburg": [
-  47.80243056,
-  13.06978611
- ],
- "Marketenderschl\u00f6ssl, Salzburg": [
-  47.8,
-  13.035
- ],
- "Schloss Mattsee, Mattsee": [
-  47.97083333,
-  13.10805556
- ],
- "Schloss Mauer, Radstadt": [
-  47.38719,
-  13.47186
- ],
- "Burg Mauterndorf, Mauterndorf": [
-  47.1375,
-  13.67833333
- ],
- "Schloss Mirabell, Salzburg": [
-  47.80552778,
-  13.04201944
- ],
- "Schloss Mittersill, Mittersill": [
-  47.287408,
-  12.484598
- ],
- "Montforterhof, Salzburg": [
-  49.76541667,
-  7.76736111
- ],
- "Schloss Moosham, Unternberg im Lungau": [
-  47.10194444,
-  13.70694444
- ],
- "Schloss M\u00f6nchstein, Salzburg": [
-  47.804133,
-  13.035793
- ],
- "Schloss Neudegg, Salzburg": [
-  47.7875,
-  13.05194444
- ],
- "Schloss Neuhaus, Salzburg": [
-  51.74527778,
-  8.7125
- ],
- "Schloss Niederrain, Mariapfarr": [
-  47.1569691,
-  13.727439
- ],
- "Schloss Oberrain, Unken bei Lofer": [
-  47.6443409,
-  12.7285257
- ],
- "Paschinger Schl\u00f6ssl, Kapuzinerberg in Salzburg": [
-  47.80265,
-  13.04776
- ],
- "Penninghof, Taxenbach": [
-  47.294392,
-  12.9657512
- ],
- "Schloss Pfongau, Neumarkt am Wallersee": [
-  47.947271,
-  13.246331
- ],
- "Burgruine Plainburg, Gro\u00dfgmain": [
-  47.7255,
-  12.92133333
- ],
- "Schloss Prielau, Maishofen": [
-  47.342597,
-  12.805671
- ],
- "Schloss Puchstein, Puch bei Hallein": [
-  47.715296,
-  13.091408
- ],
- "Burg Radeck, Bergheim (abgegangen)": [
-  47.8360873,
-  13.0561288
- ],
- "Burg Radstadt, Radstadt (abgegangen)": [
-  47.3855965,
-  13.4653541
- ],
- "Rauchenbichlerhof, Salzburg": [
-  47.80861111,
-  13.06305556
- ],
- "Schloss Ritzen, Ritzen bei Saalfelden": [
-  47.42111111,
-  12.84590389
- ],
- "Schloss Rif, Hallein": [
-  47.7199337,
-  13.0691382
- ],
- "Robinighof, Salzburg": [
-  47.814215,
-  13.061498
- ],
- "Schloss Rosenberg, Zell am See": [
-  47.32333333,
-  12.79644444
- ],
- "Lasserhof (Rupertihof, Gwandhaus), Salzburg": [
-  47.77919444,
-  13.05763889
- ],
- "Burgruine Saalegg, Sankt Martin bei Lofer": [
-  47.526001,
-  12.735593
- ],
- "Schloss Saalhof, Maishofen": [
-  47.36006306,
-  12.80103
- ],
- "Schloss Sankt Jakob am Thurn, Puch": [
-  47.7406642,
-  13.09207
- ],
- "Schloss Schernberg, Schwarzach im Pongau": [
-  47.32527778,
-  13.13916667
- ],
- "Schlossbauerngut, Liefering": [
-  47.822831,
-  13.011117
- ],
- "Schloss Sch\u00f6nleiten, Liefering": [
-  47.816274,
-  13.012956
- ],
- "Schloss Seeburg, Seekirchen": [
-  46.71322222,
-  7.96583333
- ],
- "Schloss Sighartstein, Neumarkt am Wallersee": [
-  47.9377,
-  13.23742
- ],
- "Schloss S\u00f6llheim, Hallwang": [
-  47.83722222,
-  13.07888889
- ],
- "Stiegerschl\u00f6ssl, Maishofen": [
-  47.3611094,
-  12.8083659
- ],
- "Schloss Tandalier, Radstadt": [
-  47.3813854,
-  13.4408964
- ],
- "Burgruine Taxenbach, Taxenbach": [
-  47.2924277,
-  12.9736001
- ],
- "Ruine Th\u00fcrndl, Hallein": [
-  47.6845481,
-  13.0835757
- ],
- "Thurnschl\u00f6ssl, Flachau": [
-  47.3607778,
-  13.383209
- ],
- "Burgruine Thurnschall, Lessach": [
-  47.16388889,
-  13.8025
- ],
- "Schloss Ursprung, Elixhausen": [
-  47.87947222,
-  13.06205556
- ],
- "Schloss Urstein, Puch bei Hallein": [
-  47.72444444,
-  13.08416667
- ],
- "Vogtturm, Zell am See": [
-  47.323625,
-  12.797899
- ],
- "Burg Wagrain, Wagrain": [
-  47.333436,
-  13.298171
- ],
- "Burgruine Wartenfels, Thalgau": [
-  47.81527778,
-  13.30583333
- ],
- "Weitmoserschl\u00f6ssl, Bad Hofgastein": [
-  47.162558,
-  13.099614
- ],
- "Schloss Weitw\u00f6rth, Nu\u00dfdorf am Haunsberg": [
-  47.92666667,
-  12.97333333
- ],
- "Burgruine Weyer, Bramberg am Wildkogel": [
-  47.260783,
-  12.317961
- ],
- "Schloss Wiespach, Hallein, bei Oberalm": [
-  47.6920578,
-  13.0959467
- ],
- "Schloss Wintergr\u00fcn, Ramingstein": [
-  47.0750282,
-  13.8376763
- ],
- "Schloss Algersdorf, Graz": [
-  47.076825,
-  15.390825
- ],
- "Schloss Alt-Kainach, bei B\u00e4rnbach": [
-  47.08291667,
-  15.12513889
- ],
- "Burgruine Altschielleiten": [
-  47.23833333,
-  15.82194444
- ],
- "Schloss Altenhofen, Sankt Oswald bei Plankenwarth": [
-  48.50555556,
-  13.77805556
- ],
- "Burg Alt-Teuffenbach, Teufenbach": [
-  47.13013889,
-  14.36561111
- ],
- "Burg B\u00e4rnegg, Elsenau": [
-  47.43888889,
-  16.11361111
- ],
- "Schloss Bertholdstein": [
-  46.93138889,
-  15.95638889
- ],
- "Burg Deutschlandsberg": [
-  46.81333333,
-  15.19666667
- ],
- "Schloss Dornhofen, Hart-Purgstall": [
-  47.14296944,
-  15.55921667
- ],
- "Burgruine D\u00fcrnstein, D\u00fcrnstein in der Steiermark": [
-  48.39777778,
-  15.52194444
- ],
- "Schloss Eggenberg, Graz": [
-  47.073882,
-  15.391327
- ],
- "Burg Ehrenfels, Kammern im Liesingtal": [
-  49.97527778,
-  7.88055556
- ],
- "Burg Ehrenfels, Sankt Radegund bei Graz": [
-  49.97527778,
-  7.88055556
- ],
- "Burgruine Eppenstein": [
-  47.13083333,
-  14.73611111
- ],
- "Erkoschl\u00f6sschen, Krumegg": [
-  47.02111111,
-  15.63444444
- ],
- "Schloss Farrach, Zeltweg": [
-  47.19055556,
-  14.75111111
- ],
- "Schloss Festenburg": [
-  47.46361111,
-  15.915
- ],
- "Burgruine Forchtenberg, Semriach": [
-  47.20388889,
-  15.39388889
- ],
- "Schloss Forchtenstein, Neumarkt in Steiermark": [
-  47.07361111,
-  14.42277778
- ],
- "Burgruine Fohnsdorf, Fohnsdorf": [
-  47.211569,
-  14.674055
- ],
- "Schloss Frauental": [
-  46.813636,
-  15.244455
- ],
- "Burgruine Frauenburg, Unzmarkt-Frauenburg": [
-  47.20492222,
-  14.43686944
- ],
- "Schloss Freiberg": [
-  47.12398056,
-  15.67609722
- ],
- "Burg F\u00fcrstenfeld, F\u00fcrstenfeld": [
-  47.05,
-  16.08333333
- ],
- "Schloss Gabelhofen": [
-  47.191849,
-  14.673872
- ],
- "Schloss Gamlitz": [
-  46.71883,
-  15.553784
- ],
- "Burgruine Gallenstein": [
-  47.69033333,
-  14.62677778
- ],
- "Schloss Gasselberg, Krottendorf-Gaisfeld": [
-  47.025322,
-  15.200464
- ],
- "Georgischl\u00f6ssl, Ehrenhausen": [
-  46.726972,
-  15.581092
- ],
- "Schloss Gjaidhof, Dobl": [
-  46.947554,
-  15.377029
- ],
- "Schlossruine Gleichenberg": [
-  46.8924,
-  15.8939
- ],
- "Goldschmiedschl\u00f6ssl, \u00dcbelbach": [
-  47.23,
-  15.21888889
- ],
- "Burgruine G\u00f6sting, G\u00f6sting": [
-  47.103782,
-  15.381493
- ],
- "Schloss G\u00f6sting, Graz": [
-  47.09984167,
-  15.39411944
- ],
- "Schloss Graschnitz, Sankt Marein im M\u00fcrztal": [
-  47.45944444,
-  15.35638889
- ],
- "Burg am Grazer Schlo\u00dfberg": [
-  47.076759,
-  15.437291
- ],
- "Schloss Gro\u00dfs\u00f6lk": [
-  47.409489,
-  13.966205
- ],
- "Burg Gr\u00fcnfels, Murau": [
-  47.11184444,
-  14.16923333
- ],
- "Schloss Gusterheim, Ortschaft Gusterheim in P\u00f6ls-Oberkurzheim": [
-  47.22627778,
-  14.59613889
- ],
- "Schloss Gutenberg": [
-  47.21222222,
-  15.56847222
- ],
- "Schloss Hainfeld, Leitersdorf im Raabtal": [
-  46.946667,
-  15.927743
- ],
- "Schloss Hanfelden, Unterzeiring": [
-  47.25891667,
-  14.51141667
- ],
- "Schloss Hart, Kindberg-Hadersdorf": [
-  48.035,
-  12.14555556
- ],
- "Schloss Hartberg": [
-  47.28138889,
-  15.96583333
- ],
- "Harterschl\u00f6ssl, Thal": [
-  47.057645,
-  15.359378
- ],
- "Schloss Hautzenbichl, Kobenz": [
-  47.22569444,
-  14.82805556
- ],
- "Henneburg, Deutschfeistritz": [
-  49.78753333,
-  9.41366667
- ],
- "Schloss Herberstein": [
-  47.214561,
-  15.810756
- ],
- "Schloss Hohenbrugg": [
-  46.94944444,
-  16.06472222
- ],
- "Schloss Hollenegg": [
-  46.78406111,
-  15.22493889
- ],
- "Burgruine Hohenwang, Langenwang": [
-  47.55527778,
-  15.62055556
- ],
- "Schloss Hornegg, Preding": [
-  46.868523,
-  15.399399
- ],
- "Hubertus-Schl\u00f6ssl, Graz": [
-  47.08875833,
-  15.44756667
- ],
- "Schloss Alt-Kainach": [
-  47.08291667,
-  15.12513889
- ],
- "Schloss Kainbach": [
-  47.093409,
-  15.530478
- ],
- "Schloss Kainberg, Kumberg": [
-  47.173858,
-  15.530567
- ],
- "Schloss Kaiserau": [
-  47.529486,
-  14.481713
- ],
- "Burgruine Kammerstein, Kammern im Liesingtal": [
-  48.12551111,
-  16.2326
- ],
- "Schloss Kapfenstein": [
-  46.88988889,
-  15.97722222
- ],
- "Schloss Karlau, Graz": [
-  47.05436,
-  15.42997
- ],
- "Schloss Kassegg": [
-  47.65444444,
-  14.66472222
- ],
- "Schloss Kindberg": [
-  47.50444444,
-  15.44888889
- ],
- "Schloss Kirchberg an der Raab": [
-  46.98722222,
-  15.76361111
- ],
- "Burgruine Klingenstein, Salla": [
-  47.10611111,
-  14.96083333
- ],
- "Schloss Klingenstein, Vasoldsberg": [
-  48.41677778,
-  9.90277778
- ],
- "Burgruine Kl\u00f6ch": [
-  46.76472222,
-  15.96611111
- ],
- "Schloss Kornberg": [
-  46.98102778,
-  15.87733333
- ],
- "Burg Krems": [
-  47.03083333,
-  15.18194444
- ],
- "Schloss Kroisbach, Graz": [
-  47.09738333,
-  15.45722778
- ],
- "Burgruine Landskron, Bruck an der Mur": [
-  46.642473,
-  13.89611
- ],
- "Schloss Lannach": [
-  46.94550833,
-  15.33261389
- ],
- "Schloss Laubegg, Ragnitz": [
-  46.8239,
-  15.59633056
- ],
- "Burgruine Alt-Leonroth, Sankt Martin am W\u00f6llmi\u00dfberg": [
-  47.001906,
-  15.137025
- ],
- "Burgruine Neu-Leonroth, Sankt Martin am W\u00f6llmi\u00dfberg": [
-  47.025,
-  15.14527778
- ],
- "Schloss Leopoldstein, Eisenerz": [
-  47.570635,
-  14.850945
- ],
- "Burgruine Strettweg, Judenburg": [
-  47.177892,
-  14.653895
- ],
- "Burgruine Ligist": [
-  46.99638889,
-  15.20611111
- ],
- "Schloss Lorberau, Leoben-Donawitz": [
-  47.377836,
-  15.07153
- ],
- "Burg Luegg, Semriach": [
-  47.20083333,
-  15.39055556
- ],
- "Schloss Lustb\u00fchel, Graz": [
-  47.07032,
-  15.495954
- ],
- "Ruine Ma\u00dfenburg, Leoben": [
-  47.37555556,
-  15.09666667
- ],
- "Meerscheinschl\u00f6ssl, Graz": [
-  47.07934444,
-  15.44698889
- ],
- "Metahof-Schl\u00f6ssl, Graz": [
-  47.07298333,
-  15.42126944
- ],
- "Schloss Moosbrunn, Graz": [
-  47.04290833,
-  15.4882
- ],
- "M\u00fchl-Schl\u00f6ssl, Graz": [
-  47.07405,
-  15.42591944
- ],
- "Schloss Murst\u00e4tten, Lebring": [
-  46.855325,
-  15.537096
- ],
- "Jagdschloss M\u00fcrzsteg, M\u00fcrzsteg": [
-  47.67705556,
-  15.49208333
- ],
- "Schloss Nechelheim, Sankt Lorenzen im M\u00fcrztal": [
-  47.48409,
-  15.359212
- ],
- "Schloss Neu-Grabenhofen, Graz": [
-  47.09511667,
-  15.43737222
- ],
- "Schloss Neu-Pfannberg, Frohnleiten": [
-  47.262318,
-  15.317523
- ],
- "Schloss Oberdorf, Mariahof": [
-  47.09258,
-  14.366843
- ],
- "Burg Oberkapfenberg": [
-  47.440025,
-  15.29356944
- ],
- "Schloss Obermayerhofen, Sebersdorf": [
-  47.18161111,
-  15.98063889
- ],
- "Schloss Obermurau, Murau": [
-  47.11184444,
-  14.16923333
- ],
- "Burg Obervoitsberg": [
-  47.05208333,
-  15.15125
- ],
- "Schloss Obermayerhofen": [
-  47.18161111,
-  15.98063889
- ],
- "Schloss Obermurau": [
-  47.11184444,
-  14.16923333
- ],
- "Schloss Oberthal": [
-  47.079929,
-  15.343409
- ],
- "Burgruine Obervoitsberg": [
-  47.05208333,
-  15.15125
- ],
- "Burgruine Offenburg": [
-  47.23441667,
-  14.59525
- ],
- "Schloss Ottersbach": [
-  46.75722222,
-  15.40777778
- ],
- "Burg Peggau": [
-  47.20055556,
-  15.36083333
- ],
- "Burg Pfannberg, Frohnleiten": [
-  47.25472222,
-  15.32944444
- ],
- "Burgruine Pernegg": [
-  47.362518,
-  15.351402
- ],
- "Schloss Pernegg": [
-  47.3605374,
-  15.347195
- ],
- "Burgruine Pflindsberg": [
-  47.637364,
-  13.742013
- ],
- "Burgruine Pfannberg": [
-  47.25472222,
-  15.32944444
- ],
- "Schloss Pichlarn, Aigen im Ennstal": [
-  47.50333333,
-  14.12
- ],
- "Schloss Pichlhofen, Sankt Georgen ob Judenburg": [
-  47.214705,
-  14.503857
- ],
- "Burg Plankenwarth": [
-  47.08861111,
-  15.30972222
- ],
- "Schloss Poppendorf": [
-  46.85555556,
-  15.855
- ],
- "Primaresburg, Maria Lankowitz-\u201eFranziskanerkogel\u201c": [
-  47.06638889,
-  15.05583333
- ],
- "Altburg Pux, Frojach-Katsch": [
-  47.135465,
-  14.339888
- ],
- "Burgruine Puxer-Loch, Frojach-Katsch, H\u00f6hlenburg": [
-  47.13777778,
-  14.34833333
- ],
- "Schloss Pux, Frojach-Katsch": [
-  47.13585,
-  14.3389
- ],
- "Burg Rabenstein, Frohnleiten": [
-  49.82215278,
-  11.37073611
- ],
- "Schloss Radmannsdorf, Weiz": [
-  47.218789,
-  15.624916
- ],
- "Burgruine Reifenstein, P\u00f6ls-Oberkurzheim": [
-  47.2125,
-  14.60083333
- ],
- "Schloss Reinthal, Hart bei Graz": [
-  47.053225,
-  15.504895
- ],
- "Schloss Reiteregg, Hitzendorf": [
-  47.034897,
-  15.273644
- ],
- "Schloss Retzhof, Wildon": [
-  46.77908333,
-  15.56935556
- ],
- "Riegersburg": [
-  47,
-  15.93333333
- ],
- "Schloss Rohr, Ragnitz": [
-  46.85461111,
-  15.57513889
- ],
- "Rosenschl\u00f6\u00dfl, Graz": [
-  47.09833333,
-  15.44888889
- ],
- "Schloss R\u00f6thelstein, Admont": [
-  47.56666667,
-  14.45222222
- ],
- "Schloss Rothenfels, Oberw\u00f6lz": [
-  47.200082,
-  14.293444
- ],
- "Burgruine Schachenstein, Th\u00f6rl": [
-  47.51873333,
-  15.21986667
- ],
- "Schloss Schielleiten": [
-  47.23027778,
-  15.82638889
- ],
- "Burgruine Schmirnberg": [
-  46.63194444,
-  15.4875
- ],
- "Schlossruine Schrattenberg, bei Scheifling": [
-  47.142644,
-  14.390683
- ],
- "Schloss Schwarzenegg, Weitendorf": [
-  46.88111111,
-  15.49694444
- ],
- "Schloss Sch\u00fctting, Hitzendorf": [
-  47.036833,
-  15.282923
- ],
- "Schloss Seggau": [
-  46.780934,
-  15.523752
- ],
- "Schloss S\u00f6ding": [
-  47.003774,
-  15.291401
- ],
- "Ruine Spangstein, Schwanberg": [
-  46.79439167,
-  15.17045556
- ],
- "Schloss Spielberg": [
-  47.21555556,
-  14.78361111
- ],
- "Schloss Spielfeld, Stra\u00df in Steiermark": [
-  46.70583333,
-  15.63333333
- ],
- "Schloss Stadl an der Raab, bei Mitterdorf an der Raab": [
-  47.162995,
-  15.634746
- ],
- "Schloss Stainz": [
-  46.896325,
-  15.26365278
- ],
- "Schloss Stein, bei Fehring": [
-  47.986625,
-  12.546381
- ],
- "Burgruine Steinschloss": [
-  47.12866944,
-  14.38240278
- ],
- "Schloss St. Gotthard": [
-  47.111729,
-  15.403134
- ],
- "Storchenschl\u00f6ssel, Kainach bei Voitsberg, Ortschaft Afling": [
-  47.108428,
-  15.120349
- ],
- "Schloss Stra\u00df": [
-  46.727608,
-  15.625549
- ],
- "Burg Strechau": [
-  47.52828333,
-  14.31723889
- ],
- "Schloss Stubenberg": [
-  47.24277778,
-  15.80138889
- ],
- "Schloss Stibichhofen, Trofaiach": [
-  47.424802,
-  15.008234
- ],
- "Schloss St\u00fcbing, Kleinst\u00fcbing, Deutschfeistritz": [
-  47.180027,
-  15.321308
- ],
- "St. Veiter Schl\u00f6ssl": [
-  47.11251389,
-  15.40548889
- ],
- "Burg Thalberg": [
-  47.41583333,
-  16.00527778
- ],
- "Schloss Thalerhof, Kalsdorf bei Graz": [
-  46.973681,
-  15.443084
- ],
- "Schloss Tausendlust, Hitzendorf": [
-  47.021944,
-  15.300475
- ],
- "Schloss Thannegg, bei Liezen": [
-  47.42611111,
-  13.90638889
- ],
- "Schloss Thinnfeld, Deutschfeistritz": [
-  47.201072,
-  15.337659
- ],
- "Schloss Trautenburg": [
-  46.65972222,
-  15.47361111
- ],
- "Schloss Trautenfels": [
-  47.518713,
-  14.081477
- ],
- "Schloss Th\u00f6rl": [
-  47.516625,
-  15.21996389
- ],
- "Schloss Thunau": [
-  46.67963863,
-  15.34554005
- ],
- "Schloss Trautenburg, Schlo\u00dfberg": [
-  46.65972222,
-  15.47361111
- ],
- "Tupay-Schl\u00f6ssl, Graz": [
-  47.05214722,
-  15.44543333
- ],
- "Burg Unterthal": [
-  47.07277778,
-  15.36305556
- ],
- "Schloss Vasoldsberg, Vasoldsberg": [
-  47.019168,
-  15.575431
- ],
- "Schloss Velden, M\u00fchlen": [
-  46.61173333,
-  14.04323611
- ],
- "Schloss Waldegg (Altes und Neues Schloss Waldegg), Ortsteil Glatzau der Gemeinde Kirchbach-Zerlach": [
-  47.2234,
-  7.5487
- ],
- "Burgruine Waldstein und Schloss Waldstein, Deutschfeistritz": [
-  47.222749,
-  15.291182
- ],
- "Schloss Wasserberg, Gaal": [
-  47.26944444,
-  14.68666667
- ],
- "Burgruine Waxenegg": [
-  47.27083333,
-  15.67833333
- ],
- "Schloss Weinburg am Sa\u00dfbach": [
-  46.75472222,
-  15.71944444
- ],
- "Schloss Weissenegg, Mellach": [
-  46.910731,
-  15.494317
- ],
- "Schloss Welsdorf, Welsdorf": [
-  47.04483915,
-  16.0674574
- ],
- "Burgruine Wessenstein": [
-  46.91638889,
-  15.20277778
- ],
- "Burg Alt-Wildon, Wildon-\u201eSchlossberg\u201c": [
-  46.88425,
-  15.51038889
- ],
- "Burg Neu-Wildon (Ober-Wildon), Wildon-\u201eSchlossberg\u201c": [
-  46.88441667,
-  15.51347222
- ],
- "Schloss Achenrain, Kramsach": [
-  47.448794,
-  11.875674
- ],
- "Ansitz Albersheim, Innsbruck": [
-  47.2641564,
-  11.387625
- ],
- "Burgruine Alt-Rettenberg, Kolsassberg": [
-  47.287379,
-  11.650994
- ],
- "Burgruine Alt-Starkenberg, Tarrenz": [
-  47.27083,
-  10.75306
- ],
- "Schloss Ambras, Innsbruck": [
-  47.25638889,
-  11.43472222
- ],
- "Schloss Anras, Anras": [
-  46.772621,
-  12.55601
- ],
- "Burg Arlen, St. Anton am Arlberg": [
-  47.13625,
-  10.26388889
- ],
- "Burg Arnholz, Pfons": [
-  47.1339981,
-  11.4622254
- ],
- "Schloss Aschach, Volders": [
-  50.254253,
-  10.062048
- ],
- "Burg Auenstein, Oetz": [
-  47.21666667,
-  10.87666667
- ],
- "Burgruine Aufenstein, Navis": [
-  47.115758,
-  11.466939
- ],
- "Ansitz Ballenhaus, Matrei am Brenner": [
-  47.1330817,
-  11.4520674
- ],
- "Schloss Baumkirchen, Baumkirchen": [
-  47.3009139,
-  11.562836
- ],
- "Burg Bideneck, Flie\u00df": [
-  47.121,
-  10.63508333
- ],
- "Ansitz Brandthausen, Aldrans": [
-  47.2501615,
-  11.4505692
- ],
- "Ansitz B\u00fcchsenhausen, Innsbruck": [
-  47.27639,
-  11.393654
- ],
- "Dietrichscher Ansitz, Reutte": [
-  47.4,
-  10.88333333
- ],
- "Burg Ehrenberg, Reutte": [
-  47.46555556,
-  10.71833333
- ],
- "Ansitz Felsenheim, Lermoos": [
-  47.4,
-  10.88333333
- ],
- "Ansitz Ferklehen, Ranggen": [
-  47.25857819,
-  11.25334701
- ],
- "Klause Fernstein, Nassereith": [
-  47.345965,
-  10.817542
- ],
- "Burgruine Fragenstein, Zirl": [
-  47.27833333,
-  11.23916667
- ],
- "Burg Freundsberg, Schwaz": [
-  47.34333333,
-  11.7175
- ],
- "Schloss F\u00fcgen, Schwaz": [
-  47.346345,
-  11.848974
- ],
- "Palais Fugger-Taxis, Innsbruck": [
-  47.26424326,
-  11.39506478
- ],
- "Burgruine Gebratstein, Tarrenz": [
-  47.2825,
-  10.74583333
- ],
- "Burg Hasegg, Hall in Tirol": [
-  47.279212,
-  11.506896
- ],
- "Ansitz Hauzenheim, Volders": [
-  47.2783128,
-  11.5494446
- ],
- "Burg Heinfels, Heinfels": [
-  46.75125,
-  12.43930556
- ],
- "Hofburg, Innsbruck": [
-  48.20638889,
-  16.36611111
- ],
- "Schloss Hohenstaffing, Kufstein": [
-  47.595,
-  12.16638889
- ],
- "Burgruine H\u00f6rtenberg, Pfaffenhofen": [
-  47.29416667,
-  11.07944444
- ],
- "Schloss Itter, Itter": [
-  47.470543,
-  12.139869
- ],
- "Burgruine Katzenstein (Kayserthurm zu Windhausen, Erlturm, Ruine Todtenschl\u00f6\u00dfl), Erl": [
-  47.700883,
-  12.168083
- ],
- "Burgruine Kienburg, Lienz": [
-  46.91916667,
-  12.6
- ],
- "Burg Klamm, Obsteig": [
-  47.29833333,
-  10.94972222
- ],
- "Ansitz Kolbenturm, Tulfes": [
-  47.2760602,
-  11.5423876
- ],
- "Schloss Krippach, Absam": [
-  47.2959393,
-  11.504267
- ],
- "Burg Kronburg, Landeck": [
-  47.178145,
-  10.623646
- ],
- "Burg Kropfsberg, Reith im Alpbachtal": [
-  47.409794,
-  11.844807
- ],
- "Festung Kufstein, Kufstein": [
-  47.58066667,
-  12.16883333
- ],
- "Jagdschloss K\u00fchtai, Silz": [
-  47.21333333,
-  11.02333333
- ],
- "Schloss Landeck, Landeck": [
-  47.135402,
-  10.568606
- ],
- "Schloss Lanegg, Brixlegg": [
-  47.426894,
-  11.882697
- ],
- "Latschburg, Pfons": [
-  47.1334566,
-  11.4554071
- ],
- "Burg Laudegg, Ladis": [
-  47.07625,
-  10.65263889
- ],
- "Schloss Lebenberg, Kitzb\u00fchel": [
-  46.637905,
-  11.136006
- ],
- "Schloss Lengberg, Nikolsdorf": [
-  46.796911,
-  12.89173
- ],
- "Burg Lichtenwerth, M\u00fcnster": [
-  47.41986111,
-  11.86
- ],
- "Lienzer Klause, Leisach": [
-  46.79583333,
-  12.7225
- ],
- "Palais Lodron, Innsbruck": [
-  47.265182,
-  11.394477
- ],
- "Burg Lueg am Brenner, Gries am Brenner": [
-  47.02810942,
-  11.49640918
- ],
- "Ansitz Madleinhof, Thaur": [
-  47.293378,
-  11.455986
- ],
- "Schloss Mariastein, Mariastein": [
-  47.52673,
-  12.0533
- ],
- "Burg Martinsb\u00fchel, Zirl": [
-  47.2671552,
-  11.2682328
- ],
- "Ansitz Melans, Absam": [
-  47.298354,
-  11.5094332
- ],
- "Schloss Mentlberg, Innsbruck": [
-  47.2486042,
-  11.3630155
- ],
- "Ansitz Mitterhart, Vomp": [
-  47.3371521,
-  11.7017504
- ],
- "Schloss M\u00fcnichau, Reith": [
-  47.465261,
-  12.352533
- ],
- "Schloss Naudersberg, Nauders": [
-  46.887053,
-  10.503235
- ],
- "Schloss Neumatzen, M\u00fcnster": [
-  47.418807,
-  11.863281
- ],
- "Burgruine Neu-Rettenberg, Kolsassberg": [
-  47.293915,
-  11.644703
- ],
- "Schloss Neustarkenberg, Tarrenz": [
-  47.261502,
-  10.754378
- ],
- "Burgruine Rattenberg, Rattenberg": [
-  47.4389,
-  11.8932
- ],
- "Ansitz Rofenstein, Imst": [
-  47.2391424,
-  10.7425552
- ],
- "Schloss Rotholz, Strass im Zillertal": [
-  47.390527,
-  11.797128
- ],
- "Burgruine Rottenburg, Buch in Tirol": [
-  47.384447,
-  11.798116
- ],
- "Schloss Schneeberg, Trins": [
-  47.079896,
-  11.412707
- ],
- "Burg Schrofenstein, Stanz": [
-  47.15555556,
-  10.56486111
- ],
- "Burg St. Petersberg, Silz": [
-  47.25536111,
-  10.90925
- ],
- "Burg Raspenb\u00fchel, Matrei am Brenner": [
-  47.139923,
-  11.454647
- ],
- "Ansitz Schneeburg, Mils bei Hall": [
-  47.288697,
-  11.529235
- ],
- "Schloss Sch\u00f6nw\u00f6rth, Langkampfen": [
-  47.5374089,
-  12.0851942
- ],
- "Ansitz Schrattenburg, Aldrans": [
-  47.2495801,
-  11.4483071
- ],
- "Ruine Sigmundsburg, Nassereith": [
-  47.34514722,
-  10.82379167
- ],
- "Sigmundsegg, Finsterm\u00fcnz": [
-  46.929271,
-  10.487209
- ],
- "Schloss Sigmundslust, Vomp": [
-  47.3420249,
-  11.6798884
- ],
- "Schloss Sigmundsried, Ried im Oberinntal": [
-  47.053397,
-  10.651616
- ],
- "Schloss Steinach am Brenner": [
-  47.09277778,
-  11.46666667
- ],
- "Sterzinger Ansitz, Nassereith": [
-  46.897321,
-  11.431832
- ],
- "Burg Stra\u00dffried, Vill": [
-  46.54972222,
-  13.66083333
- ],
- "Schloss Stumm, Stumm": [
-  47.29277778,
-  11.88583333
- ],
- "Burgruine Thaur, Thaur": [
-  47.30118056,
-  11.46593333
- ],
- "Burgruine Thierberg, Thierberg": [
-  47.600054,
-  12.164483
- ],
- "Th\u00f6ml-Schl\u00f6ssl, Hall in Tirol": [
-  47.2825048,
-  11.5175183
- ],
- "Schloss Tratzberg, Stans": [
-  47.38472222,
-  11.74305556
- ],
- "Burg Trautson, Matrei am Brenner": [
-  47.1389046,
-  11.4554683
- ],
- "Burgruine Vellenberg, G\u00f6tzens": [
-  47.242193,
-  11.312807
- ],
- "Burg Vilsegg, Vils": [
-  47.55666667,
-  10.62611111
- ],
- "Burg Vogelb\u00fchel, Matrei am Brenner": [
-  47.139879,
-  11.456192
- ],
- "Ansitz Waidburg, Natters": [
-  47.234232,
-  11.375847
- ],
- "Burgruine Wallenstein, Stronach": [
-  50.95111111,
-  9.49361111
- ],
- "Schloss Weiherburg, Innsbruck": [
-  47.280918,
-  11.398289
- ],
- "Schloss Wei\u00dfenstein, Matrei in Osttirol": [
-  49.76277778,
-  10.82083333
- ],
- "Schloss Wiesberg, Pians": [
-  47.11694444,
-  10.49275
- ],
- "Ziegelburg": [
-  54.30638889,
-  9.66305556
- ],
- "Burgruine Blumenegg, Th\u00fcringerberg": [
-  47.203195,
-  9.778657
- ],
- "Diebsschl\u00f6ssle, Lor\u00fcns": [
-  47.1346575,
-  9.84960167
- ],
- "Ruine Alt-Ems, Hohenems": [
-  47.36352778,
-  9.69596667
- ],
- "Schloss Gayenhofen, Bludenz": [
-  47.1575,
-  9.82055556
- ],
- "Schloss Gwiggen, Hohenweiler": [
-  47.57,
-  9.77194444
- ],
- "Burg Alt-Hofen, Lochau": [
-  47.53599167,
-  9.75781111
- ],
- "Schloss Hofen, Lochau": [
-  47.53599167,
-  9.75781111
- ],
- "Burg Hohenbregenz, Bregenz": [
-  47.49027778,
-  9.74833333
- ],
- "Palast Hohenems, Hohenems": [
-  47.36277778,
-  9.69
- ],
- "Burg Jagdberg, Schlins": [
-  47.20305556,
-  9.70055556
- ],
- "Jonas-Schl\u00f6ssle, G\u00f6tzis": [
-  47.33277778,
-  9.64277778
- ],
- "Mittelweiherburg, Hard": [
-  47.48194444,
-  9.70388889
- ],
- "Burg Alt-Montfort, Weiler": [
-  47.311764,
-  9.666022
- ],
- "Burgruine Neuburg, Koblach": [
-  47.32444444,
-  9.62361111
- ],
- "Burg Neu-Montfort, G\u00f6tzis": [
-  47.32916667,
-  9.64472222
- ],
- "Burg Ramschwag, Nenzing": [
-  47.18416667,
-  9.69027778
- ],
- "Ruggburg, Eichenberg": [
-  47.543626,
-  9.772851
- ],
- "Schattenburg, Feldkirch": [
-  47.23645,
-  9.59933611
- ],
- "Burg Sigberg, G\u00f6fis": [
-  47.22861111,
-  9.62694444
- ],
- "Schloss Sonderberg, G\u00f6tzis": [
-  47.346768,
-  9.653142
- ],
- "Burgruine Sonnenberg, N\u00fcziders": [
-  47.17666667,
-  9.79916667
- ],
- "Burgruine Tosters, Feldkirch-Tosters": [
-  47.2425,
-  9.575
- ],
- "Burgruine Valcastiel, Vandans": [
-  47.09972222,
-  9.84027778
- ],
- "Schloss Wolfurt, Wolfurt": [
-  47.470643,
-  9.754455
- ],
- "Schloss Alterlaa": [
-  48.14777778,
-  16.30638889
- ],
- "Schloss Altmannsdorf": [
-  48.16322222,
-  16.32213889
- ],
- "Schloss Belvedere": [
-  48.1934,
-  16.38052
- ],
- "Schloss Essling": [
-  48.21475,
-  16.52286111
- ],
- "Erzbisch\u00f6fliches Schloss Ober Sankt Veit": [
-  48.18805556,
-  16.26638889
- ],
- "Geym\u00fcllerschl\u00f6ssel": [
-  48.24372222,
-  16.30727778
- ],
- "Hermesvilla": [
-  48.17068056,
-  16.24616944
- ],
- "Schloss Hernals": [
-  48.21786111,
-  16.33311111
- ],
- "Schloss Hetzendorf": [
-  48.16608333,
-  16.30825
- ],
- "Schloss Hirschstetten": [
-  48.235758,
-  16.466034
- ],
- "Hofburg": [
-  48.20638889,
-  16.36611111
- ],
- "Hofmannsthal-Schl\u00f6ssl": [
-  48.13361111,
-  16.25555556
- ],
- "Schloss Hundsturm": [
-  48.18805556,
-  16.34777778
- ],
- "Schloss Kaiserebersdorf": [
-  48.15916667,
-  16.47305556
- ],
- "Schloss Laudon": [
-  48.214609,
-  16.220827
- ],
- "Burg am Leopoldsberg": [
-  48.27808333,
-  16.34655556
- ],
- "Schloss Liesing": [
-  48.13388889,
-  16.27944444
- ],
- "Maria-Theresien-Schl\u00f6ssel (Wien Gersthofer Stra\u00dfe)": [
-  48.2385,
-  16.31863889
- ],
- "Maria-Theresien-Schl\u00f6ssel (Wien Hofzeile)": [
-  48.24255,
-  16.35291944
- ],
- "Schloss Neugeb\u00e4ude": [
-  48.160654,
-  16.442347
- ],
- "Schloss Neuwaldegg": [
-  48.234832,
-  16.288142
- ],
- "Schloss P\u00f6tzleinsdorf": [
-  48.24241667,
-  16.30575
- ],
- "Schloss Rodaun": [
-  48.131317,
-  16.255183
- ],
- "Schloss Sch\u00f6nbrunn": [
-  48.18479,
-  16.31227
- ],
- "Springer-Schl\u00f6ssl": [
-  48.17889,
-  16.31862
- ],
- "Schloss S\u00fc\u00dfenbrunn": [
-  48.278775,
-  16.49441111
- ],
- "Schloss Wilhelminenberg": [
-  48.21955,
-  16.28555
- ]
+  "Burg Antau": [47.77361111, 16.47666667],
+  "Burg Bernstein": [47.40698056, 16.25218889],
+  "Burg Buchschachen": [47.318582, 16.102222],
+  "Schloss Deutschkreutz": [47.59978056, 16.64601944],
+  "Burg D\u00f6rfl": [47.47666667, 16.48666667],
+  "Burg Dra\u00dfburg": [47.74611111, 16.48805556],
+  "Schloss Dra\u00dfburg": [47.74456, 16.49143],
+  "Schloss Eberau": [47.103333, 16.461944],
+  "Jagdschloss Gloriette": [47.853025, 16.509289],
+  "Schloss Esterh\u00e1zy": [47.8462, 16.51945],
+  "Burg Forchtenstein": [47.70973889, 16.33168889],
+  "Burg Gaas (Kertes)": [47.07091, 16.454504],
+  "Altes Schloss Gattendorf": [48.015, 16.98333333],
+  "Neues Schloss Gattendorf": [48.015, 16.98333333],
+  "Kastell Gerersdorf": [47.06888889, 16.25361111],
+  "Burg G\u00fcssing": [47.05680556, 16.32291667],
+  "Kastell G\u00fcssing": [47.05864, 16.32256],
+  "Kastell G\u00fcttenbach": [47.15972222, 16.28888889],
+  "Burg Hagensdorf-Luising": [47.0252, 16.4685],
+  "Schloss Halbturn": [47.87472222, 16.97361111],
+  "Schloss Jormannsdorf": [47.348241, 16.222099],
+  "Altes Schloss Kittsee": [48.093005, 17.067332],
+  "Neues Schloss Kittsee": [48.09, 17.06805556],
+  "Schloss Kobersdorf": [47.59745, 16.39191944],
+  "Schloss Kohfidisch": [47.17216, 16.357515],
+  "Schloss Lackenbach": [47.58661111, 16.46766111],
+  "Burgruine Landsee": [47.5629348, 16.3498839],
+  "Wasserburg Leithaprodersdorf (G'schl\u00f6\u00dfl)": [
+    47.93777778, 16.47861111
+  ],
+  "Burg Lockenhaus": [47.40376944, 16.42443889],
+  "Burg Lutzmannsburg": [47.46416667, 16.64083333],
+  "Burg Mattersburg (Burg Mattersdorf), Mattersburg": [
+    47.73805556, 16.39694444
+  ],
+  "Burg Neckenmarkt": [47.6, 16.54694444],
+  "Kastell Neud\u00f6rfl": [47.79777778, 16.29666667],
+  "Burgruine Neuhaus am Klausenbach": [46.868964, 16.027679],
+  "Schloss Tabor, Neuhaus am Klausenbach": [46.88282, 16.029506],
+  "Schloss Neumarkt an der Raab": [46.921483, 16.155002],
+  "Schloss Nikitsch": [47.53583333, 16.65916667],
+  "Ruine Tabor Neusiedl am See": [47.81777778, 16.74861111],
+  "Wasserburg Oberwart": [47.17216, 16.357515],
+  "Burg Oslip": [47.82916667, 16.61888889],
+  "Burg \u00d3v\u00e1r bei Hannersdorf": [47.215, 16.406],
+  "Schloss Pinkafeld": [47.37166667, 16.12194444],
+  "Schloss Potzneusiedl": [48.04527778, 16.94694444],
+  "Schloss Rechnitz": [47.304833, 16.441872],
+  "Schloss Rotenturm": [47.2509, 16.24482],
+  "Schloss Rudersdorf (Schloss Batthy\u00e1ny)": [47.046528, 16.125718],
+  "Schloss Samersdorf": [47.60043, 16.56946],
+  "Burg Schlaining": [47.32222222, 16.28027778],
+  "Jagdschloss Sch\u00fctzen am Gebirge": [47.85, 16.62472222],
+  "Kastell Siegendorf": [47.78222222, 16.54055556],
+  "Kastell Stegersbach": [47.15972222, 16.16638889],
+  "Jagdschloss Steinbrunn": [47.83666667, 16.41333333],
+  "Kastell Sulz im Burgenland": [47.074, 16.2676],
+  "Tabor Neusiedl am See": [47.81777778, 16.74861111],
+  "Burg Trausdorf": [47.81416667, 16.55805556],
+  "Kastell Unterrabnitz": [47.45444444, 16.37638889],
+  "Burg Wulkaprodersdorf": [47.79388889, 16.49583333],
+  "Burg Hochosterwitz": [46.75593, 14.45241],
+  "Burgruine Aichelberg (Eichelberg)": [46.64444444, 13.95972222],
+  "Ruine Aichelburg": [46.61072222, 13.51266944],
+  "Schloss Albeck (Neualbeck)": [46.85, 13.98333333],
+  "Burgruine Alt-Albeck": [46.80929167, 14.07184167],
+  "Burg Altgrafenstein": [46.60194444, 14.46611111],
+  "Neues Schloss Althofen": [46.87481111, 14.47403056],
+  "Schloss Annabichl": [46.656378, 14.311864],
+  "Klosterruine Arnoldstein": [46.55061944, 13.70378056],
+  "Burgruine Arnulfsfeste": [46.66027778, 14.15833333],
+  "Schloss Bayerhofen": [46.8375, 14.84194444],
+  "Schloss Bichlhof": [46.61265278, 13.54380278],
+  "Schloss Bleiburg": [46.58946111, 14.80107778],
+  "Schloss Bodenhof": [46.59788056, 13.53959167],
+  "Schloss Damtschach": [46.629291, 13.965998],
+  "Burg Dietrichstein": [46.72611111, 14.12916667],
+  "Schloss M\u00f6rtenegg": [46.616114, 13.831342],
+  "Schloss Dornbach": [46.94136111, 13.50711944],
+  "Schloss Dornhof": [46.77461944, 14.33122222],
+  "Schloss Drasendorf (Wuchererschl\u00f6ssl, Gut Grub)": [
+    46.79188333, 14.43520833
+  ],
+  "Schloss Drasing": [46.63919167, 14.22046111],
+  "Schloss Drauhofen": [46.82637222, 13.39018056],
+  "Schloss Ebenau": [46.53433889, 14.22514722],
+  "Schloss Leifling": [46.62486389, 14.94078056],
+  "Schloss Ehrenbichl": [46.67267778, 14.27426667],
+  "Schloss Ehrental": [46.653733, 14.301749],
+  "Schloss Ehrnegg": [46.68632778, 14.76863889],
+  "Schloss Emmersdorf": [46.67, 14.285],
+  "Schloss Eppersdorf": [46.712608, 14.510469],
+  "Burgruine Feldsberg": [46.84111111, 13.395],
+  "Burgruine Federaun": [46.571412, 13.81332],
+  "Schloss Ferlach": [46.52554444, 14.29984167],
+  "Burg Finkenstein": [46.54659167, 13.90308056],
+  "Burgruine Flaschberg": [46.74947, 12.938669],
+  "Burgruine Freiberg": [46.78787222, 14.34345278],
+  "Schloss Freudenberg, Freudenberg (Gemeinde Magdalensberg)": [
+    50.066111, 8.180833
+  ],
+  "Schloss Freyenthurn": [46.62574908, 14.25718546],
+  "Burg Geiersberg": [46.95634167, 14.39906389],
+  "Ruine Gillitzstein, St. Oswald (Gemeinde Eberstein)": [46.81686, 14.56766],
+  "Burgruine Glanegg": [46.72688889, 14.18197222],
+  "Burgruine Gm\u00fcnd": [46.90863889, 13.53597222],
+  "Burgruine Gomarn": [46.96361111, 14.78777778],
+  "Burgruine Gradenegg": [46.76333333, 14.24333333],
+  "Schloss Grades": [46.98388889, 14.25472222],
+  "Schloss Gradisch": [46.68495278, 14.120575],
+  "Schloss Grafenstein": [46.61058333, 14.46461111],
+  "Schloss Greifenburg, Greifenburg": [46.751548, 13.179821],
+  "Burgruine Greifenfels": [46.59833333, 14.37222222],
+  "Schloss Greifenstein, St. Stefan im Gailtal": [49.87416667, 11.17222222],
+  "Schloss Greifenthurn": [46.734726, 14.095623],
+  "Burgruine Griffen": [46.70472222, 14.72722222],
+  "Burgruine Groppenstein": [46.94166667, 13.1825],
+  "Schloss Gro\u00dfkirchheim": [46.975, 12.89166667],
+  "Ruine Gr\u00fcnburg, Gitschtal": [47.97055556, 14.26222222],
+  "Ruine Gr\u00fcnburg, G\u00f6rtschitztal": [47.97055556, 14.26222222],
+  "Ruine Gr\u00fcnburg, Hermagor-Pressegger See": [47.97055556, 14.26222222],
+  "Gschlosser Hube (Schloss Gschlosser)": [46.70910556, 14.05658056],
+  "Schloss Gundersdorf": [46.65580833, 14.38429167],
+  "Burgruine Gurnitz": [46.60194444, 14.39333333],
+  "Haimburg (Heunburg)": [46.6925, 14.67027778],
+  "Schloss Hallegg": [46.64888889, 14.24],
+  "Schloss Harbach": [46.62166667, 14.34222222],
+  "Burgruine Hardegg": [46.71722222, 14.25805556],
+  "Burgruine Hartneidstein": [46.78527778, 14.905],
+  "Schloss Heroldeck, Millstatt am See": [46.799544, 13.584767],
+  "Schloss Himmelau": [46.83573889, 14.79746389],
+  "Burgruine Himmelberg, Himmelberg": [46.748386, 14.037058],
+  "Kraiger Schl\u00f6sser": [46.797386, 14.346158],
+  "Burgruine Hochwart (Hohenwart)": [46.63805556, 13.99555556],
+  "Burgruine Hohenburg, Pusarnitz": [49.32097222, 7.34483333],
+  "Burgruine Hohenburg, Rosenberg (Gemeinde Oberdrauburg)": [
+    49.32097222, 7.34483333
+  ],
+  "Burgruine Hochwart": [46.63805556, 13.99555556],
+  "Burg/Schloss Hollenburg": [46.54728, 14.26228],
+  "Schloss H\u00f6rbach, St. Martin am Silberberg (Gemeinde H\u00fcttenberg)": [
+    47.00702, 14.51639
+  ],
+  "Ruine Hornburg": [46.826948, 14.562517],
+  "Schloss Hornstein": [50.98055556, 11.33222222],
+  "Schloss Hunnenbrunn (Hungerbrunn)": [46.78141667, 14.37226944],
+  "Schloss Karlsberg": [49.33472222, 7.37888889],
+  "Schloss Keutschach, Keutschach am See": [46.59316667, 14.18741667],
+  "Burgruine Kh\u00fcnburg": [46.63708333, 13.42011111],
+  "Schloss Kollegg, Kollegg": [46.78527778, 14.79611111],
+  "Schloss K\u00f6lnhof": [46.77373056, 14.36225556],
+  "Schloss Krastowitz": [46.64722222, 14.35416667],
+  "Schloss Kreuzen": [46.67010278, 13.57645278],
+  "Schloss Krumpendorf": [46.62677222, 14.21167222],
+  "Burg Landskron": [46.642473, 13.89611],
+  "Schloss Lang": [46.75363611, 14.12427778],
+  "Burg Lavant": [46.952385, 14.400669],
+  "Burgruine Leobenegg": [46.93667778, 13.60412778],
+  "Schloss Leonstain": [46.63666111, 14.13811944],
+  "Burgruine Leonstein": [46.63902778, 14.12916667],
+  "Schloss Lerchenhof": [46.63181944, 13.35702222],
+  "Schloss Lichtengraben, Bad St. Leonhard im Lavanttal": [46.98448, 14.78133],
+  "Burgruine Liebenfels": [46.73805556, 14.28694444],
+  "Burgruine Liemberg": [46.74805556, 14.2175],
+  "Schloss Liemberg": [46.75128889, 14.23143333],
+  "Burgruinen Lind (Oberlind und Unterlind)": [46.76613889, 13.36063889],
+  "Schloss Riedenegg": [46.61489268, 14.51797201],
+  "Schloss Lippitzbach": [46.636725, 14.76925278],
+  "Neues Schloss (Gm\u00fcnd in K\u00e4rnten)": [46.90715833, 13.53686944],
+  "Schloss L\u00f6lling (Zechnerhof)": [46.92027778, 14.59111111],
+  "Schloss Mageregg": [46.653246, 14.288748],
+  "Burgruine \u00d6denfest": [46.95732222, 13.51302778],
+  "Schloss Mandorf": [46.67329722, 13.02107778],
+  "Burg Mannsberg": [46.7975, 14.49222222],
+  "Schloss Maria-Loretto": [46.61545278, 14.25015556],
+  "Schloss Mayerhofen": [46.9725, 14.36861111],
+  "Schloss Meiselberg": [46.70372222, 14.38063889],
+  "Burgruine und Schloss Mittertrixen": [46.697369, 14.583294],
+  "Schloss M\u00f6chling": [46.58906667, 14.51780278],
+  "Schloss Moosburg": [46.658733, 14.169836],
+  "Schloss Neuhaus": [51.74527778, 8.7125],
+  "Schloss Niederosterwitz": [46.75148889, 14.43632778],
+  "Burgruine Nussberg": [46.78009444, 14.31368056],
+  "Ruine Ortenburg": [46.79375, 13.45891667],
+  "Schloss Ottmanach": [46.70598889, 14.41978611],
+  "Schloss Pakein, Pakein (Gemeinde Grafenstein)": [46.615, 14.46722222],
+  "Schloss Paternion": [46.71173, 13.636757],
+  "Burgruine Petersberg": [46.95138889, 14.4025],
+  "Schloss Pichlern": [46.64686944, 14.34370556],
+  "Burgruine Pittersberg": [46.69861111, 12.98138889],
+  "Schloss Pitzelst\u00e4tten": [46.670114, 14.267759],
+  "Burgruine P\u00f6ckstein": [46.89236, 14.44462],
+  "Schloss P\u00f6ckstein": [46.89083333, 14.44],
+  "Schloss Poitschach": [46.75156667, 14.09416111],
+  "Schloss P\u00f6llan": [46.69533333, 13.63693056],
+  "Schloss Porcia": [46.79777778, 13.49555556],
+  "Burgruine Pr\u00e4grad": [46.69111111, 14.0775],
+  "Schloss Raggnitz": [46.763638, 13.347921],
+  "Schloss Rastenfeld": [46.85121389, 14.39451111],
+  "Schloss Ratzenegg, Gemeinde Moosburg": [46.659767, 14.191914],
+  "Burgruine Rauchenkatsch": [46.9801558, 13.620482],
+  "Burgruine Reichenfels, Reichenfels": [50.7075, 12.03888889],
+  "Schloss Reideben": [46.79645278, 14.88767778],
+  "Schloss Reifnitz": [46.61123333, 14.18134167],
+  "Burgruine Reisberg": [46.80555556, 14.75944444],
+  "Schloss Riedenegg, Lind (Gemeinde Grafenstein)": [46.61489268, 14.51797201],
+  "Burgruine Rosegg": [46.58472222, 14.02472222],
+  "Schloss Rosegg (Lukrezia, Liechtenstein)": [46.59113889, 14.02435833],
+  "Schloss Rosenbichl": [46.757125, 14.300625],
+  "Schloss Rosenegg": [47.5448197, 12.2934953],
+  "Schloss Rothenthurn": [46.763625, 13.585024],
+  "H\u00f6hlenburg Rottenstein": [46.57083333, 14.41416667],
+  "Ruine Rotturm (Rothenthurn)": [46.95138, 14.40215],
+  "Schloss St. Georgen am Sandhof": [46.65325, 14.32918333],
+  "Ruine Schaumburg": [46.790304, 14.291152],
+  "Schloss Seltenheim": [46.65805556, 14.24916667],
+  "Burgruine Silberberg": [47.005735, 14.530982],
+  "Schloss Silberegg": [46.85145556, 14.49178611],
+  "Burg Sommeregg": [46.83416667, 13.52361111],
+  "Burgruine Sonnegg": [46.56305556, 14.64166667],
+  "Schloss Sonnegg, Sonnegg (Gemeinde Sittersdorf)": [46.56305556, 14.64166667],
+  "Sorgendorfer Brauerei": [46.57859167, 14.78593611],
+  "Schloss Staudachhof": [46.97447778, 14.30476389],
+  "Burgruine Stein, Sankt Georgen im Lavanttal": [46.522264, 11.469136],
+  "Burgruine Sternberg, Wernberg": [47.66001, 15.86754],
+  "Schloss Stra\u00dfburg": [46.897472, 14.330261],
+  "Burgruine Stra\u00dffried": [46.54972222, 13.66083333],
+  "Schloss S\u00fc\u00dfenstein": [46.93792222, 14.54866111],
+  "Burgruine Taggenbrunn": [46.771472, 14.390157],
+  "Schloss Tanzenberg": [46.71083333, 14.34361111],
+  "Schloss Tentschach": [46.682478, 14.260161],
+  "Schloss Th\u00fcrn": [46.80825833, 14.78578611],
+  "Gschlosser Hube": [46.70910556, 14.05658056],
+  "Schloss Tigring": [46.68537778, 14.17866667],
+  "Schloss T\u00f6ltschach": [46.69395, 14.3661],
+  "Schloss T\u00f6scheldorf": [46.88329722, 14.46345],
+  "Schloss Trabuschgen": [46.93451389, 13.2018],
+  "Burgruine Treffen (Alt-Treffen), Winklern (Gemeinde Treffen am Ossiacher See)": [
+    46.68622222, 13.84255556
+  ],
+  "Schloss Truttendorf, Truttendorf": [46.613012, 14.443588],
+  "Burgruine Twimberg, Twimberg (Gemeinde Bad St. Leonhard im Lavanttal)": [
+    46.91643611, 14.84646389
+  ],
+  "Schloss Velden": [46.61173333, 14.04323611],
+  "Burgruine Waisenberg": [46.69833333, 14.56194444],
+  "Schloss Waldenstein": [46.9275, 14.88694444],
+  "Schloss Wasserhofen, K\u00fchnsdorf (Gemeinde Eberndorf)": [
+    48.441268, 15.622369
+  ],
+  "Schloss Wasserleonburg": [46.592461, 13.628948],
+  "Burgruine Weidenburg": [46.64785556, 13.05685],
+  "Schloss Weildegg": [46.65681944, 13.01273611],
+  "Schloss Wei\u00dfenau": [46.81341667, 14.80647222],
+  "Burgruine Wei\u00dfenegg": [46.65638889, 14.7697],
+  "Schloss Welsbach": [46.85812222, 14.38984722],
+  "Schloss Welzenegg": [46.62824722, 14.33225833],
+  "Schloss Wernberg": [46.62111111, 13.93111111],
+  "Schloss Werthenau": [46.60548056, 13.82676389],
+  "Schloss Wiesenau": [46.94587222, 14.81260278],
+  "Burg Wildenstein, Gallizien": [48.05555556, 9.00069444],
+  "Schloss Wolfsberg": [46.84194444, 14.84861111],
+  "Burg- und Schlossruine Wullross": [46.81416667, 14.21277778],
+  "Burgruine Zeiselberg": [46.662508, 14.384024],
+  "Schloss Zigguln": [46.635289, 14.291617],
+  "Nieder\u00f6sterreich": [48.2, 15.63333333],
+  "Schloss Achleiten": [48.07491245, 14.18062449],
+  "Burgruine Aggstein, Sch\u00f6nb\u00fchel-Aggsbach": [
+    48.31444444, 15.42166667
+  ],
+  "Burg Albrechtsberg, Albrechtsberg an der Gro\u00dfen Krems": [
+    48.46327, 15.36878
+  ],
+  "Schloss Albrechtsberg, Loosdorf": [51.065, 13.79472222],
+  "Schloss Allentsteig": [48.69758, 15.3273],
+  "Schloss Altkettenhof": [48.13711931, 16.47177011],
+  "Schloss Altprerau": [48.79753, 16.475149],
+  "Burgruine Araburg": [48.01082, 15.86738],
+  "Burgruine Arbesbach": [48.494378, 14.960856],
+  "Herrenhaus Arbesbach": [48.49413, 14.9547],
+  "Schloss Ardagger, ehem. Kollegiatstift": [48.159101, 14.843903],
+  "Schloss Arndorf": [48.29311, 15.15605],
+  "Burgruine Arnstein": [48.02949, 16.06602],
+  "Schloss Artstetten": [48.24251389, 15.20257222],
+  "Schloss Aspang": [47.55583333, 16.09138889],
+  "Schloss Asparn an der Zaya": [48.58722222, 16.49444444],
+  "Schloss Bisamberg": [48.33102, 16.36295],
+  "Schloss Bockflie\u00df": [48.36027778, 16.60166667],
+  "Schloss Braiten": [48.00335, 16.23488889],
+  "Schloss Braunsdorf": [48.633625, 15.936268],
+  "Altes Schloss Breiteneich": [48.66388889, 15.65722222],
+  "Schloss Brodersdorf, Seibersdorf": [47.93863, 16.47159],
+  "Schloss Brunn am Wald": [48.49748, 15.40993],
+  "Schloss Buchberg, Buchberg am Kamp": [48.575684, 15.65865],
+  "Burgleiten, bei Rappottenstein": [48.52694444, 15.02027778],
+  "Schloss Burgschleinitz": [48.60803889, 15.81898889],
+  "Schloss Deinzendorf": [48.694666, 15.92061],
+  "Schloss Deutsch-Altenburg": [48.136369, 16.903],
+  "Schloss Dietmanns": [48.793734, 15.381495],
+  "Schloss Dobersberg": [48.91626, 15.32143],
+  "Burgruine Dobra": [48.5922, 15.3925],
+  "Schloss Drosendorf": [48.86693, 15.62034],
+  "Schloss Dr\u00f6siedl, Ludweis-Aigen": [48.78851, 15.49256],
+  "Schloss Dro\u00df": [48.46382, 15.57189],
+  "Ruine Dunkelstein, Ternitz": [47.71555556, 16.04944444],
+  "Schloss D\u00fcrnkrut": [48.47333, 16.84886],
+  "Burgruine D\u00fcrnstein": [48.39777778, 15.52194444],
+  "Schloss D\u00fcrnstein": [48.39555556, 15.52027778],
+  "Schloss Ebenfurth": [47.87583333, 16.36888889],
+  "Schloss Ebergassing": [48.04693, 16.52359],
+  "Schloss Ebreichsdorf": [47.96297222, 16.39683333],
+  "Schloss Eckartsau": [48.14049, 16.79363],
+  "Schloss Edla": [48.12699, 14.86482],
+  "Schloss Ehrendorf": [48.75777778, 14.96111111],
+  "Burgruine Eibenstein": [48.84658333, 15.58152778],
+  "Schloss Eichb\u00fcchl": [47.75883333, 16.27636111],
+  "Burgruine Emmerberg": [47.81852, 16.10119],
+  "Schloss Engelstein": [48.64055, 14.9437],
+  "Schloss Enzersdorf im Thale": [48.586697, 16.24073],
+  "Schloss Enzesfeld": [47.91777778, 16.18527778],
+  "Schloss Erla": [48.19924, 14.5695],
+  "Schloss Ernegg": [48.06527778, 15.06527778],
+  "Schloss Ernstbrunn": [48.54033, 16.34764],
+  "Burgruine Falkenstein": [48.49408056, 13.78268056],
+  "Burg Feistritz am Wechsel": [47.59944444, 16.05361111],
+  "Schloss Felling": [48.4718, 15.4225],
+  "Schloss Fels am Wagram": [48.43861111, 15.8175],
+  "Schloss Fischau": [47.83141667, 16.16755556],
+  "Schloss Freydegg": [48.10067, 14.97793],
+  "Schloss Fridau": [48.14944444, 15.55583333],
+  "Schloss Frohsdorf": [47.74481, 16.25557],
+  "Franzensburg, Laxenburg": [48.06525278, 16.37182778],
+  "Schloss Fronsburg": [48.80305556, 15.80861111],
+  "Schloss F\u00fcnfkirchen, Gemeinde Drasenhofen": [48.74735, 16.64719],
+  "Pfarrhof Gaaden, ehem. Schloss": [48.05, 16.2],
+  "Schloss Gaaden": [48.046212, 16.20537],
+  "Burg Gaber (Gaberkirche)": [48.87963889, 15.58272222],
+  "Schloss Gainfarn": [47.96343889, 16.20276111],
+  "Schloss G\u00e4nserndorf": [48.34055556, 16.7175],
+  "Burgruine Gars am Kamp": [48.59456, 15.65358],
+  "Gassenegg, St. Peter in der Au": [48.03861111, 14.60166667],
+  "Schloss Gerasdorf am Steinfeld": [47.78166667, 16.10333333],
+  "Schloss Gilgenberg": [47.38361111, 7.6075],
+  "Schloss Ginselberg (auch Schloss Sch\u00f6nfeldt), Scheibbs": [
+    47.988612, 15.163524
+  ],
+  "Schloss Glaswein": [48.555742, 16.269978],
+  "Burgruine Glei\u00df": [48.015, 14.74611111],
+  "Schloss Gloggnitz": [47.67351944, 15.92928056],
+  "Schloss Gm\u00fcnd": [48.7724, 14.98229],
+  "Schloss Gneixendorf": [48.441268, 15.622369],
+  "Schloss Gobelsburg": [48.46115, 15.69584],
+  "Burgruine Goldburg": [48.23611111, 15.82888889],
+  "Schloss Goldegg": [48.237108, 15.531256],
+  "Schloss G\u00f6llersdorf": [48.49138889, 16.12055556],
+  "Schloss G\u00f6pfritz an der Wild": [48.71666667, 15.4],
+  "Gozzoburg": [48.41182, 15.6019],
+  "Ansitz Grabenhof": [47.09511667, 15.43737222],
+  "Schloss Grafenegg": [48.42861111, 15.74611111],
+  "Burgruine Grafenweiden": [48.19777778, 16.91],
+  "Burg Greifenstein": [50.62041944, 8.29471111],
+  "Schloss Greillenstein": [48.65858, 15.51446],
+  "Burg Grimmenstein (Nieder\u00f6sterreich), Marktgemeinde Grimmenstein": [
+    47.63198, 16.12036
+  ],
+  "Schloss Gro\u00df": [48.57349, 15.98919],
+  "Schloss Gro\u00dfau, Bad V\u00f6slau": [48.88222222, 15.52166667],
+  "Schloss Grossau, Raabs an der Thaya": [48.88222222, 15.52166667],
+  "Stadtburg Gro\u00dfenzersdorf": [48.2025, 16.55055556],
+  "Schloss Gro\u00dfpertholz": [48.62916667, 14.825],
+  "Schloss Gro\u00dfru\u00dfbach": [48.475024, 16.421337],
+  "Schloss Gro\u00df-Schweinbarth": [48.4125, 16.63583333],
+  "Schloss Gro\u00df-Siegharts, Gro\u00df-Siegharts": [48.78333333, 15.4],
+  "Deutschordensschloss Gumpoldskirchen": [48.04577778, 16.27408333],
+  "Schloss Guntersdorf": [48.649398, 16.050231],
+  "Schloss Gurhof": [48.29221999, 15.46788633],
+  "Schloss Gutenbrunn am Weinsberg, Gutenbrunn": [48.3659, 15.11924],
+  "Burgruine Gutenstein": [47.87702, 15.88754],
+  "Schloss Hadersfeld": [48.33805556, 16.26],
+  "Schloss Hagenberg (Weinviertel)": [48.63194, 16.45011],
+  "Burgruine Hainburg, Hainburg an der Donau": [48.14777778, 16.94194444],
+  "Schloss Haindorf, Gemeinde Langenlois": [48.47161111, 15.69919444],
+  "Burgstall Hainfeld": [48.034319, 15.768262],
+  "Schloss Hainstetten": [48.16134, 14.925],
+  "Ruine Hanselburg": [48.64527778, 16.46111111],
+  "Burg Hardegg": [48.85361111, 15.8575],
+  "Schloss Harmannsdorf, Burgschleinitz-K\u00fchnring": [48.60163, 15.74208],
+  "Burg Harmannstein": [48.64349, 14.89472],
+  "Schloss Harras": [50.883642, 13.010808],
+  "Burg Hausenbach": [48.25001774, 15.54890513],
+  "Schloss Hauskirchen": [48.61277778, 16.75777778],
+  "Burg Heidenreichstein": [48.86444444, 15.12166667],
+  "Schloss Heiligenkreuz": [48.29075, 15.78025],
+  "Schloss Hernstein": [47.89723, 16.1019],
+  "Burgruine Hernstein": [47.89777, 16.10255],
+  "Herzoghof Krems, Krems an der Donau": [48.409011, 15.599173],
+  "Ruine Hinterhaus, Spitz an der Donau": [48.35861, 15.40704],
+  "Schloss Hirschbach": [48.74378, 15.12516],
+  "Ruine H\u00f6hlturm, W\u00f6llersdorf-Steinabr\u00fcckl": [
+    47.86748, 16.17442
+  ],
+  "Schloss Hof, Gemeinde Engelhartstetten": [48.21387, 16.937],
+  "Schloss Hofarnsdorf, Rossatz-Arnsdorf": [48.36421, 15.42746],
+  "Ruine Hohenberg, Hohenberg": [47.90472222, 15.62277778],
+  "Burgruine Hohenegg": [48.233478, 15.477062],
+  "Burgruine Hollenburg (Ruine Bertholdstein), Krems an der Donau": [
+    48.37972, 15.68046
+  ],
+  "Schloss Hollenburg, Krems an der Donau": [48.37997, 15.68991],
+  "Schloss Horn (Nieder\u00f6sterreich)": [48.66388889, 15.65722222],
+  "Schloss Hubertendorf": [48.13305556, 15.01611111],
+  "Wehrt\u00fcrme Hundsheim": [48.11861111, 16.93888889],
+  "Schloss Illmau": [48.93513, 15.23568],
+  "Burgruine Imbach": [48.43774, 15.57574],
+  "Schloss Jaidhof": [48.52883056, 15.48596944],
+  "Schloss Jedenspeigen": [48.50644, 16.8656],
+  "Schloss Jeutendorf": [48.24515, 15.74114],
+  "Burgruine Johannstein, Hinterbr\u00fchl": [48.085418, 16.184924],
+  "Schloss Judenau": [48.28394, 16.0113],
+  "Schloss Juliusburg, Stetteldorf am Wagram": [48.405367, 16.023034],
+  "Burg Kaja, Hardegg": [48.82666667, 15.88805556],
+  "Schloss K\u00e4lberhart": [48.128902, 15.361475],
+  "Burgruine Kamegg": [48.61147, 15.65792],
+  "Burgruine Kammerstein, Perchtoldsdorf": [48.12551111, 16.2326],
+  "Schloss Karlsbach": [48.15861111, 15.04611111],
+  "Schloss Karlstetten": [48.25862712, 15.56570917],
+  "Schloss Karnabrunn": [48.46015, 16.3672],
+  "Schloss Kattau": [48.67916667, 15.80583333],
+  "Schloss Katzelsdorf": [47.779152, 16.2714],
+  "Schloss Karlslust, Niederfladnitz": [48.81527778, 15.92388889],
+  "Schloss Kirchberg am Walde": [48.71666667, 15.08333333],
+  "Schloss Kirchberg an der Pielach": [48.0275, 15.42861111],
+  "Schloss Kirchberg an der Wild": [48.75111111, 15.40361111],
+  "Burgruine Kirchschlag in der Buckligen Welt": [47.500416, 16.2956],
+  "Schloss Kirchstetten": [48.73056, 16.51057],
+  "Schloss Klafterbrunn": [48.07093, 15.59218],
+  "Burgruine Klamm, Breitenstein": [47.66001, 15.86754],
+  "Schloss Klein-Neusiedl": [48.09083333, 16.60444444],
+  "Burgruine Kollmitz, Raabs an der Thaya": [48.82166667, 15.53333333],
+  "Wasserschloss Kottingbrunn": [47.95194444, 16.22916667],
+  "Burg Kranichberg, Kirchberg am Wechsel": [47.64555556, 15.97352778],
+  "Schloss Kreisbach": [48.09453, 15.62319],
+  "Burg Kreuzenstein": [48.37916667, 16.30888889],
+  "Burgruine Kronsegg, Gemeinde Langenlois": [48.5115, 15.60366667],
+  "Burg Krumau am Kamp": [48.59039, 15.44747],
+  "Schloss Krumbach": [47.50294603, 16.19533896],
+  "Schloss Krummnu\u00dfbaum": [48.2075, 15.16472222],
+  "Burg Laa, Laa an der Thaya": [48.7225, 16.38666667],
+  "Schloss Ladendorf": [48.535885, 16.490276],
+  "Burg Lanzenkirchen, Walpersbach": [47.72785, 16.2381],
+  "Schloss Laxenburg": [48.06518, 16.36739],
+  "Schloss Leesdorf, Baden": [48.00466667, 16.25052778],
+  "Schloss Leiben": [48.24341, 15.28407],
+  "Schloss Lehenhof, Scheibbs": [47.99355, 15.16612],
+  "Schloss Leopoldsdorf, Bezirk Bruck an der Leitha": [48.11666667, 16.4],
+  "Schloss Leopoldsdorf, Bezirk G\u00e4nserndorf": [48.11666667, 16.4],
+  "Schloss Lichtenau im Waldviertel, Lichtenau im Waldviertel": [
+    48.5, 15.38333333
+  ],
+  "Burg Liechtenstein": [48.0927, 16.27036111],
+  "Schloss Linsberg": [47.72766432, 16.19884974],
+  "Schloss Litschau": [48.9442, 15.04053],
+  "Schloss Loosdorf": [48.6507664, 16.4491671],
+  "Burgruine Losenheim": [47.788903, 15.845064],
+  "Schloss Ludwigstorff, Bad Deutsch-Altenburg": [48.136369, 16.903],
+  "Schloss Mailberg": [48.670433, 16.182809],
+  "Schloss Maissau": [48.57199, 15.82447],
+  "Schloss Mannersdorf": [47.96666667, 16.6],
+  "Schloss Marchegg": [48.28166667, 16.90666667],
+  "Schloss Mautern, Mautern an der Donau": [48.39502496, 15.57585371],
+  "Schloss Mayerling": [48.04671944, 16.09833889],
+  "Ruine Merkenstein": [47.98229, 16.13366],
+  "Schloss Merkenstein, Bad V\u00f6slau": [47.98433, 16.1313],
+  "Schlossruine Michelstetten": [48.58361111, 16.42583333],
+  "Burgruine M\u00f6dling": [48.07936944, 16.26733056],
+  "Burgruine Mollenburg": [48.29500556, 15.25646389],
+  "Schloss Neuaigen, Neuaigen": [48.36269, 16.02253],
+  "Burg Neulengbach": [48.19805556, 15.91027778],
+  "Schloss Niederabsdorf, Ringelsdorf-Niederabsdorf": [48.56647, 16.85798],
+  "Schloss Niederfladnitz": [48.79638889, 15.89611111],
+  "Schloss Niederhaus, Spitz an der Donau": [48.36573, 15.41277],
+  "Schloss Niederkreuzstetten": [48.48129, 16.47969],
+  "Schloss Niederleis": [48.55811, 16.39606],
+  "Schloss Niedernondorf": [48.54731068, 15.27489066],
+  "Schloss Niederweiden": [48.19788, 16.90096],
+  "Burg Oberranna, M\u00fchldorf": [48.37994, 15.3393],
+  "Schloss Ochsenburg, St. P\u00f6lten-Ochsenburg": [48.13083333, 15.63388889],
+  "Schloss Orth, Orth an der Donau": [48.1445, 16.70088],
+  "Burgruine Osterburg (Haunoldstein)": [48.20525, 15.44107],
+  "Burg Ottenstein": [48.59638889, 15.33555556],
+  "Schloss Ottenschlag": [48.42522, 15.22005],
+  "Schloss Peigarten": [48.89277778, 15.26916667],
+  "Burgruine Peilstein, Weiler Thal in der Marktgemeinde St. Leonhard am Forst": [
+    48.158173, 15.29793
+  ],
+  "Burg Perchtoldsdorf": [48.11973889, 16.26416944],
+  "Schloss Persenbeug": [48.19, 15.07508056],
+  "Schloss Petronell": [48.11638889, 16.86055556],
+  "Schloss Petzenkirchen": [48.14736, 15.15432],
+  "Schloss Pitten": [47.71647, 16.19058],
+  "Schloss Pielach, Melk": [48.0275, 15.42861111],
+  "Burg Plankenstein": [48.02524, 15.27889],
+  "Schloss P\u00f6chlarn": [48.21197323, 15.21287262],
+  "Schloss P\u00f6ggstall": [48.31805556, 15.19847222],
+  "Schloss Pottenbrunn, St. P\u00f6lten - Pottenbrunn": [48.2388, 15.69688],
+  "Burgruine Pottenburg, Wolfsthal": [48.11899, 17.02616],
+  "Schloss Pottendorf (Ruine)": [47.91141944, 16.38445],
+  "Schloss Pottschach": [47.70417, 15.99975],
+  "Schloss Poysbrunn": [48.71669, 16.6223],
+  "Schloss Primmersdorf": [48.8599, 15.57892],
+  "Schloss Prinzendorf": [48.59916667, 16.71694444],
+  "Schloss Prugg": [48.02563056, 16.7826],
+  "Burgruine Puchberg": [47.78563056, 15.91448056],
+  "Schloss Purgstall": [48.06220986, 15.13283551],
+  "Schloss Purkersdorf": [48.20694444, 16.175],
+  "Burg Raabs": [48.84697222, 15.49011111],
+  "Schloss Rabensburg": [48.6504, 16.90295],
+  "Schloss Raggendorf": [48.4, 16.7],
+  "Ruine Raipoltenbach, Neulengbach": [48.21694444, 15.88694444],
+  "Burg Rappottenstein": [48.51206, 15.0878],
+  "Burgruine Rauheneck": [48.00616944, 16.20491944],
+  "Burgruine Rauhenstein, Baden (Nieder\u00f6sterreich)": [
+    48.01296111, 16.20515
+  ],
+  "Burg Reinsberg": [47.9825, 15.07111111],
+  "Burgruine Ried am Riederberg": [48.24746, 16.07278],
+  "Burgruine Riedenburg, Horn": [48.96222222, 11.68305556],
+  "Schloss Riegersburg": [48.85444444, 15.77166667],
+  "Schloss Rohrau": [48.06243, 16.85167],
+  "Schloss Rosenau": [48.60111111, 15.06361111],
+  "Schloss Rosenburg, Rosenburg": [48.628253, 15.63517],
+  "Schloss Rossatz": [48.39672, 15.50545],
+  "Schloss Rothm\u00fchle, Schwechat": [48.131617, 16.469713],
+  "Rothschildschloss, Waidhofen an der Ybbs": [47.96295, 14.77365],
+  "Schloss Sachsengang, Gro\u00df-Enzersdorf": [48.17409, 16.58524],
+  "Schloss Salaberg, Haag": [48.10138889, 14.55777778],
+  "Schallaburg": [48.189, 15.35594444],
+  "Burg Scharfeneck, Sankt P\u00f6lten": [48.01351111, 16.19668056],
+  "Burg Scharfeneck, Baden bei Wien": [48.01351111, 16.19668056],
+  "Schloss Scheibbs, Scheibbs": [48.00485, 15.16857],
+  "Burgruine Scheuchenstein": [47.83694444, 15.98611111],
+  "Schloss Schiltern, Gemeinde Langenlois": [48.51841, 15.61672],
+  "Schloss Schleinz": [47.71569444, 16.25558333],
+  "Schloss Schmida": [48.37727, 16.11331],
+  "Schloss Sch\u00f6nb\u00fchel": [48.25791728, 15.37368662],
+  "Burgruine Schrattenstein": [47.77666667, 15.99861111],
+  "Schloss Schrattenthal": [48.714444, 15.905833],
+  "Schloss Schwadorf": [48.06916667, 16.58111111],
+  "Schloss Schwallenbach, Spitz an der Donau, Katastralgemeinde Schwallenbach": [
+    48.33985, 15.40337
+  ],
+  "Schloss Schwarzau am Steinfeld": [47.73055556, 16.16722222],
+  "Schloss Schwarzenau": [48.74416667, 15.26111111],
+  "Burgruine Schwarzenbach": [47.63944444, 16.34027778],
+  "Ruine Schwarzen\u00f6d, P\u00f6lla (nahe Krumau am Kamp)": [
+    48.593548, 15.436402
+  ],
+  "Burg Seebenstein": [47.69536111, 16.14403056],
+  "Schloss Seehof": [49.92694444, 10.94777778],
+  "Burgruine Senftenberg": [48.44768, 15.56499],
+  "Schloss Senftenegg": [48.07461, 14.98753],
+  "Schloss Seisenegg": [48.13666667, 14.9225],
+  "Burgruine Sichtenberg, Sollach": [48.175255, 15.374892],
+  "Schloss Sitzenberg, Sitzenberg-Reidling": [48.32203, 15.80708],
+  "Schloss Sitzenthal": [48.211328, 15.420575],
+  "Schloss Sonnberg": [48.53846944, 16.06148056],
+  "Burgruine Staatz": [48.67666667, 16.48972222],
+  "Burgruine Stallegg": [47.8556, 8.288],
+  "Burgruine Starhemberg": [47.86661111, 16.09913889],
+  "Ruine Stein an der Donau, Krems an der Donau": [48.401778, 15.581889],
+  "Burgruine Stickelberg": [47.61253277, 16.24029078],
+  "Schloss Stiebar Gresten": [47.98333333, 15.01666667],
+  "Burg Stixenstein": [47.74555556, 15.97916667],
+  "Burgruine Stolzenw\u00f6rth": [47.80138889, 15.96111111],
+  "Jugendburg Streitwiesen": [48.314281, 15.234892],
+  "Schloss St. Peter in der Au": [48.04577, 14.62519],
+  "Schloss Therasburg": [48.7152, 15.77662],
+  "Burgruine Thernberg": [47.66027778, 16.15833333],
+  "Schloss Th\u00fcrnthal": [48.43738, 15.84577],
+  "Schloss Traismauer": [48.33333333, 15.73305556],
+  "Schloss Trautmannsdorf, Trautmannsdorf an der Leitha": [
+    48.021947, 16.641066
+  ],
+  "Ruine Tursenstein (\u00d6des Schloss, Stein am Kamp), Altenburg": [
+    48.62935, 15.60521
+  ],
+  "Schloss Ulmerfeld, Amstetten": [48.07694444, 14.82361111],
+  "Schloss Ulrichskirchen": [48.39932, 16.49538],
+  "Schloss Vesten\u00f6tting": [48.8298, 15.2991],
+  "Schloss Viehofen, St. P\u00f6lten - Viehofen": [48.230065, 15.641012],
+  "Schloss V\u00f6slau, Bad V\u00f6slau": [47.9654, 16.21534],
+  "Schloss V\u00f6stenhof": [47.71706944, 15.98162778],
+  "Schloss Waidhofen an der Thaya": [48.81491, 15.28572],
+  "Schloss Walkenstein": [48.71536, 15.72838],
+  "Schloss Walkersdorf": [48.446511, 15.731993],
+  "Schloss Walpersdorf": [48.31348, 15.67645],
+  "Schloss Walterskirchen (Veste Wolfsthal, Schloss Wolfsthal), Wolfsthal": [
+    48.13666667, 17.00638889
+  ],
+  "Burg Wartenstein": [47.65053056, 15.9191],
+  "Schloss Wasenhof, Biedermannsdorf": [48.08406111, 16.34398056],
+  "Schloss Wasserburg, St. P\u00f6lten - Pottenbrunn": [48.249567, 15.704609],
+  "Schloss Weikersdorf, Baden": [48.00798, 16.22066],
+  "Burgruine Weikertschlag, Weikertschlag an der Thaya": [48.91222222, 15.475],
+  "Schloss Weilburg (Baden)": [48.006667, 16.208889],
+  "Schloss Weinzierl": [48.126944, 15.124722],
+  "Burgruine Weitenegg": [48.23005, 15.29414],
+  "Schloss Weitra": [48.69941, 14.89363],
+  "Burg Wei\u00dfenburg, Frankenfels-Wei\u00dfenburg": [
+    47.99944444, 15.35527778
+  ],
+  "Schloss Wetzdorf": [48.498578, 15.950719],
+  "Burg Wiener Neustadt": [47.8099, 16.24581],
+  "Schloss Wieselburg": [48.1270414, 15.1225408],
+  "Burg Wildegg": [48.08611, 16.1653],
+  "Schloss Wilfersdorf": [48.58525, 16.64598],
+  "Schloss Wolfpassing, Wolfpassing": [48.077341, 15.064615],
+  "Schloss Wolfsberg, Angern bei Krems": [46.84194444, 14.84861111],
+  "Burgruine Wolfstein, Sch\u00f6nb\u00fchel-Aggsbach": [
+    49.29411111, 11.49183333
+  ],
+  "Schloss Wolkersdorf": [48.38096, 16.5193],
+  "Schloss Zeillern": [48.12851, 14.80902],
+  "Burgruine Zelking, Zelking-Matzleinsdorf": [48.18423889, 15.26833056],
+  "Schloss Zell an der Ybbs, Zell an der Ybbs": [47.96278, 14.7754],
+  "Burgruine Ziegersberg, Z\u00f6bern": [47.498081, 16.138415],
+  "Schloss Zistersdorf, Landesberufschule": [48.51666667, 16.75],
+  "Schloss Zogelsdorf": [48.61868, 15.8131],
+  "Burgruine Hausberg Zorimauer, Schiltern Gemeinde Langenlois": [
+    48.51709, 15.62517
+  ],
+  "Schloss Zwentendorf": [48.34509048, 15.91271728],
+  "Schloss Aich, Bad Zell": [48.369722, 14.678333],
+  "Schloss Aichet, Steyr": [48.0450518, 14.4118099],
+  "Schloss Aigen, Atzbach": [47.78611111, 13.08805556],
+  "Schloss Aigenegg, Thalheim bei Wels": [48.15132778, 14.03233333],
+  "Schloss Ainwalding, Ungenach": [48.0624233, 13.6102092],
+  "Schloss Aistersheim, Aistersheim": [48.18643611, 13.73986944],
+  "Schloss Almegg, Steinerkirchen an der Traun": [48.07055556, 13.92055556],
+  "Schloss Altenhof, Pfarrkirchen im M\u00fchlkreis": [
+    48.50555556, 13.77805556
+  ],
+  "Burg Altpernstein, Micheldorf in Ober\u00f6sterreich": [47.885, 14.15666667],
+  "Schloss Arbing, Arbing": [48.22687, 14.70573],
+  "Schloss Aschach, Aschach an der Donau": [50.254253, 10.062048],
+  "Freisitz Auerberg, Linz": [48.30017589, 14.2816354],
+  "Schloss Aurolzm\u00fcnster, Aurolzm\u00fcnster": [48.24944444, 13.45555556],
+  "Schloss Au\u00dfenstein, Baumgartenberg": [48.22352, 14.749718],
+  "Schloss Berg bei Rohrbach, Berg bei Rohrbach": [48.5751836, 13.9954799],
+  "Schloss Bergham, Leonding": [48.2827344, 14.2288818],
+  "Bergschl\u00f6ssl, Linz": [48.290861, 14.285672],
+  "Burg Blankenberg, Neufelden": [50.76454722, 7.3593],
+  "Schloss Bogenhofen, St. Peter am Hart": [48.268541, 13.110983],
+  "Schloss Brandstatt, Pupping": [48.33612813, 14.02463365],
+  "Schloss Breitenbruck, Katsdorf": [48.32621, 14.47732],
+  "Schloss Brunnthal, St. Veit im Innkreis": [48.20741667, 13.27502778],
+  "Schloss Brunnwald, Vorderwei\u00dfenbach": [48.51922, 14.25025],
+  "Burg Clam, Klam": [48.22091944, 14.77848889],
+  "Schloss Cumberland, Gmunden": [47.9275, 13.80805556],
+  "Schloss Dachsberg, Prambachkirchen": [48.299358, 13.927724],
+  "Schloss Dietach, Schlei\u00dfheim": [48.15952778, 14.09177778],
+  "Schloss Dorff, Schlierbach": [47.942487, 14.127285],
+  "Burgruine Dornach, Lasberg": [48.46583333, 14.525],
+  "Schloss Dornach, Saxen": [48.190888, 14.827855],
+  "Schloss Ebelsberg, Linz-Ebelsberg": [48.246758, 14.328243],
+  "Schloss Ebenzweier, Altm\u00fcnster": [47.896636, 13.762767],
+  "Schloss Egeregg, Linz": [48.306756, 14.292108],
+  "Egerer Schl\u00f6ssl, Weyer": [47.8586999, 14.6662798],
+  "Schloss Eggenberg, Vorchdorf": [47.073882, 15.391327],
+  "Schloss Eggendorf, Eggendorf im Traunkreis": [48.13175, 14.14838889],
+  "Burg Einburg, Raab": [48.34266667, 13.61541667],
+  "Schloss Engelhof, Steyr": [48.041927, 14.431611],
+  "Schloss Engelseck, Steyr": [48.03862, 14.410416],
+  "Schloss Engleithen, Bad Ischl": [47.67982, 13.61938],
+  "Ennsburg, Enns": [48.217121, 14.484143],
+  "Schloss Ennsegg, Enns": [48.21556761, 14.48093319],
+  "Schloss Erb, Friedburg": [48.017566, 13.258891],
+  "Schloss Eschelberg, St. Gotthard im M\u00fchlkreis": [48.38158889, 14.11825],
+  "Schloss Etzelsdorf, Pichl bei Wels": [48.179191, 13.892481],
+  "Burgruine Falkenstein, Hofkirchen im M\u00fchlkreis": [
+    48.49408056, 13.78268056
+  ],
+  "Schloss Feldegg, Pram": [48.238359, 13.594293],
+  "Schloss Feyregg, Pfarrkirchen bei Bad Hall": [48.032516, 14.194953],
+  "Schloss Forstern, Burgkirchen": [48.212018, 13.098515],
+  "Burgruine Freudenstein, Feldkirchen an der Donau": [48.351698, 14.096735],
+  "Wasserschloss Freiling, Oftering": [48.23645, 14.123418],
+  "Schloss Frein, Frankenburg am Hausruck": [48.067168, 13.48271],
+  "Schloss Freistadt, Freistadt": [48.51233056, 14.50655],
+  "Schloss Freizell, Hofkirchen im M\u00fchlkreis": [48.44765, 13.83293],
+  "Fuchsenhof, Freistadt": [48.50101111, 14.48876111],
+  "Wasserschloss Gallspach, Gallspach": [48.206389, 13.813056],
+  "Schloss Geretsdorf, Burgkirchen": [48.20230556, 13.11344444],
+  "Schloss Gneisenau, Kleinzell im M\u00fchlkreis": [48.4549, 13.98673889],
+  "Schloss Gotterau, Ansfelden": [48.22813, 14.29399],
+  "Schloss G\u00f6tzendorf, Oepping": [48.56677778, 13.94941667],
+  "Burg Graben, Kirchdorf am Inn": [48.286527, 13.262423],
+  "Schloss Greinburg, Grein": [48.22638889, 14.85305556],
+  "Schloss Greisingberg, Pregarten": [48.3458279, 14.5590745],
+  "Schloss Gschwendt, Neuhofen an der Krems": [48.13766882, 14.23606038],
+  "Schloss Habichrigl, Bad Zell": [48.348255, 14.656754],
+  "Schloss Hackledt, Eggerding": [48.35244444, 13.44577778],
+  "Schloss Hagenau, St. Peter am Hart": [48.27505278, 13.09965833],
+  "Schloss Hagenberg, Hagenberg im M\u00fchlkreis": [48.366667, 14.515],
+  "Burgstall Alt-Hagenberg, Hagenberg im M\u00fchlkreis": [48.366, 14.5113],
+  "Burgruine Haichenbach, Hofkirchen im M\u00fchlkreis": [48.43472222, 13.855],
+  "Schloss Haiding, Krenglbach": [48.21305556, 13.97444444],
+  "Schloss Haitzing, Andorf": [48.3585, 13.57038889],
+  "Schloss Hall, Bad Hall": [48.0363322, 14.2049351],
+  "Schloss Hammeries, Laussa": [47.9370117, 14.421577],
+  "Schloss Hartheim, Alkoven": [48.28115833, 14.11375],
+  "Schloss Harrachstal, Weitersfelden": [48.504827, 14.6863],
+  "Schloss Helfenberg, Helfenberg": [48.54333333, 14.13694444],
+  "Schloss Hinterndobl, Dorf an der Pram": [48.25541667, 13.62458333],
+  "Schloss Hochhaus, Vorchdorf": [48.0037585, 13.9225243],
+  "Burgstall Hochkuchl, Lohnsburg": [48.131405, 13.378955],
+  "Schloss Hochscharten, Waizenkirchen": [48.332585, 13.862701],
+  "Schloss Hohenbrunn, St. Florian": [48.19908333, 14.35619444],
+  "Burgstall Holz\u00f6ster, Franking": [48.0642, 12.964],
+  "Schloss Hueb, Mettmach": [48.18277778, 13.33247222],
+  "Wasserschloss Hueb, Eggendorf im Traunkreis": [48.13371836, 14.1551435],
+  "Schloss Ibm, Eggelsberg": [48.065, 12.964],
+  "Schloss Innersee, Rottenbach": [48.21361111, 13.69327778],
+  "Schloss Innernstein, M\u00fcnzbach": [48.270023, 14.754001],
+  "Schloss Irnharting, Gunskirchen": [48.12847222, 13.914],
+  "Kaiservilla, Bad Ischl": [47.715, 13.62083333],
+  "Schloss Kammer, Sch\u00f6rfling am Attersee": [47.94614722, 13.59138056],
+  "Burgstall Kammermaier, Neumarkt im M\u00fchlkreis": [48.4776, 14.463],
+  "Ansitz Katzenberg, Mettmach": [48.183348, 13.345556],
+  "Schloss Klaus, Klaus an der Pyhrnbahn": [47.82361111, 14.15472222],
+  "Burgruine Klingenberg, St. Thomas am Blasenstein": [48.32441, 14.7888],
+  "Burg Kogl, St. Georgen im Attergau": [47.93777778, 13.46277778],
+  "Burgruine K\u00f6nigstein, Freinberg": [50.1825, 8.46083333],
+  "Schloss K\u00f6ppach, Atzbach": [48.072175, 13.69691667],
+  "Burg Krempelstein, Esternberg": [48.5625, 13.58611111],
+  "Schloss Kremsegg, Kremsm\u00fcnster": [48.05444444, 14.14555556],
+  "Burg Kreuzen, Bad Kreuzen": [48.25916667, 14.82],
+  "Burgruine Kronest, Neumarkt im M\u00fchlkreis": [48.44805556, 14.48277778],
+  "Schloss Lamberg, Steyr": [48.04166667, 14.41888889],
+  "Burgruine Langenstein, Langenstein": [48.24416667, 14.47027778],
+  "Burg Lasberg, abgekommene Wasserburg in Lasberg": [48.4714019, 14.5394515],
+  "Schloss Lassereck, Unterach am Attersee": [47.8061325, 13.4913241],
+  "Schloss Leombach, Sipbachzell": [48.12533333, 14.09244444],
+  "Burgruine Leonstein, Gr\u00fcnburg": [46.63902778, 14.12916667],
+  "Wasserschloss Lichtenegg, Wels": [48.151852, 14.005678],
+  "Burgruine Lichtenhag, Gramastetten": [48.37938056, 14.17541944],
+  "Schloss Lindach, Laakirchen": [48.830045, 9.809455],
+  "Linzer Schloss, Linz": [48.305, 14.2825],
+  "Linzer Landhaus, Linz": [48.30388889, 14.28555556],
+  "Schloss Litzlberg, Seewalchen am Attersee": [47.93286111, 13.55836111],
+  "Burgruine Lobenstein, Oberneukirchen": [49.147032, 12.408419],
+  "Burg Lonstorf, Linz": [48.28771295, 14.32235348],
+  "Burg Losenstein, Losenstein": [47.92398889, 14.43765278],
+  "Schloss Losensteinleithen, Wolfern": [48.1156, 14.359],
+  "Burg Luftenberg, Luftenberg an der Donau": [48.269816, 14.40996],
+  "Schloss Luftenberg, Luftenberg an der Donau": [48.269978, 14.411262],
+  "Schloss Mamling, Mining": [48.277827, 13.190942],
+  "Schloss Maasbach, Eggerding": [48.34211111, 13.43985556],
+  "Schloss Mayrhof, Eberschwang": [48.15636111, 13.56713889],
+  "Marmorschl\u00f6ssl, Bad Ischl": [47.71666667, 13.61777778],
+  "Schloss Marsbach, Hofkirchen im M\u00fchlkreis": [48.45825, 13.82293056],
+  "Schloss Mattighofen, Mattighofen": [48.10561111, 13.15002778],
+  "Schloss Mistelbach, Buchkirchen": [48.23927778, 14.06263333],
+  "Burgruine Mitterberg, Perg": [48.252307, 14.659112],
+  "Burgruine M\u00f6stling, Neumarkt im M\u00fchlkreis": [48.4158, 14.475267],
+  "Schloss Mondsee, Mondsee": [47.856521, 13.350485],
+  "Burgruine Morau, St. Oswald bei Haslach": [48.6227469, 14.04434681],
+  "Schloss M\u00fchldorf, Feldkirchen an der Donau": [48.34086944, 14.08278056],
+  "Schloss M\u00fchlgrub, Bad Hall": [48.025298, 14.2037047],
+  "Schloss M\u00fchllacken, Feldkirchen an der Donau": [
+    48.36545278, 14.06408333
+  ],
+  "Schloss M\u00fchlwang, Gmunden": [47.9216663, 13.8047596],
+  "Edelsitz Murau, Utzenaich": [48.27633333, 13.49602778],
+  "Schloss Neuhaus an der Donau, St. Martin im M\u00fchlkreis": [
+    48.42263056, 13.99161944
+  ],
+  "Schloss Neuhaus, Geinberg": [51.74527778, 8.7125],
+  "Schloss Neukirchen an der Enknach, Neukirchen an der Enknach": [
+    48.179104, 13.047151
+  ],
+  "Schloss Neupernstein, Kirchdorf an der Krems": [47.9031602, 14.1312467],
+  "Schloss Neydharting, Bad Wimsbach-Neydharting": [48.05499, 13.89264],
+  "Schloss Niederwesen, Waldkirchen am Wesen": [48.45897222, 13.80927778],
+  "Edelsitz Obenaus, Gunskirchen": [48.13527778, 13.913],
+  "Schloss Obereitzing, Eitzing": [48.23397222, 13.49602778],
+  "Burg Obernberg, Obernberg am Inn": [48.323246, 13.3334],
+  "Burgruine Oberwallsee, Feldkirchen an der Donau": [48.36831111, 14.05938889],
+  "Schloss Oberweis, Laakirchen": [47.953454, 13.820687],
+  "Schloss Ofenwang, Ostermiething": [48.04180556, 12.86408333],
+  "Schloss Ort, Gmunden": [47.91152778, 13.79233056],
+  "Schloss Ort im Innkreis, Ort im Innkreis": [48.31926389, 13.43445833],
+  "Schloss Ottensheim": [48.32998889, 14.17353056],
+  "Schloss Ottsdorf, Thalheim bei Wels": [48.148751, 14.07613],
+  "Schloss Partenstein, Kirchberg ob der Donau": [48.4320975, 13.9851898],
+  "Schloss Parz, Grieskirchen": [48.23402778, 13.84486111],
+  "Wasserschloss Parz, Grieskirchen": [48.2345, 13.84497222],
+  "Schloss Perwang, Perwang am Grabensee": [48.00736111, 13.08308333],
+  "Schloss Pesenbach, Feldkirchen an der Donau": [48.34809, 14.07039],
+  "Schloss Pettenbach, Pettenbach": [47.960139, 14.018616],
+  "Schloss Peuerbach, Peuerbach": [48.344182, 13.770987],
+  "Schloss Pfaffst\u00e4tt, Pfaffst\u00e4tt": [48.07565, 13.144733],
+  "Schloss Piberbach, Piberbach": [48.11519444, 14.22658333],
+  "Burg Piberstein, Ahorn": [48.53055556, 14.15583333],
+  "Schloss Poneggen, Schwertberg": [48.27255, 14.56424],
+  "Schloss Pragstein, Mauthausen": [48.24052, 14.51555],
+  "Schloss Pragtal, Windhaag bei Perg": [48.264655, 14.664099],
+  "Burgruine Prandegg, Sch\u00f6nau im M\u00fchlkreis": [
+    48.41472222, 14.66666667
+  ],
+  "Schloss Puchberg, Wels": [48.190676, 14.010721],
+  "Schloss Puchenau, Puchenau": [48.31193889, 14.2348],
+  "Burg Puchetwies, Lembach im M\u00fchlkreis": [48.4940399, 13.8996049],
+  "Schloss Puchheim, Attnang-Puchheim": [47.99996, 13.71498],
+  "Burg P\u00fcrnstein, Neufelden": [48.50194444, 14.0125],
+  "Schloss Raab, Raab": [48.35166667, 13.64916667],
+  "Schloss Rannariedl, Neustift im M\u00fchlkreis": [48.48083333, 13.77194444],
+  "Schloss Ranshofen, Braunau am Inn": [48.23138889, 13.01944444],
+  "Burgruine Reichenau, Reichenau im M\u00fchlkreis": [
+    48.45305556, 14.34722222
+  ],
+  "Burg Reichenstein, Tragwein": [50.005125, 7.85350278],
+  "Schloss Reinleiten, Grieskirchen": [48.23806754, 13.82111621],
+  "Burg Ried im Innkreis, Ried im Innkreis": [48.21082049, 13.49334168],
+  "Schloss Riedau, Riedau": [48.3025, 13.63416667],
+  "Schloss Riedegg, Alberndorf in der Riedmark": [48.367781, 14.403731],
+  "Schloss Riegerting, Mehrnbach": [48.18052778, 13.40136111],
+  "Burgruine Rotenfels, Herzogsdorf": [48.44777778, 14.16916667],
+  "Burgruine Rottenegg, St. Gotthard im M\u00fchlkreis": [
+    48.36915, 14.13983056
+  ],
+  "Schloss Rufling, Leonding": [48.2767, 14.21476],
+  "Burgruine Ruttenstein, Pierbach": [48.37833333, 14.77111111],
+  "Jagdschloss Sachsenburg, H\u00f6rsching": [48.22086375, 14.19963598],
+  "Schloss St. Martin im Innkreis, St. Martin im Innkreis": [
+    48.29536111, 13.43822222
+  ],
+  "Schloss St. Veit, St. Veit im M\u00fchlkreis": [48.46831188, 14.16130185],
+  "Burgruine S\u00e4bnich, St. Nikola an der Donau": [48.242355, 14.943926],
+  "Burgruine Sarmingstein, St. Nikola an der Donau": [48.23372, 14.94182],
+  "Turmruine Sarmingstein, St. Nikola an der Donau": [48.23194, 14.93983],
+  "Burgruine Saxenegg, St. Thomas am Blasenstein": [48.29692, 14.74121],
+  "Burg Schallenburg, Kleinzell im M\u00fchlkreis": [50.805024, 6.91882],
+  "Burgruine Scharnstein, Scharnstein": [47.89194444, 13.96333333],
+  "Schloss Scharnstein, Scharnstein": [47.90583333, 13.96361111],
+  "Schloss Neu-Scharnstein, Scharnstein": [47.90583333, 13.96361111],
+  "Burgruine Schaunberg, Hartkirchen": [48.34194444, 13.97694444],
+  "Schloss Schieferegg, Kronsdorf": [48.163668, 14.464366],
+  "Schloss Schl\u00fc\u00dflberg, Schl\u00fc\u00dflberg": [
+    48.217698, 13.870453
+  ],
+  "Schloss Schmiding, Krenglbach": [48.19555556, 13.9525],
+  "Schloss Sch\u00f6rgern, Andorf": [48.35441667, 13.58319444],
+  "Schloss Sch\u00f6ndorf, V\u00f6cklabruck": [48.0014825, 13.6608783],
+  "Ansitz Schweikertsreuth, Maria Schmolln": [48.15727778, 13.21647222],
+  "Schloss Schwertberg, Schwertberg": [48.27777778, 14.58083333],
+  "Seisenburg, Pettenbach": [47.92361111, 14.03694444],
+  "Schloss Selling, Attergau": [47.925658, 13.5034311],
+  "Schloss Sierning, Sierning": [48.044713, 14.3084183],
+  "Schloss Sigharting, Sigharting": [48.39527778, 13.59944444],
+  "Schloss Sp\u00e4ttenbrunn, Neukirchen am Walde": [48.40930556, 13.78127778],
+  "Burgruine Spielberg, Langenstein": [48.24416667, 14.47027778],
+  "Schloss Spitzenberg, Mauerkirchen": [48.19005556, 13.13819444],
+  "Schloss Sprinzenstein, Sarleinsbach": [48.54777778, 13.94361111],
+  "Schloss Stauff, Frankenmarkt": [47.9848337, 13.4327101],
+  "Schloss Stein, St. Marien": [47.986625, 12.546381],
+  "Burgruine Steinerberg, Altenfelden": [48.4565309, 13.9460447],
+  "Burgruine Steinbach, Niederwaldkirchen": [48.47213884, 14.09505129],
+  "Burgstall Steinbach, St. Georgen bei Grieskirchen": [
+    48.21416667, 13.78666667
+  ],
+  "Schloss Steinhaus, Steinhaus": [48.116097, 14.021306],
+  "Schloss Steyregg, Steyregg": [48.28666667, 14.37194444],
+  "Schloss Sunzing, Mining": [48.28777778, 13.19395556],
+  "Schloss Tannbach, Gutau": [48.42083333, 14.59638889],
+  "Burgruine Tannberg, H\u00f6rbich": [48.501842, 13.9388737],
+  "Schloss Teichst\u00e4tt, Lengau": [48.02708333, 13.21586111],
+  "Schloss Theuerwang, Vorchdorf": [47.99465, 13.945517],
+  "Schloss Tillysburg, St. Florian": [48.19917222, 14.42262778],
+  "Schloss Tollet, Tollet": [48.24477778, 13.79913889],
+  "Burg Trattenegg, Schl\u00fc\u00dflberg": [48.2225, 13.84694444],
+  "Schloss Traun, Traun": [48.218889, 14.236944],
+  "Schloss Traunegg, Thalheim bei Wels": [48.15097222, 14.03875],
+  "Schloss Traunsee, Gmunden": [47.908477, 13.7749652],
+  "Schloss Unterach, Unterach am Attersee": [47.8061325, 13.4913241],
+  "Burg Uttendorf, Helpfau-Uttendorf": [48.15472222, 13.11582222],
+  "Schloss Utzenaich, Utzenaich": [48.27624046, 13.46171737],
+  "Schloss Velden, Neufelden": [46.61173333, 14.04323611],
+  "Burg Vichtenstein, Vichtenstein": [48.52888889, 13.65222222],
+  "Schloss Voglsang, Ennstal": [48.039557, 14.412748],
+  "Schloss Voglsang, Steyr": [48.039557, 14.412748],
+  "Schloss Waikhartsberg, Waizenkirchen": [48.31810928, 13.85820258],
+  "Burg Walchen, V\u00f6cklamarkt": [47.98486116, 13.49096525],
+  "Schloss Walchen, V\u00f6cklamarkt": [47.98531356, 13.49132252],
+  "Schloss Waldenfels, Reichenthal": [48.53944444, 14.38888889],
+  "Schloss Walkering, V\u00f6cklabruck": [48.016594, 13.5087968],
+  "Schloss Wanghausen, Hochburg-Ach": [48.15002778, 12.82166667],
+  "Schloss Wartberg, St. Oswald bei Freistadt": [48.34722222, 14.50833333],
+  "Schloss Alt-Wartenburg, Timelkam": [48.01111111, 13.62222222],
+  "Schloss Neu-Wartenburg, Timelkam": [48.011624, 13.623334],
+  "Burgruine Waxenberg, Oberneukirchen": [48.47518889, 14.18851111],
+  "Schloss Waxenberg, Oberneukirchen": [48.47722222, 14.19083333],
+  "Schloss Wegleiten, Ried im Innkreis": [48.19963729, 13.48997068],
+  "Schloss Weidenholz, Waizenkirchen": [48.333232, 13.852856],
+  "Schloss Weinberg, Kefermarkt": [48.44861111, 14.5375],
+  "Edelsitz Weingarting, Linz": [48.30030435, 14.28154957],
+  "Sitz Weiffendorf, Mettmach": [48.15188889, 13.34613889],
+  "Schloss Wei\u00dfau, Lochen am See": [48.03172222, 13.17833333],
+  "Schloss Weitersdorf, Eggendorf im Traunkreis": [48.12019444, 14.13519444],
+  "Burg Wels, Wels": [48.15669444, 14.02808333],
+  "Burg Werfenstein, St. Nikola an der Donau": [48.2298285, 14.8922668],
+  "Burgruine Wesen, Wesenufer": [48.44055556, 13.82777778],
+  "Schloss Weyregg, Weyregg am Attersee": [47.8996974, 13.5698657],
+  "Schloss Wildenau, Aspach": [48.20463889, 13.31510278],
+  "Burgruine Wildeneck, Oberhofen am Irrsee": [47.914098, 13.289997],
+  "Burg Wildenstein, Bad Ischl": [48.05555556, 9.00069444],
+  "Schloss Wildshut, St. Pantaleon": [48.00728333, 12.86597778],
+  "Schloss Wimhub, St. Veit im Innkreis": [48.20213075, 13.27574574],
+  "Schloss Wimsbach, Bad Wimsbach-Neydharting": [48.06235278, 13.89984722],
+  "Burgruine Windegg, Schwertberg": [48.29371111, 14.59661111],
+  "Schloss Windern, Desselbrunn": [48.02481667, 13.79292222],
+  "Schloss Windhaag, Windhaag bei Perg": [48.284461, 14.684724],
+  "Burgruine Windhaag, Windhaag bei Perg": [48.28444444, 14.68472222],
+  "Schloss Wolfsegg, Wolfsegg am Hausruck": [48.108742, 13.674075],
+  "Schloss W\u00fcrting, Offenhausen": [48.14583333, 13.83083333],
+  "Schloss Zarghof, Haslach an der M\u00fchl": [48.6018058, 14.0439424],
+  "Schloss Zell an der Pram, Zell an der Pram": [48.31555556, 13.62972222],
+  "Schloss Zellhof, Bad Zell": [48.342036, 14.700569],
+  "Burgruine Z\u00f6ch, Altenberg bei Linz": [48.37119444, 14.34988889],
+  "Schloss Zwickledt, Wernstein am Inn": [48.50272222, 13.47577778],
+  "Schloss Aigen, Stadt Salzburg": [47.78611111, 13.08805556],
+  "Burgstall Kalham, Eugendorf": [47.84664051, 13.15623522],
+  "Schloss Altenau, Stadt Salzburg": [47.80552778, 13.04201944],
+  "Burg Altentann, Henndorf": [47.890805, 13.199717],
+  "Schloss Anif, Anif": [47.745, 13.07027778],
+  "Badeschloss, Badgastein": [47.113979, 13.136934],
+  "Benediktschl\u00f6ssl, Hallein": [47.679201, 13.092348],
+  "Schloss Bl\u00fchnbach, Sulzau, Werfen": [47.48027778, 13.10502778],
+  "Schloss B\u00f6ckstein, Badgastein": [47.0888057, 13.1154043],
+  "Ansitz Colloredo, Hallein": [47.6842189, 13.0902239],
+  "Daunschl\u00f6ssl, Salzburg": [47.79237695, 13.04330617],
+  "Schloss Dorfheim Saalfelden": [47.43144444, 12.83537778],
+  "Burgruine Edenvest, Thomatal, Tamsweg": [47.072809, 13.728269],
+  "Edmundsburg, Salzburg": [47.79728056, 13.04195278],
+  "Edtburg, Taxenbach": [47.29027778, 12.97361111],
+  "Schloss Ein\u00f6dberg, Mittersill": [47.2826481, 12.4313694],
+  "Egglauer Schl\u00f6ssel, Hallein": [47.679663, 13.092606],
+  "Schloss Elsenheim, Salzburg": [47.80007, 13.06005],
+  "Schloss Emsburg, Salzburg": [47.77194444, 13.06194444],
+  "Schloss Emslieb, Salzburg": [47.76555556, 13.06527778],
+  "Schloss Farmach, Saalfelden": [47.42107778, 12.857265],
+  "Felberturm, Mittersill": [47.277787, 12.4919117],
+  "Burg Finstergr\u00fcn, Ramingstein": [47.07388889, 13.84305556],
+  "Schloss Fischhorn Bruck an der Glocknerstra\u00dfe": [47.286386, 12.823857],
+  "Flederbachschl\u00f6ssl, Salzburg": [47.79735833, 13.06920556],
+  "Schloss Freisaal, Salzburg": [47.78694444, 13.0575],
+  "Freyschl\u00f6ssl, Salzburg": [47.79535, 13.04323889],
+  "Schloss Frohnburg, Salzburg": [47.777306, 13.061097],
+  "Schloss Fuschl, Fuschl am See": [47.80860806, 13.25535889],
+  "Schloss F\u00fcrberg, Salzburg": [47.80374592, 13.06261539],
+  "Schloss Gartenau, Gr\u00f6dig": [47.7222144, 13.0463984],
+  "Schloss Glanegg, Gr\u00f6dig": [47.74972222, 13.00833333],
+  "Schloss Goldegg, Goldegg im Pongau": [48.237108, 15.531256],
+  "Schloss Goldenstein, Elsbethen": [47.758764, 13.081369],
+  "Burg Golling, Golling an der Salzach": [47.59723889, 13.16688056],
+  "Grimmingschloss, Tamsweg": [47.1259658, 13.8122771],
+  "Ansitz Gr\u00f6bendorf, Mariapfarr": [47.136337, 13.721936],
+  "Schloss Grubhof (Sankt Martin bei Lofer)": [47.574123, 12.703584],
+  "Schloss Guggenthal, Koppl": [47.818688, 13.09865],
+  "Burgruine Guetrat, Hallein": [47.70805556, 13.06055556],
+  "Ruine Alt-Gutrat, Hallein": [47.708176, 13.058669],
+  "Burg Haunsperg, Schl\u00f6\u00dfl": [47.93125, 12.98980556],
+  "Schloss Haunsperg, Oberalm": [47.69519444, 13.10447222],
+  "Schloss Hellbrunn, Salzburg": [47.76222222, 13.06083333],
+  "Schloss Heuberg, Bruck an der Glocknerstra\u00dfe": [47.291515, 12.876324],
+  "Burgruine Hieburg, Neukirchen am Gro\u00dfvenediger": [
+    47.24666667, 12.24444444
+  ],
+  "Schloss Hochneukirchen, Neukirchen am Gro\u00dfvenediger": [
+    47.255622, 12.273775
+  ],
+  "Festung Hohensalzburg, Salzburg": [47.79496667, 13.04725556],
+  "Burg Hohenwerfen, Werfen": [47.48272, 13.18821],
+  "Schloss H\u00f6ch, Flachau": [47.36694444, 13.36805556],
+  "Schloss H\u00fcttenstein, St. Gilgen": [47.78166667, 13.38666667],
+  "Johannisschl\u00f6ssl (Pallottinerschl\u00f6ssl), Salzburg": [
+    47.80222222, 13.03305556
+  ],
+  "Schloss Kahlsperg, Oberalm": [47.7038968, 13.0895426],
+  "Schloss Kammer, Maishofen": [47.94614722, 13.59138056],
+  "Burg Kaprun, Kaprun": [47.274396, 12.770984],
+  "Wohnturm Kasten, Bischofshofen": [47.4146514, 13.2185014],
+  "Burg Klammstein, Dorfgastein": [47.2753677, 13.0762438],
+  "Burgruine Klausegg, Seetal bei Tamsweg": [47.155227, 13.962233],
+  "Schloss Klessheim, Wals-Siezenheim": [47.81944444, 12.99194444],
+  "Schloss Kuenburg, Tamsweg": [47.1289371, 13.8104069],
+  "Kupelwieser-Schl\u00f6ssl, Salzburg": [47.79445, 13.03988889],
+  "Schloss Labach (Lambach, Labenbach), Stuhlfelden": [47.2767963, 12.5149541],
+  "Schloss Leopoldskron, Salzburg": [47.78833333, 13.03861111],
+  "Schloss Lerchen, Radstadt": [47.3875012, 13.4580113],
+  "Schloss Lichtenberg, Saalfelden": [47.44120833, 12.8607],
+  "Burgruine Lichtentann, Henndorf": [47.89826, 13.234963],
+  "Luegermayer-Schl\u00f6ssl, Salzburg": [47.80243056, 13.06978611],
+  "Marketenderschl\u00f6ssl, Salzburg": [47.8, 13.035],
+  "Schloss Mattsee, Mattsee": [47.97083333, 13.10805556],
+  "Schloss Mauer, Radstadt": [47.38719, 13.47186],
+  "Burg Mauterndorf, Mauterndorf": [47.1375, 13.67833333],
+  "Schloss Mirabell, Salzburg": [47.80552778, 13.04201944],
+  "Schloss Mittersill, Mittersill": [47.287408, 12.484598],
+  "Montforterhof, Salzburg": [49.76541667, 7.76736111],
+  "Schloss Moosham, Unternberg im Lungau": [47.10194444, 13.70694444],
+  "Schloss M\u00f6nchstein, Salzburg": [47.804133, 13.035793],
+  "Schloss Neudegg, Salzburg": [47.7875, 13.05194444],
+  "Schloss Neuhaus, Salzburg": [51.74527778, 8.7125],
+  "Schloss Niederrain, Mariapfarr": [47.1569691, 13.727439],
+  "Schloss Oberrain, Unken bei Lofer": [47.6443409, 12.7285257],
+  "Paschinger Schl\u00f6ssl, Kapuzinerberg in Salzburg": [47.80265, 13.04776],
+  "Penninghof, Taxenbach": [47.294392, 12.9657512],
+  "Schloss Pfongau, Neumarkt am Wallersee": [47.947271, 13.246331],
+  "Burgruine Plainburg, Gro\u00dfgmain": [47.7255, 12.92133333],
+  "Schloss Prielau, Maishofen": [47.342597, 12.805671],
+  "Schloss Puchstein, Puch bei Hallein": [47.715296, 13.091408],
+  "Burg Radeck, Bergheim (abgegangen)": [47.8360873, 13.0561288],
+  "Burg Radstadt, Radstadt (abgegangen)": [47.3855965, 13.4653541],
+  "Rauchenbichlerhof, Salzburg": [47.80861111, 13.06305556],
+  "Schloss Ritzen, Ritzen bei Saalfelden": [47.42111111, 12.84590389],
+  "Schloss Rif, Hallein": [47.7199337, 13.0691382],
+  "Robinighof, Salzburg": [47.814215, 13.061498],
+  "Schloss Rosenberg, Zell am See": [47.32333333, 12.79644444],
+  "Lasserhof (Rupertihof, Gwandhaus), Salzburg": [47.77919444, 13.05763889],
+  "Burgruine Saalegg, Sankt Martin bei Lofer": [47.526001, 12.735593],
+  "Schloss Saalhof, Maishofen": [47.36006306, 12.80103],
+  "Schloss Sankt Jakob am Thurn, Puch": [47.7406642, 13.09207],
+  "Schloss Schernberg, Schwarzach im Pongau": [47.32527778, 13.13916667],
+  "Schlossbauerngut, Liefering": [47.822831, 13.011117],
+  "Schloss Sch\u00f6nleiten, Liefering": [47.816274, 13.012956],
+  "Schloss Seeburg, Seekirchen": [46.71322222, 7.96583333],
+  "Schloss Sighartstein, Neumarkt am Wallersee": [47.9377, 13.23742],
+  "Schloss S\u00f6llheim, Hallwang": [47.83722222, 13.07888889],
+  "Stiegerschl\u00f6ssl, Maishofen": [47.3611094, 12.8083659],
+  "Schloss Tandalier, Radstadt": [47.3813854, 13.4408964],
+  "Burgruine Taxenbach, Taxenbach": [47.2924277, 12.9736001],
+  "Ruine Th\u00fcrndl, Hallein": [47.6845481, 13.0835757],
+  "Thurnschl\u00f6ssl, Flachau": [47.3607778, 13.383209],
+  "Burgruine Thurnschall, Lessach": [47.16388889, 13.8025],
+  "Schloss Ursprung, Elixhausen": [47.87947222, 13.06205556],
+  "Schloss Urstein, Puch bei Hallein": [47.72444444, 13.08416667],
+  "Vogtturm, Zell am See": [47.323625, 12.797899],
+  "Burg Wagrain, Wagrain": [47.333436, 13.298171],
+  "Burgruine Wartenfels, Thalgau": [47.81527778, 13.30583333],
+  "Weitmoserschl\u00f6ssl, Bad Hofgastein": [47.162558, 13.099614],
+  "Schloss Weitw\u00f6rth, Nu\u00dfdorf am Haunsberg": [
+    47.92666667, 12.97333333
+  ],
+  "Burgruine Weyer, Bramberg am Wildkogel": [47.260783, 12.317961],
+  "Schloss Wiespach, Hallein, bei Oberalm": [47.6920578, 13.0959467],
+  "Schloss Wintergr\u00fcn, Ramingstein": [47.0750282, 13.8376763],
+  "Schloss Algersdorf, Graz": [47.076825, 15.390825],
+  "Schloss Alt-Kainach, bei B\u00e4rnbach": [47.08291667, 15.12513889],
+  "Burgruine Altschielleiten": [47.23833333, 15.82194444],
+  "Schloss Altenhofen, Sankt Oswald bei Plankenwarth": [
+    48.50555556, 13.77805556
+  ],
+  "Burg Alt-Teuffenbach, Teufenbach": [47.13013889, 14.36561111],
+  "Burg B\u00e4rnegg, Elsenau": [47.43888889, 16.11361111],
+  "Schloss Bertholdstein": [46.93138889, 15.95638889],
+  "Burg Deutschlandsberg": [46.81333333, 15.19666667],
+  "Schloss Dornhofen, Hart-Purgstall": [47.14296944, 15.55921667],
+  "Burgruine D\u00fcrnstein, D\u00fcrnstein in der Steiermark": [
+    48.39777778, 15.52194444
+  ],
+  "Schloss Eggenberg, Graz": [47.073882, 15.391327],
+  "Burg Ehrenfels, Kammern im Liesingtal": [49.97527778, 7.88055556],
+  "Burg Ehrenfels, Sankt Radegund bei Graz": [49.97527778, 7.88055556],
+  "Burgruine Eppenstein": [47.13083333, 14.73611111],
+  "Erkoschl\u00f6sschen, Krumegg": [47.02111111, 15.63444444],
+  "Schloss Farrach, Zeltweg": [47.19055556, 14.75111111],
+  "Schloss Festenburg": [47.46361111, 15.915],
+  "Burgruine Forchtenberg, Semriach": [47.20388889, 15.39388889],
+  "Schloss Forchtenstein, Neumarkt in Steiermark": [47.07361111, 14.42277778],
+  "Burgruine Fohnsdorf, Fohnsdorf": [47.211569, 14.674055],
+  "Schloss Frauental": [46.813636, 15.244455],
+  "Burgruine Frauenburg, Unzmarkt-Frauenburg": [47.20492222, 14.43686944],
+  "Schloss Freiberg": [47.12398056, 15.67609722],
+  "Burg F\u00fcrstenfeld, F\u00fcrstenfeld": [47.05, 16.08333333],
+  "Schloss Gabelhofen": [47.191849, 14.673872],
+  "Schloss Gamlitz": [46.71883, 15.553784],
+  "Burgruine Gallenstein": [47.69033333, 14.62677778],
+  "Schloss Gasselberg, Krottendorf-Gaisfeld": [47.025322, 15.200464],
+  "Georgischl\u00f6ssl, Ehrenhausen": [46.726972, 15.581092],
+  "Schloss Gjaidhof, Dobl": [46.947554, 15.377029],
+  "Schlossruine Gleichenberg": [46.8924, 15.8939],
+  "Goldschmiedschl\u00f6ssl, \u00dcbelbach": [47.23, 15.21888889],
+  "Burgruine G\u00f6sting, G\u00f6sting": [47.103782, 15.381493],
+  "Schloss G\u00f6sting, Graz": [47.09984167, 15.39411944],
+  "Schloss Graschnitz, Sankt Marein im M\u00fcrztal": [
+    47.45944444, 15.35638889
+  ],
+  "Burg am Grazer Schlo\u00dfberg": [47.076759, 15.437291],
+  "Schloss Gro\u00dfs\u00f6lk": [47.409489, 13.966205],
+  "Burg Gr\u00fcnfels, Murau": [47.11184444, 14.16923333],
+  "Schloss Gusterheim, Ortschaft Gusterheim in P\u00f6ls-Oberkurzheim": [
+    47.22627778, 14.59613889
+  ],
+  "Schloss Gutenberg": [47.21222222, 15.56847222],
+  "Schloss Hainfeld, Leitersdorf im Raabtal": [46.946667, 15.927743],
+  "Schloss Hanfelden, Unterzeiring": [47.25891667, 14.51141667],
+  "Schloss Hart, Kindberg-Hadersdorf": [48.035, 12.14555556],
+  "Schloss Hartberg": [47.28138889, 15.96583333],
+  "Harterschl\u00f6ssl, Thal": [47.057645, 15.359378],
+  "Schloss Hautzenbichl, Kobenz": [47.22569444, 14.82805556],
+  "Henneburg, Deutschfeistritz": [49.78753333, 9.41366667],
+  "Schloss Herberstein": [47.214561, 15.810756],
+  "Schloss Hohenbrugg": [46.94944444, 16.06472222],
+  "Schloss Hollenegg": [46.78406111, 15.22493889],
+  "Burgruine Hohenwang, Langenwang": [47.55527778, 15.62055556],
+  "Schloss Hornegg, Preding": [46.868523, 15.399399],
+  "Hubertus-Schl\u00f6ssl, Graz": [47.08875833, 15.44756667],
+  "Schloss Alt-Kainach": [47.08291667, 15.12513889],
+  "Schloss Kainbach": [47.093409, 15.530478],
+  "Schloss Kainberg, Kumberg": [47.173858, 15.530567],
+  "Schloss Kaiserau": [47.529486, 14.481713],
+  "Burgruine Kammerstein, Kammern im Liesingtal": [48.12551111, 16.2326],
+  "Schloss Kapfenstein": [46.88988889, 15.97722222],
+  "Schloss Karlau, Graz": [47.05436, 15.42997],
+  "Schloss Kassegg": [47.65444444, 14.66472222],
+  "Schloss Kindberg": [47.50444444, 15.44888889],
+  "Schloss Kirchberg an der Raab": [46.98722222, 15.76361111],
+  "Burgruine Klingenstein, Salla": [47.10611111, 14.96083333],
+  "Schloss Klingenstein, Vasoldsberg": [48.41677778, 9.90277778],
+  "Burgruine Kl\u00f6ch": [46.76472222, 15.96611111],
+  "Schloss Kornberg": [46.98102778, 15.87733333],
+  "Burg Krems": [47.03083333, 15.18194444],
+  "Schloss Kroisbach, Graz": [47.09738333, 15.45722778],
+  "Burgruine Landskron, Bruck an der Mur": [46.642473, 13.89611],
+  "Schloss Lannach": [46.94550833, 15.33261389],
+  "Schloss Laubegg, Ragnitz": [46.8239, 15.59633056],
+  "Burgruine Alt-Leonroth, Sankt Martin am W\u00f6llmi\u00dfberg": [
+    47.001906, 15.137025
+  ],
+  "Burgruine Neu-Leonroth, Sankt Martin am W\u00f6llmi\u00dfberg": [
+    47.025, 15.14527778
+  ],
+  "Schloss Leopoldstein, Eisenerz": [47.570635, 14.850945],
+  "Burgruine Strettweg, Judenburg": [47.177892, 14.653895],
+  "Burgruine Ligist": [46.99638889, 15.20611111],
+  "Schloss Lorberau, Leoben-Donawitz": [47.377836, 15.07153],
+  "Burg Luegg, Semriach": [47.20083333, 15.39055556],
+  "Schloss Lustb\u00fchel, Graz": [47.07032, 15.495954],
+  "Ruine Ma\u00dfenburg, Leoben": [47.37555556, 15.09666667],
+  "Meerscheinschl\u00f6ssl, Graz": [47.07934444, 15.44698889],
+  "Metahof-Schl\u00f6ssl, Graz": [47.07298333, 15.42126944],
+  "Schloss Moosbrunn, Graz": [47.04290833, 15.4882],
+  "M\u00fchl-Schl\u00f6ssl, Graz": [47.07405, 15.42591944],
+  "Schloss Murst\u00e4tten, Lebring": [46.855325, 15.537096],
+  "Jagdschloss M\u00fcrzsteg, M\u00fcrzsteg": [47.67705556, 15.49208333],
+  "Schloss Nechelheim, Sankt Lorenzen im M\u00fcrztal": [47.48409, 15.359212],
+  "Schloss Neu-Grabenhofen, Graz": [47.09511667, 15.43737222],
+  "Schloss Neu-Pfannberg, Frohnleiten": [47.262318, 15.317523],
+  "Schloss Oberdorf, Mariahof": [47.09258, 14.366843],
+  "Burg Oberkapfenberg": [47.440025, 15.29356944],
+  "Schloss Obermayerhofen, Sebersdorf": [47.18161111, 15.98063889],
+  "Schloss Obermurau, Murau": [47.11184444, 14.16923333],
+  "Burg Obervoitsberg": [47.05208333, 15.15125],
+  "Schloss Obermayerhofen": [47.18161111, 15.98063889],
+  "Schloss Obermurau": [47.11184444, 14.16923333],
+  "Schloss Oberthal": [47.079929, 15.343409],
+  "Burgruine Obervoitsberg": [47.05208333, 15.15125],
+  "Burgruine Offenburg": [47.23441667, 14.59525],
+  "Schloss Ottersbach": [46.75722222, 15.40777778],
+  "Burg Peggau": [47.20055556, 15.36083333],
+  "Burg Pfannberg, Frohnleiten": [47.25472222, 15.32944444],
+  "Burgruine Pernegg": [47.362518, 15.351402],
+  "Schloss Pernegg": [47.3605374, 15.347195],
+  "Burgruine Pflindsberg": [47.637364, 13.742013],
+  "Burgruine Pfannberg": [47.25472222, 15.32944444],
+  "Schloss Pichlarn, Aigen im Ennstal": [47.50333333, 14.12],
+  "Schloss Pichlhofen, Sankt Georgen ob Judenburg": [47.214705, 14.503857],
+  "Burg Plankenwarth": [47.08861111, 15.30972222],
+  "Schloss Poppendorf": [46.85555556, 15.855],
+  "Primaresburg, Maria Lankowitz-\u201eFranziskanerkogel\u201c": [
+    47.06638889, 15.05583333
+  ],
+  "Altburg Pux, Frojach-Katsch": [47.135465, 14.339888],
+  "Burgruine Puxer-Loch, Frojach-Katsch, H\u00f6hlenburg": [
+    47.13777778, 14.34833333
+  ],
+  "Schloss Pux, Frojach-Katsch": [47.13585, 14.3389],
+  "Burg Rabenstein, Frohnleiten": [49.82215278, 11.37073611],
+  "Schloss Radmannsdorf, Weiz": [47.218789, 15.624916],
+  "Burgruine Reifenstein, P\u00f6ls-Oberkurzheim": [47.2125, 14.60083333],
+  "Schloss Reinthal, Hart bei Graz": [47.053225, 15.504895],
+  "Schloss Reiteregg, Hitzendorf": [47.034897, 15.273644],
+  "Schloss Retzhof, Wildon": [46.77908333, 15.56935556],
+  "Riegersburg": [47, 15.93333333],
+  "Schloss Rohr, Ragnitz": [46.85461111, 15.57513889],
+  "Rosenschl\u00f6\u00dfl, Graz": [47.09833333, 15.44888889],
+  "Schloss R\u00f6thelstein, Admont": [47.56666667, 14.45222222],
+  "Schloss Rothenfels, Oberw\u00f6lz": [47.200082, 14.293444],
+  "Burgruine Schachenstein, Th\u00f6rl": [47.51873333, 15.21986667],
+  "Schloss Schielleiten": [47.23027778, 15.82638889],
+  "Burgruine Schmirnberg": [46.63194444, 15.4875],
+  "Schlossruine Schrattenberg, bei Scheifling": [47.142644, 14.390683],
+  "Schloss Schwarzenegg, Weitendorf": [46.88111111, 15.49694444],
+  "Schloss Sch\u00fctting, Hitzendorf": [47.036833, 15.282923],
+  "Schloss Seggau": [46.780934, 15.523752],
+  "Schloss S\u00f6ding": [47.003774, 15.291401],
+  "Ruine Spangstein, Schwanberg": [46.79439167, 15.17045556],
+  "Schloss Spielberg": [47.21555556, 14.78361111],
+  "Schloss Spielfeld, Stra\u00df in Steiermark": [46.70583333, 15.63333333],
+  "Schloss Stadl an der Raab, bei Mitterdorf an der Raab": [
+    47.162995, 15.634746
+  ],
+  "Schloss Stainz": [46.896325, 15.26365278],
+  "Burgruine Steinschloss": [47.12866944, 14.38240278],
+  "Schloss St. Gotthard": [47.111729, 15.403134],
+  "Storchenschl\u00f6ssel, Kainach bei Voitsberg, Ortschaft Afling": [
+    47.108428, 15.120349
+  ],
+  "Schloss Stra\u00df": [46.727608, 15.625549],
+  "Burg Strechau": [47.52828333, 14.31723889],
+  "Schloss Stubenberg": [47.24277778, 15.80138889],
+  "Schloss Stibichhofen, Trofaiach": [47.424802, 15.008234],
+  "Schloss St\u00fcbing, Kleinst\u00fcbing, Deutschfeistritz": [
+    47.180027, 15.321308
+  ],
+  "St. Veiter Schl\u00f6ssl": [47.11251389, 15.40548889],
+  "Burg Thalberg": [47.41583333, 16.00527778],
+  "Schloss Thalerhof, Kalsdorf bei Graz": [46.973681, 15.443084],
+  "Schloss Tausendlust, Hitzendorf": [47.021944, 15.300475],
+  "Schloss Thannegg, bei Liezen": [47.42611111, 13.90638889],
+  "Schloss Thinnfeld, Deutschfeistritz": [47.201072, 15.337659],
+  "Schloss Trautenburg": [46.65972222, 15.47361111],
+  "Schloss Trautenfels": [47.518713, 14.081477],
+  "Schloss Th\u00f6rl": [47.516625, 15.21996389],
+  "Schloss Thunau": [46.67963863, 15.34554005],
+  "Schloss Trautenburg, Schlo\u00dfberg": [46.65972222, 15.47361111],
+  "Tupay-Schl\u00f6ssl, Graz": [47.05214722, 15.44543333],
+  "Burg Unterthal": [47.07277778, 15.36305556],
+  "Schloss Vasoldsberg, Vasoldsberg": [47.019168, 15.575431],
+  "Schloss Velden, M\u00fchlen": [46.61173333, 14.04323611],
+  "Burgruine Waldstein und Schloss Waldstein, Deutschfeistritz": [
+    47.222749, 15.291182
+  ],
+  "Schloss Wasserberg, Gaal": [47.26944444, 14.68666667],
+  "Burgruine Waxenegg": [47.27083333, 15.67833333],
+  "Schloss Weinburg am Sa\u00dfbach": [46.75472222, 15.71944444],
+  "Schloss Weissenegg, Mellach": [46.910731, 15.494317],
+  "Schloss Welsdorf, Welsdorf": [47.04483915, 16.0674574],
+  "Burgruine Wessenstein": [46.91638889, 15.20277778],
+  "Burg Alt-Wildon, Wildon-\u201eSchlossberg\u201c": [46.88425, 15.51038889],
+  "Burg Neu-Wildon (Ober-Wildon), Wildon-\u201eSchlossberg\u201c": [
+    46.88441667, 15.51347222
+  ],
+  "Schloss Achenrain, Kramsach": [47.448794, 11.875674],
+  "Ansitz Albersheim, Innsbruck": [47.2641564, 11.387625],
+  "Burgruine Alt-Rettenberg, Kolsassberg": [47.287379, 11.650994],
+  "Burgruine Alt-Starkenberg, Tarrenz": [47.27083, 10.75306],
+  "Schloss Ambras, Innsbruck": [47.25638889, 11.43472222],
+  "Schloss Anras, Anras": [46.772621, 12.55601],
+  "Burg Arlen, St. Anton am Arlberg": [47.13625, 10.26388889],
+  "Burg Arnholz, Pfons": [47.1339981, 11.4622254],
+  "Schloss Aschach, Volders": [50.254253, 10.062048],
+  "Burg Auenstein, Oetz": [47.21666667, 10.87666667],
+  "Burgruine Aufenstein, Navis": [47.115758, 11.466939],
+  "Ansitz Ballenhaus, Matrei am Brenner": [47.1330817, 11.4520674],
+  "Schloss Baumkirchen, Baumkirchen": [47.3009139, 11.562836],
+  "Burg Bideneck, Flie\u00df": [47.121, 10.63508333],
+  "Ansitz Brandthausen, Aldrans": [47.2501615, 11.4505692],
+  "Ansitz B\u00fcchsenhausen, Innsbruck": [47.27639, 11.393654],
+  "Dietrichscher Ansitz, Reutte": [47.4, 10.88333333],
+  "Burg Ehrenberg, Reutte": [47.46555556, 10.71833333],
+  "Ansitz Felsenheim, Lermoos": [47.4, 10.88333333],
+  "Ansitz Ferklehen, Ranggen": [47.25857819, 11.25334701],
+  "Klause Fernstein, Nassereith": [47.345965, 10.817542],
+  "Burgruine Fragenstein, Zirl": [47.27833333, 11.23916667],
+  "Burg Freundsberg, Schwaz": [47.34333333, 11.7175],
+  "Schloss F\u00fcgen, Schwaz": [47.346345, 11.848974],
+  "Palais Fugger-Taxis, Innsbruck": [47.26424326, 11.39506478],
+  "Burgruine Gebratstein, Tarrenz": [47.2825, 10.74583333],
+  "Burg Hasegg, Hall in Tirol": [47.279212, 11.506896],
+  "Ansitz Hauzenheim, Volders": [47.2783128, 11.5494446],
+  "Burg Heinfels, Heinfels": [46.75125, 12.43930556],
+  "Hofburg, Innsbruck": [48.20638889, 16.36611111],
+  "Schloss Hohenstaffing, Kufstein": [47.595, 12.16638889],
+  "Burgruine H\u00f6rtenberg, Pfaffenhofen": [47.29416667, 11.07944444],
+  "Schloss Itter, Itter": [47.470543, 12.139869],
+  "Burgruine Katzenstein (Kayserthurm zu Windhausen, Erlturm, Ruine Todtenschl\u00f6\u00dfl), Erl": [
+    47.700883, 12.168083
+  ],
+  "Burgruine Kienburg, Lienz": [46.91916667, 12.6],
+  "Burg Klamm, Obsteig": [47.29833333, 10.94972222],
+  "Ansitz Kolbenturm, Tulfes": [47.2760602, 11.5423876],
+  "Schloss Krippach, Absam": [47.2959393, 11.504267],
+  "Burg Kronburg, Landeck": [47.178145, 10.623646],
+  "Burg Kropfsberg, Reith im Alpbachtal": [47.409794, 11.844807],
+  "Festung Kufstein, Kufstein": [47.58066667, 12.16883333],
+  "Jagdschloss K\u00fchtai, Silz": [47.21333333, 11.02333333],
+  "Schloss Landeck, Landeck": [47.135402, 10.568606],
+  "Schloss Lanegg, Brixlegg": [47.426894, 11.882697],
+  "Latschburg, Pfons": [47.1334566, 11.4554071],
+  "Burg Laudegg, Ladis": [47.07625, 10.65263889],
+  "Schloss Lebenberg, Kitzb\u00fchel": [46.637905, 11.136006],
+  "Schloss Lengberg, Nikolsdorf": [46.796911, 12.89173],
+  "Burg Lichtenwerth, M\u00fcnster": [47.41986111, 11.86],
+  "Lienzer Klause, Leisach": [46.79583333, 12.7225],
+  "Palais Lodron, Innsbruck": [47.265182, 11.394477],
+  "Burg Lueg am Brenner, Gries am Brenner": [47.02810942, 11.49640918],
+  "Ansitz Madleinhof, Thaur": [47.293378, 11.455986],
+  "Schloss Mariastein, Mariastein": [47.52673, 12.0533],
+  "Burg Martinsb\u00fchel, Zirl": [47.2671552, 11.2682328],
+  "Ansitz Melans, Absam": [47.298354, 11.5094332],
+  "Schloss Mentlberg, Innsbruck": [47.2486042, 11.3630155],
+  "Ansitz Mitterhart, Vomp": [47.3371521, 11.7017504],
+  "Schloss M\u00fcnichau, Reith": [47.465261, 12.352533],
+  "Schloss Naudersberg, Nauders": [46.887053, 10.503235],
+  "Schloss Neumatzen, M\u00fcnster": [47.418807, 11.863281],
+  "Burgruine Neu-Rettenberg, Kolsassberg": [47.293915, 11.644703],
+  "Schloss Neustarkenberg, Tarrenz": [47.261502, 10.754378],
+  "Burgruine Rattenberg, Rattenberg": [47.4389, 11.8932],
+  "Ansitz Rofenstein, Imst": [47.2391424, 10.7425552],
+  "Schloss Rotholz, Strass im Zillertal": [47.390527, 11.797128],
+  "Burgruine Rottenburg, Buch in Tirol": [47.384447, 11.798116],
+  "Schloss Schneeberg, Trins": [47.079896, 11.412707],
+  "Burg Schrofenstein, Stanz": [47.15555556, 10.56486111],
+  "Burg St. Petersberg, Silz": [47.25536111, 10.90925],
+  "Burg Raspenb\u00fchel, Matrei am Brenner": [47.139923, 11.454647],
+  "Ansitz Schneeburg, Mils bei Hall": [47.288697, 11.529235],
+  "Schloss Sch\u00f6nw\u00f6rth, Langkampfen": [47.5374089, 12.0851942],
+  "Ansitz Schrattenburg, Aldrans": [47.2495801, 11.4483071],
+  "Ruine Sigmundsburg, Nassereith": [47.34514722, 10.82379167],
+  "Sigmundsegg, Finsterm\u00fcnz": [46.929271, 10.487209],
+  "Schloss Sigmundslust, Vomp": [47.3420249, 11.6798884],
+  "Schloss Sigmundsried, Ried im Oberinntal": [47.053397, 10.651616],
+  "Schloss Steinach am Brenner": [47.09277778, 11.46666667],
+  "Sterzinger Ansitz, Nassereith": [46.897321, 11.431832],
+  "Burg Stra\u00dffried, Vill": [46.54972222, 13.66083333],
+  "Schloss Stumm, Stumm": [47.29277778, 11.88583333],
+  "Burgruine Thaur, Thaur": [47.30118056, 11.46593333],
+  "Burgruine Thierberg, Thierberg": [47.600054, 12.164483],
+  "Th\u00f6ml-Schl\u00f6ssl, Hall in Tirol": [47.2825048, 11.5175183],
+  "Schloss Tratzberg, Stans": [47.38472222, 11.74305556],
+  "Burg Trautson, Matrei am Brenner": [47.1389046, 11.4554683],
+  "Burgruine Vellenberg, G\u00f6tzens": [47.242193, 11.312807],
+  "Burg Vilsegg, Vils": [47.55666667, 10.62611111],
+  "Burg Vogelb\u00fchel, Matrei am Brenner": [47.139879, 11.456192],
+  "Ansitz Waidburg, Natters": [47.234232, 11.375847],
+  "Burgruine Wallenstein, Stronach": [50.95111111, 9.49361111],
+  "Schloss Weiherburg, Innsbruck": [47.280918, 11.398289],
+  "Schloss Wei\u00dfenstein, Matrei in Osttirol": [49.76277778, 10.82083333],
+  "Schloss Wiesberg, Pians": [47.11694444, 10.49275],
+  "Ziegelburg": [54.30638889, 9.66305556],
+  "Burgruine Blumenegg, Th\u00fcringerberg": [47.203195, 9.778657],
+  "Diebsschl\u00f6ssle, Lor\u00fcns": [47.1346575, 9.84960167],
+  "Ruine Alt-Ems, Hohenems": [47.36352778, 9.69596667],
+  "Schloss Gayenhofen, Bludenz": [47.1575, 9.82055556],
+  "Schloss Gwiggen, Hohenweiler": [47.57, 9.77194444],
+  "Burg Alt-Hofen, Lochau": [47.53599167, 9.75781111],
+  "Schloss Hofen, Lochau": [47.53599167, 9.75781111],
+  "Burg Hohenbregenz, Bregenz": [47.49027778, 9.74833333],
+  "Palast Hohenems, Hohenems": [47.36277778, 9.69],
+  "Burg Jagdberg, Schlins": [47.20305556, 9.70055556],
+  "Jonas-Schl\u00f6ssle, G\u00f6tzis": [47.33277778, 9.64277778],
+  "Mittelweiherburg, Hard": [47.48194444, 9.70388889],
+  "Burg Alt-Montfort, Weiler": [47.311764, 9.666022],
+  "Burgruine Neuburg, Koblach": [47.32444444, 9.62361111],
+  "Burg Neu-Montfort, G\u00f6tzis": [47.32916667, 9.64472222],
+  "Burg Ramschwag, Nenzing": [47.18416667, 9.69027778],
+  "Ruggburg, Eichenberg": [47.543626, 9.772851],
+  "Schattenburg, Feldkirch": [47.23645, 9.59933611],
+  "Burg Sigberg, G\u00f6fis": [47.22861111, 9.62694444],
+  "Schloss Sonderberg, G\u00f6tzis": [47.346768, 9.653142],
+  "Burgruine Sonnenberg, N\u00fcziders": [47.17666667, 9.79916667],
+  "Burgruine Tosters, Feldkirch-Tosters": [47.2425, 9.575],
+  "Burgruine Valcastiel, Vandans": [47.09972222, 9.84027778],
+  "Schloss Wolfurt, Wolfurt": [47.470643, 9.754455],
+  "Schloss Alterlaa": [48.14777778, 16.30638889],
+  "Schloss Altmannsdorf": [48.16322222, 16.32213889],
+  "Schloss Belvedere": [48.1934, 16.38052],
+  "Schloss Essling": [48.21475, 16.52286111],
+  "Erzbisch\u00f6fliches Schloss Ober Sankt Veit": [48.18805556, 16.26638889],
+  "Geym\u00fcllerschl\u00f6ssel": [48.24372222, 16.30727778],
+  "Hermesvilla": [48.17068056, 16.24616944],
+  "Schloss Hernals": [48.21786111, 16.33311111],
+  "Schloss Hetzendorf": [48.16608333, 16.30825],
+  "Schloss Hirschstetten": [48.235758, 16.466034],
+  "Hofburg": [48.20638889, 16.36611111],
+  "Hofmannsthal-Schl\u00f6ssl": [48.13361111, 16.25555556],
+  "Schloss Hundsturm": [48.18805556, 16.34777778],
+  "Schloss Kaiserebersdorf": [48.15916667, 16.47305556],
+  "Schloss Laudon": [48.214609, 16.220827],
+  "Burg am Leopoldsberg": [48.27808333, 16.34655556],
+  "Schloss Liesing": [48.13388889, 16.27944444],
+  "Maria-Theresien-Schl\u00f6ssel (Wien Gersthofer Stra\u00dfe)": [
+    48.2385, 16.31863889
+  ],
+  "Maria-Theresien-Schl\u00f6ssel (Wien Hofzeile)": [48.24255, 16.35291944],
+  "Schloss Neugeb\u00e4ude": [48.160654, 16.442347],
+  "Schloss Neuwaldegg": [48.234832, 16.288142],
+  "Schloss P\u00f6tzleinsdorf": [48.24241667, 16.30575],
+  "Schloss Rodaun": [48.131317, 16.255183],
+  "Schloss Sch\u00f6nbrunn": [48.18479, 16.31227],
+  "Springer-Schl\u00f6ssl": [48.17889, 16.31862],
+  "Schloss S\u00fc\u00dfenbrunn": [48.278775, 16.49441111],
+  "Schloss Wilhelminenberg": [48.21955, 16.28555]
 }
