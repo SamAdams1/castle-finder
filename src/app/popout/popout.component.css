@@ -12,6 +12,8 @@
 .toggle {
   position: relative;
   top: calc(50% - 24px);
+  height: 5em;
+  border-radius: 10px 0px 0px 10px;
 }
 .content {
   height: 100%;
@@ -21,4 +23,7 @@
 }
 .content > img {
   width: 100%;
+}
+.tab {
+  width: 0.5em;
 }
