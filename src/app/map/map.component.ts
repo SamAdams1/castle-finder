@@ -24,7 +24,7 @@ export class MapComponent implements OnInit {
 
   ngOnInit(): void {
     this.configureMap();
-    // this.addMarkers();
+    this.addMarkers();
     console.log(this.numCastles);
   }
 
@@ -56,13 +56,14 @@ export class MapComponent implements OnInit {
           iconSize: [iconSize, iconSize],
           iconAnchor: [iconSize / 2, iconSize / 2],
         }),
-      }).addTo(this.map).bindPopup(`
-        <div>
-          <h1>${key}</h1>
-          <a href="${mapLink}" target="_blank">MapLink</a>
-          <a href="${wikiLink}" target="_blank">wikiLink</a>
-        </div>
-        `);
+      }).addTo(this.map);
+      // .bindPopup(`
+      //   <div>
+      //     <h1>${key}</h1>
+      //     <a href="${mapLink}" target="_blank">MapLink</a>
+      //     <a href="${wikiLink}" target="_blank">wikiLink</a>
+      //   </div>
+      //   `);
     });
   }
 

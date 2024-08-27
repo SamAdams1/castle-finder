@@ -1,15 +1,20 @@
 .pop-out {
   position: absolute;
-  right: 0;
   z-index: 200;
-  top: calc(50% - 24px);
+  right: 0;
+  top: 0;
+  bottom: 0;
+  height: 100vh;
 
   display: flex;
+  /* background: black; */
 }
 .toggle {
+  position: relative;
+  top: calc(50% - 24px);
 }
 .content {
-  height: 75vh;
+  height: 100%;
   background: white;
-  transform: translateY(-50%);
+  width: 25em;
 }
