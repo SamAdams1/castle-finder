@@ -4,11 +4,12 @@ import * as L from 'leaflet';
 
 import { NgFor } from '@angular/common';
 import { CastleService } from './castles.service';
+import { PopoutComponent } from '../popout/popout.component';
 
 @Component({
   selector: 'app-map',
   standalone: true,
-  imports: [NgFor],
+  imports: [NgFor, PopoutComponent],
   templateUrl: './map.component.html',
   styleUrls: ['./map.component.css'],
 })
@@ -23,7 +24,7 @@ export class MapComponent implements OnInit {
 
   ngOnInit(): void {
     this.configureMap();
-    this.addMarkers();
+    // this.addMarkers();
     console.log(this.numCastles);
   }
 

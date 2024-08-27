@@ -1,0 +1,9 @@
+<div class="pop-out">
+  <div>
+    <button class="toggle" (click)="open()" *ngIf="!visible">open</button>
+    <button class="toggle" (click)="close()" *ngIf="visible">close</button>
+  </div>
+  <div class="content" *ngIf="visible">
+    <p>test</p>
+  </div>
+</div>

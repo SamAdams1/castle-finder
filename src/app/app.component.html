@@ -1,12 +1,19 @@
-<nav class="navbar bg-primary a" data-bs-theme="dark">
-  <ul class="nav nav-pills">
-    <li class="nav-item">
-      <a class="nav-link active" aria-current="page" routerLink="/">Map</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link active" routerLink="/list">List</a>
-    </li>
-  </ul>
+<nav class="navbar bg-primary a justify-content-center" data-bs-theme="dark">
+  <!-- <li class="nav-item">
+    <a class="nav-link active navbar-brand" aria-current="page" routerLink="/"
+      >Castle Finder</a
+    >
+  </li> -->
+  <div class="justify-content-center">
+    <ul class="nav nav-pills">
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page" routerLink="/">Map</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link active" routerLink="/list">List</a>
+      </li>
+    </ul>
+  </div>
 </nav>
 <div style="background-color: gray">
   <router-outlet />
