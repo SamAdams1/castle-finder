@@ -17,4 +17,8 @@
   height: 100%;
   background: white;
   width: 25em;
+  overflow-y: auto;
+}
+.content > img {
+  width: 100%;
 }

@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
   styleUrl: './popout.component.css',
 })
 export class PopoutComponent {
-  visible = false;
+  visible = true;
 
   open() {
     this.visible = true;
