@@ -52,7 +52,7 @@ export class MapComponent implements OnInit {
 
       L.marker(coords, {
         icon: new L.Icon({
-          iconUrl: '/red-dot.png',
+          iconUrl: '/blue.png',
           iconSize: [iconSize, iconSize],
           iconAnchor: [iconSize / 2, iconSize / 2],
         }),
