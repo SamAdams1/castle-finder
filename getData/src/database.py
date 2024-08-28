@@ -10,7 +10,7 @@ cur.execute("DROP TABLE IF EXISTS castles;")
 cur.execute("""CREATE TABLE IF NOT EXISTS castles(
   id INT PRIMARY KEY,
   name VARCHAR(255),
-  location FLOAT[]
+  lat_lon FLOAT[]
   
 );
 """)
@@ -21,10 +21,10 @@ cur.execute("""CREATE TABLE IF NOT EXISTS castles(
 #             """)
 
 
-with open("austria.json", "r") as json_file:
+with open("getData/austria.json", "r") as json_file:
     castles = json.load(json_file)
 query = """
-  INSERT INTO castles (id, name, location) 
+  INSERT INTO castles (id, name, lat_lon) 
   VALUES (%s, %s, %s);
 """
 count = 0

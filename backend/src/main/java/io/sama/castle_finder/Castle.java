@@ -6,6 +6,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.SequenceGenerator;
 import jakarta.persistence.Table;
 
 @Entity
@@ -13,7 +14,9 @@ import jakarta.persistence.Table;
 public class Castle {
 
   @Id
-  @GeneratedValue(strategy = GenerationType.AUTO)
+  // @GeneratedValue(strategy = GenerationType.AUTO)
+  @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "castle_seq")
+  @SequenceGenerator(name = "castle_seq", sequenceName = "castles_seq", allocationSize = 1)
   private int id;
   private String name;
   private Double[] latLon;
