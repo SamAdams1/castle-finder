@@ -7,6 +7,7 @@ import time
 # wikiEndpoint = "https://en.wikipedia.org/w/api.php?"
 wikiEndpoint = "https://de.wikipedia.org/w/api.php?"
 
+# idk if work, haven't checked
 countriesParam = {
   'origin': "*",
   'format': "json",
