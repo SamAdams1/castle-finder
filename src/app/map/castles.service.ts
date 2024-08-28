@@ -1,12 +1,18 @@
-import data from '../../../getData/austria.json';
+import { Injectable } from '@angular/core';
 
 // gets the castle data and decouples it from a specific component
+@Injectable({
+  providedIn: 'root',
+})
 export class CastleService {
-  getCastlesData() {
-    const castlesData: { [key: string]: number[] } = data;
-    return castlesData;
-  }
-  getCastlesKeys() {
-    return Object.keys(data);
+  private apiUrl = 'http://localhost:8080/castles';
+
+  ngOnInit(): void {}
+
+  async getCastlesData(): Promise<
+    [{ id: number; name: String; latLon: number[] }]
+  > {
+    const response = await fetch(this.apiUrl);
+    return response.json();
   }
 }

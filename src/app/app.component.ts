@@ -3,12 +3,13 @@ import { RouterLink, RouterOutlet } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { MapComponent } from './map/map.component';
 import { CastleService } from './map/castles.service';
+import { HttpClient } from '@angular/common/http';
 
 @Component({
   selector: 'app-root',
   standalone: true,
   imports: [RouterOutlet, RouterLink, HomeComponent, MapComponent],
-  providers: [CastleService],
+  providers: [HttpClient, CastleService],
 
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',

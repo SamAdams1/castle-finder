@@ -1,7 +1,7 @@
 import psycopg2
 import json
 
-conn = psycopg2.connect(host="localhost", dbname="postgres", user="postgres", password="", port=5432)
+conn = psycopg2.connect(host="localhost", dbname="postgres", user="postgres", password="soccer16", port=5432)
 
 cur = conn.cursor()
 

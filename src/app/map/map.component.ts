@@ -32,6 +32,11 @@ export class MapComponent implements OnInit {
     this.map = L.map('map', {
       center: [47.5162, 13.5501], // austria center
       zoom: 7,
+      minZoom: 6,
+      maxBounds: [
+        [53.548098, -3.017076],
+        [39.866352, 28.818366],
+      ],
     });
     // adds tiles to map
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -40,30 +45,32 @@ export class MapComponent implements OnInit {
     }).addTo(this.map);
   }
 
-  addMarkers() {
+  async addMarkers() {
     // add markers with popup to map
     const iconSize = 15;
-    Object.keys(this.castlesData).forEach((key) => {
-      const castleName = key.split(',')[0].replace(' ', '%20');
-      const coords = this.castlesData[key] as L.LatLngTuple;
-      const mapLink = 'https://www.google.com/maps?q=' + castleName;
-      const wikiLink = 'https://de.wikipedia.org/wiki/' + castleName;
-      this.numCastles += 1;
+    (await this.castlesData).map(
+      (castle: { id: number; name: String; latLon: number[] }) => {
+        const castleName = castle.name.split(',')[0].replace(' ', '%20');
+        const coords = castle.latLon as L.LatLngTuple;
+        const mapLink = 'https://www.google.com/maps?q=' + castleName;
+        const wikiLink = 'https://de.wikipedia.org/wiki/' + castleName;
+        this.numCastles += 1;
 
-      L.marker(coords, {
-        icon: new L.Icon({
-          iconUrl: '/blue.png',
-          iconSize: [iconSize, iconSize],
-          iconAnchor: [iconSize / 2, iconSize / 2],
-        }),
-      }).addTo(this.map).bindPopup(`
+        L.marker(coords, {
+          icon: new L.Icon({
+            iconUrl: '/blue.png',
+            iconSize: [iconSize, iconSize],
+            iconAnchor: [iconSize / 2, iconSize / 2],
+          }),
+        }).addTo(this.map).bindPopup(`
         <div>
-          <h1>${key}</h1>
+          <h1>${castle.name}</h1>
           <a href="${mapLink}" target="_blank">MapLink</a>
           <a href="${wikiLink}" target="_blank">wikiLink</a>
         </div>
         `);
-    });
+      }
+    );
   }
 
   getCastleKeys(): string[] {
