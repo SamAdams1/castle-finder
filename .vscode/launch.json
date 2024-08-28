@@ -3,6 +3,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "CastleFinderApplication",
+      "request": "launch",
+      "mainClass": "io.sama.castle_finder.CastleFinderApplication",
+      "projectName": "castle-finder"
+    },
+    {
       "name": "ng serve",
       "type": "chrome",
       "request": "launch",
