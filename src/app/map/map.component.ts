@@ -44,7 +44,7 @@ export class MapComponent implements OnInit {
     // add markers with popup to map
     const iconSize = 15;
     Object.keys(this.castlesData).forEach((key) => {
-      const castleName = key.split(',')[0].replace(' ', '_');
+      const castleName = key.split(',')[0].replace(' ', '%20');
       const coords = this.castlesData[key] as L.LatLngTuple;
       const mapLink = 'https://www.google.com/maps?q=' + castleName;
       const wikiLink = 'https://de.wikipedia.org/wiki/' + castleName;
