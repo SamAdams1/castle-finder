@@ -1,12 +1,15 @@
 <div class="belowHeader">
-  <div *ngFor="let castle of castlesKeys" class="d-flex justify-content-center">
+  <div
+    *ngFor="let castle of data | async"
+    class="d-flex justify-content-center"
+  >
     <div class="card w-50">
       <div class="card-body">
-        <h5 class="card-title">{{ castle }}</h5>
+        <h5 class="card-title">{{ castle.name }}</h5>
         <p class="card-text">
-          {{ castlesData[castle] }}
+          {{ castle.latLon }}
         </p>
-        <a class="btn btn-primary" (click)="copyLatLon(castlesData[castle])">
+        <a class="btn btn-primary" (click)="copyLatLon(castle.latLon)">
           Copy LatLon
         </a>
       </div>
