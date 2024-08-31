@@ -1,8 +1,6 @@
 <div class="belowHeader">
-  <div
-    *ngFor="let castle of data | async"
-    class="d-flex justify-content-center"
-  >
+  <!-- *ngFor="let castle of data | async" -->
+  <div *ngFor="let castle of data" class="d-flex justify-content-center">
     <div class="card w-50">
       <div class="card-body">
         <h5 class="card-title">{{ castle.name }}</h5>

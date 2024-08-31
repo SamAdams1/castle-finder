@@ -10,7 +10,8 @@ import { CommonModule, NgFor } from '@angular/common';
   styleUrl: './list.component.css',
 })
 export class ListComponent {
-  data: Promise<[{ id: number; name: String; latLon: number[] }]>;
+  // data: Promise<[{ id: number; name: String; latLon: number[] }]>;
+  data: { id: number; name: String; latLon: number[] }[] = [];
 
   constructor(service: CastleService) {
     this.data = service.getCastlesData();
