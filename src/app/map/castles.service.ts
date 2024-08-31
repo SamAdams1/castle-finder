@@ -5,7 +5,9 @@ import { Injectable } from '@angular/core';
   providedIn: 'root',
 })
 export class CastleService {
-  private apiUrl = 'http://localhost:8080/castles';
+  // private apiUrl = 'http://localhost:8080/castles';
+  private apiUrl =
+    'http://castle-finder-env.eba-fmcmrebx.us-east-1.elasticbeanstalk.com/castles';
 
   ngOnInit(): void {}
 

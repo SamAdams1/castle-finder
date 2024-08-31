@@ -11,21 +11,13 @@ import { CommonModule, NgFor } from '@angular/common';
 })
 export class ListComponent {
   data: Promise<[{ id: number; name: String; latLon: number[] }]>;
-  // castlesKeys;
 
   constructor(service: CastleService) {
-    // this.loadCastles(service)
     this.data = service.getCastlesData();
-
-    // this.castlesKeys = Object.keys(this.castlesData);
   }
 
   copyLatLon(latLon: number[]) {
     console.log(latLon);
     navigator.clipboard.writeText(`${latLon}`);
   }
-
-  // async loadCastles(service: CastleService) {
-  //   this.data = await service.getCastlesData()
-  // }
 }

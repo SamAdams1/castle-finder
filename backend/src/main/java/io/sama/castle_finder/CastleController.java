@@ -16,15 +16,14 @@ public class CastleController {
     this.castleRepository = castleRepository;
   }
 
-  // @RequestMapping("/castles")
-  // public List<Castle> retrieveAllCastles() {
-  // return Arrays.asList(
-  // new Castle(1, "Hogwarts", new Double[] { 14.0, 15.0 }),
-  // new Castle(2, "Narnia", new Double[] { 1.0, 4.0 })
+  @RequestMapping("/test")
+  public List<Castle> retrieveAllCastles() {
+    return Arrays.asList(
+        new Castle(1, "Hogwarts", new Double[] { 14.0, 15.0 }),
+        new Castle(2, "Narnia", new Double[] { 1.0, 4.0 }));
+  }
 
-  // );
-  // }
-  @CrossOrigin(origins = "http://localhost:4200")
+  @CrossOrigin(origins = { "http://localhost:4200", "https://castle-finder.vercel.app/" })
   @RequestMapping("/castles")
   public Iterable<Castle> getAllCastles() {
     return this.castleRepository.findAll();
